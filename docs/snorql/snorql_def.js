@@ -4,7 +4,7 @@ Snorqldef = {
   // overrides Snorql class variables
   vars: {
     // _endpoint: "/works/ld/jpsearch/ep",
-    _endpoint: 'https://dydra.com/ut-digital-archives/soen/sparql',
+    _endpoint: 'https://dydra.com/ut-digital-archives/shoen/sparql',
     _poweredByLink: 'https://kuniezu.web.app',
     _poweredByLabel: '琉球国絵図プロジェクト',
     default_query:

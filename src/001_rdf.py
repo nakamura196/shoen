@@ -16,6 +16,9 @@ from rdflib import URIRef, BNode, Literal, Graph
 from rdflib.namespace import RDF, RDFS, FOAF, XSD
 from rdflib import Namespace
 
+f = open("../settings.yml", "r+")
+prefix = yaml.load(f, Loader=yaml.SafeLoader)["prefix"]
+
 all = Graph()
 
 ###########
@@ -75,6 +78,11 @@ for sheet in geo:
                 all.add(stmt)
 
                 stmt = (parent, RDFS.label, Literal(row["parent:label"]))
+                all.add(stmt)
+
+                parent_id = row[key].split("/")[-1]
+
+                stmt = (subject, URIRef("https://jpsearch.go.jp/term/property#sourceData"), URIRef(prefix + "/curation/" + parent_id + ".json"))
                 all.add(stmt)
 
 
