@@ -28,24 +28,35 @@ geo = json.load(json_open)
 map = {}
 
 for sheet in geo:
+
+    if sheet["label"] in ["セット", "まとめ"]:
+        continue
+
     rows = sheet["value"]
 
+    print(sheet["label"])
     for row in rows:
+        
+
         if "uri" not in row and row["uri"] == "":
             continue
+
+        print(row["uri"])
 
         manifest = row["schema:url"]
 
         if manifest not in map:
             map[manifest] = {
                 "members": [],
-                "label" : row["parent:label"],
+                "label" : "", # row["parent:label"],
                 "uri": row["schema:isPartOf^^uri"]
             }
 
         member_id = row["schema:relatedLink"]
         id = row["dcterms:identifier"]
         url = "http://localhost:3000" + "/item/" + id
+
+        print(id)
 
         label = row["rdfs:label"]
 
@@ -81,10 +92,15 @@ for sheet in geo:
 
         map[manifest]["members"].append(member)
 
-selections = []
+
 
 for manifest in map:
+    selections = []
+    
+    print(manifest)
     item = map[manifest]
+
+    print(len(item["members"]))
 
     label = item["label"]
     selections.append({

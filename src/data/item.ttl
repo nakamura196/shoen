@@ -1,0 +1,133 @@
+@prefix ns1: <http://schema.org/> .
+@prefix ns2: <https://jpsearch.go.jp/term/property#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/data/12890> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[12890]" ;
+    ns1:description "本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_六所宮> ;
+    ns2:sourceInfo <http://example.org/data/12890#sourceinfo> .
+
+<http://example.org/data/13983> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[13983]" ;
+    ns1:description "本文: 并所々免田畠屋敷等事合岩井郡骨寺村以下免田屋敷等＜麓并瀬原村在" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1280-06-30> ;
+    ns2:sourceInfo <http://example.org/data/13983#sourceinfo> .
+
+<http://example.org/data/15112> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[15112]" ;
+    ns1:description "本文: 奥国中尊寺内所職等事御経蔵領骨寺村同出入免田七段＜瀬原村在畠＞" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1284-04-05> ;
+    ns2:sourceInfo <http://example.org/data/15112#sourceinfo> .
+
+<http://example.org/data/17588> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[17588]" ;
+    ns1:description "本文: 以下次第証文等事同御堂免田畠骨寺村＜岩井郡内在之、＞出入免田七" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1291-05-11> ;
+    ns2:sourceInfo <http://example.org/data/17588#sourceinfo> .
+
+<http://example.org/data/25384> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[25384]" ;
+    ns1:description "本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1315-02-08> ;
+    ns2:sourceInfo <http://example.org/data/25384#sourceinfo> .
+
+<http://example.org/data/25385> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[25385]" ;
+    ns1:description "本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1315-02-08> ;
+    ns2:sourceInfo <http://example.org/data/25385#sourceinfo> .
+
+<http://example.org/data/26625> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[26625]" ;
+    ns1:description "本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1318-04-10> ;
+    ns2:sourceInfo <http://example.org/data/26625#sourceinfo> .
+
+<http://example.org/data/30284> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース[30284]" ;
+    ns1:description "本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの" ;
+    ns1:image <> ;
+    ns1:spatial <http://example.org/data/以-341-3_骨寺村> ;
+    ns1:temporal <http://datetime.hutime.org/date/1328-07-30> ;
+    ns2:sourceInfo <http://example.org/data/30284#sourceinfo> .
+
+<http://example.org/data/以-341-1> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "陸奥国骨寺絵図（詳細図）　[表]" ;
+    ns1:description "curation: https://nakamura196.github.io/soen/curation/以-341-1.json" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/,200/0/default.jpg> ;
+    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
+    ns2:sourceInfo <http://example.org/data/以-341-1#sourceinfo> .
+
+<http://example.org/data/以-341-3> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "陸奥国骨寺絵図（簡略図）" ;
+    ns1:description "curation: https://nakamura196.github.io/soen/curation/以-341-3.json" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/,200/0/default.jpg> ;
+    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
+    ns2:sourceInfo <http://example.org/data/以-341-3#sourceinfo> .
+
+<http://datetime.hutime.org/date/1280-06-30> a <https://jpsearch.go.jp/term/type/Time> ;
+    rdfs:label "弘安３年５月２５日" .
+
+<http://datetime.hutime.org/date/1284-04-05> a <https://jpsearch.go.jp/term/type/Time> ;
+    rdfs:label "弘安７年３月１１日" .
+
+<http://datetime.hutime.org/date/1291-05-11> a <https://jpsearch.go.jp/term/type/Time> ;
+    rdfs:label "正応４年４月５日" .
+
+<http://datetime.hutime.org/date/1318-04-10> a <https://jpsearch.go.jp/term/type/Time> ;
+    rdfs:label "文保２年３月 日" .
+
+<http://datetime.hutime.org/date/1328-07-30> a <https://jpsearch.go.jp/term/type/Time> ;
+    rdfs:label "嘉暦３年６月１５日" .
+
+<http://example.org/data/12890#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/13983#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/15112#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/17588#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/25384#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/25385#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/26625#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/30284#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W11> .
+
+<http://example.org/data/以-341-1#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W23> .
+
+<http://example.org/data/以-341-3#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W23> .
+
+<https://api.jsonbin.io/b/60bb30fb92164b68bec09857> a <http://iiif.io/api/presentation/2#Manifest> .
+
+<https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> a <http://iiif.io/api/presentation/2#Manifest> .
+
+<http://datetime.hutime.org/date/1315-02-08> a <https://jpsearch.go.jp/term/type/Time> ;
+    rdfs:label "正和３年１２月２５日" .
+

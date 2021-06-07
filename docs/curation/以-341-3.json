@@ -3,14 +3,14 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://nakamura196.github.io/soen/curation/以-341-3.json",
+    "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
     "@type": "cr:Curation",
-    "label": "陸奥国骨寺絵図（簡略図）",
+    "label": "",
     "selections": [
         {
             "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/range",
             "@type": "sc:Range",
-            "label": "陸奥国骨寺絵図（簡略図）",
+            "label": "",
             "members": [
                 {
                     "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3782,5780,427,781",
@@ -394,7 +394,7 @@
             "within": {
                 "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857",
                 "@type": "sc:Manifest",
-                "label": "陸奥国骨寺絵図（簡略図）"
+                "label": ""
             }
         }
     ],

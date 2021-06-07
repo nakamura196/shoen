@@ -1,0 +1,8 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/data/W11> a <https://jpsearch.go.jp/term/type/Agent> ;
+    rdfs:label "鎌倉遺文フルテキストデータベース" .
+
+<http://example.org/data/W23> a <https://jpsearch.go.jp/term/type/Agent> ;
+    rdfs:label "史料編纂所所蔵荘園絵図摸本データベース" .
+

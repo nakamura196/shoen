@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "http://example.org/data/W11",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Agent"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/W23",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Agent"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "史料編纂所所蔵荘園絵図摸本データベース"
+      }
+    ]
+  }
+]
