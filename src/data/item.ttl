@@ -65,18 +65,24 @@
     ns1:temporal <http://datetime.hutime.org/date/1328-07-30> ;
     ns2:sourceInfo <http://example.org/data/30284#sourceinfo> .
 
+<http://example.org/data/仁-108> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "伯耆国河村郡東郷庄之図" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/full/200,/0/default.jpg> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
+    ns2:sourceInfo <http://example.org/data/仁-108#sourceinfo> .
+
 <http://example.org/data/以-341-1> a <https://jpsearch.go.jp/term/type/Item> ;
     rdfs:label "陸奥国骨寺絵図（詳細図）　[表]" ;
     ns1:description "curation: https://nakamura196.github.io/soen/curation/以-341-1.json" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/,200/0/default.jpg> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> ;
     ns2:sourceInfo <http://example.org/data/以-341-1#sourceinfo> .
 
 <http://example.org/data/以-341-3> a <https://jpsearch.go.jp/term/type/Item> ;
     rdfs:label "陸奥国骨寺絵図（簡略図）" ;
     ns1:description "curation: https://nakamura196.github.io/soen/curation/以-341-3.json" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/,200/0/default.jpg> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> ;
     ns2:sourceInfo <http://example.org/data/以-341-3#sourceinfo> .
 
 <http://datetime.hutime.org/date/1280-06-30> a <https://jpsearch.go.jp/term/type/Time> ;
@@ -118,15 +124,20 @@
 <http://example.org/data/30284#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W11> .
 
+<http://example.org/data/仁-108#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W23> .
+
 <http://example.org/data/以-341-1#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W23> .
 
 <http://example.org/data/以-341-3#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W23> .
 
-<https://api.jsonbin.io/b/60bb30fb92164b68bec09857> a <http://iiif.io/api/presentation/2#Manifest> .
+<https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
-<https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> a <http://iiif.io/api/presentation/2#Manifest> .
+<https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+
+<https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <http://datetime.hutime.org/date/1315-02-08> a <https://jpsearch.go.jp/term/type/Time> ;
     rdfs:label "正和３年１２月２５日" .

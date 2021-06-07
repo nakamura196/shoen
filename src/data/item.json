@@ -1,112 +1,23 @@
 [
   {
-    "@id": "http://example.org/data/25384#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W11"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/25384",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://schema.org/spatial": [
-      {
-        "@id": "http://example.org/data/以-341-3_骨寺村"
-      }
-    ],
-    "http://schema.org/temporal": [
-      {
-        "@id": "http://datetime.hutime.org/date/1315-02-08"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[25384]"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/25384#sourceinfo"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-1#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W23"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "curation: https://nakamura196.github.io/soen/curation/以-341-3.json"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/,200/0/default.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "陸奥国骨寺絵図（簡略図）"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/以-341-3#sourceinfo"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/26625#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W11"
-      }
-    ]
-  },
-  {
-    "@id": "http://datetime.hutime.org/date/1315-02-08",
+    "@id": "http://datetime.hutime.org/date/1291-05-11",
     "@type": [
       "https://jpsearch.go.jp/term/type/Time"
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "正和３年１２月２５日"
+        "@value": "正応４年４月５日"
+      }
+    ]
+  },
+  {
+    "@id": "http://datetime.hutime.org/date/1328-07-30",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Time"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "嘉暦３年６月１５日"
       }
     ]
   },
@@ -118,95 +29,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "文保２年３月 日"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/15112#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W11"
-      }
-    ]
-  },
-  {
-    "@id": "http://datetime.hutime.org/date/1280-06-30",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Time"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "弘安３年５月２５日"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/26625",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://schema.org/spatial": [
-      {
-        "@id": "http://example.org/data/以-341-3_骨寺村"
-      }
-    ],
-    "http://schema.org/temporal": [
-      {
-        "@id": "http://datetime.hutime.org/date/1318-04-10"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[26625]"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/26625#sourceinfo"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/12890",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://schema.org/spatial": [
-      {
-        "@id": "http://example.org/data/以-341-3_六所宮"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[12890]"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/12890#sourceinfo"
       }
     ]
   },
@@ -247,134 +69,6 @@
     ]
   },
   {
-    "@id": "http://example.org/data/以-341-3#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W23"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/30284#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W11"
-      }
-    ]
-  },
-  {
-    "@id": "http://datetime.hutime.org/date/1328-07-30",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Time"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "嘉暦３年６月１５日"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/13983",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: 并所々免田畠屋敷等事合岩井郡骨寺村以下免田屋敷等＜麓并瀬原村在"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://schema.org/spatial": [
-      {
-        "@id": "http://example.org/data/以-341-3_骨寺村"
-      }
-    ],
-    "http://schema.org/temporal": [
-      {
-        "@id": "http://datetime.hutime.org/date/1280-06-30"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[13983]"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/13983#sourceinfo"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/17588#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W11"
-      }
-    ]
-  },
-  {
-    "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1",
-    "@type": [
-      "http://iiif.io/api/presentation/2#Manifest"
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-1",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "curation: https://nakamura196.github.io/soen/curation/以-341-1.json"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/,200/0/default.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "陸奥国骨寺絵図（詳細図）　[表]"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/以-341-1#sourceinfo"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/13983#sourceinfo",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/ソース情報"
-    ],
-    "http://schema.org/provider": [
-      {
-        "@id": "http://example.org/data/W11"
-      }
-    ]
-  },
-  {
     "@id": "http://example.org/data/12890#sourceinfo",
     "@type": [
       "https://jpsearch.go.jp/term/type/ソース情報"
@@ -397,66 +91,108 @@
     ]
   },
   {
-    "@id": "http://datetime.hutime.org/date/1291-05-11",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Time"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "正応４年４月５日"
-      }
-    ]
-  },
-  {
-    "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857",
+    "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json",
     "@type": [
       "http://iiif.io/api/presentation/2#Manifest"
     ]
   },
   {
-    "@id": "http://example.org/data/30284",
+    "@id": "http://datetime.hutime.org/date/1315-02-08",
     "@type": [
-      "https://jpsearch.go.jp/term/type/Item"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://schema.org/spatial": [
-      {
-        "@id": "http://example.org/data/以-341-3_骨寺村"
-      }
-    ],
-    "http://schema.org/temporal": [
-      {
-        "@id": "http://datetime.hutime.org/date/1328-07-30"
-      }
+      "https://jpsearch.go.jp/term/type/Time"
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "鎌倉遺文フルテキストデータベース[30284]"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceInfo": [
-      {
-        "@id": "http://example.org/data/30284#sourceinfo"
+        "@value": "正和３年１２月２５日"
       }
     ]
   },
   {
-    "@id": "http://example.org/data/25385",
+    "@id": "http://example.org/data/15112#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W11"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/25384#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W11"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/13983#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W11"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W23"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W23"
+      }
+    ]
+  },
+  {
+    "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://example.org/data/17588#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W11"
+      }
+    ]
+  },
+  {
+    "@id": "https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://example.org/data/25384",
     "@type": [
       "https://jpsearch.go.jp/term/type/Item"
     ],
     "http://schema.org/description": [
       {
-        "@value": "本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田"
+        "@value": "本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段"
       }
     ],
     "http://schema.org/image": [
@@ -476,12 +212,122 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "鎌倉遺文フルテキストデータベース[25385]"
+        "@value": "鎌倉遺文フルテキストデータベース[25384]"
       }
     ],
     "https://jpsearch.go.jp/term/property#sourceInfo": [
       {
-        "@id": "http://example.org/data/25385#sourceinfo"
+        "@id": "http://example.org/data/25384#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://datetime.hutime.org/date/1280-06-30",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Time"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "弘安３年５月２５日"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-1",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "curation: https://nakamura196.github.io/soen/curation/以-341-1.json"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/,200/0/default.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "陸奥国骨寺絵図（詳細図）　[表]"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/以-341-1#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "curation: https://nakamura196.github.io/soen/curation/以-341-3.json"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/,200/0/default.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "陸奥国骨寺絵図（簡略図）"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/以-341-3#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/26625#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W11"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/full/200,/0/default.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伯耆国河村郡東郷庄之図"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/仁-108#sourceinfo"
       }
     ]
   },
@@ -522,6 +368,17 @@
     ]
   },
   {
+    "@id": "http://example.org/data/以-341-1#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W23"
+      }
+    ]
+  },
+  {
     "@id": "http://datetime.hutime.org/date/1284-04-05",
     "@type": [
       "https://jpsearch.go.jp/term/type/Time"
@@ -529,6 +386,192 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "弘安７年３月１１日"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/12890",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/以-341-3_六所宮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[12890]"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/12890#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/30284#sourceinfo",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/ソース情報"
+    ],
+    "http://schema.org/provider": [
+      {
+        "@id": "http://example.org/data/W11"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/30284",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/以-341-3_骨寺村"
+      }
+    ],
+    "http://schema.org/temporal": [
+      {
+        "@id": "http://datetime.hutime.org/date/1328-07-30"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[30284]"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/30284#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/26625",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/以-341-3_骨寺村"
+      }
+    ],
+    "http://schema.org/temporal": [
+      {
+        "@id": "http://datetime.hutime.org/date/1318-04-10"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[26625]"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/26625#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/25385",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/以-341-3_骨寺村"
+      }
+    ],
+    "http://schema.org/temporal": [
+      {
+        "@id": "http://datetime.hutime.org/date/1315-02-08"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[25385]"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/25385#sourceinfo"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/13983",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Item"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: 并所々免田畠屋敷等事合岩井郡骨寺村以下免田屋敷等＜麓并瀬原村在"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/以-341-3_骨寺村"
+      }
+    ],
+    "http://schema.org/temporal": [
+      {
+        "@id": "http://datetime.hutime.org/date/1280-06-30"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[13983]"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceInfo": [
+      {
+        "@id": "http://example.org/data/13983#sourceinfo"
       }
     ]
   }

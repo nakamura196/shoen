@@ -2,15 +2,15 @@
   {
     "@id": "",
     "@type": [
-      "https://jpsearch.go.jp/term/type/Place",
-      "http://iiif.io/api/presentation/2#Manifest"
+      "http://iiif.io/api/presentation/2#Manifest",
+      "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
       {
-        "@value": "本文: "
+        "@value": "curation: "
       },
       {
-        "@value": "curation: "
+        "@value": "本文: "
       }
     ],
     "http://schema.org/url": [
@@ -25,7 +25,44 @@
     ]
   },
   {
-    "@id": "http://example.org/data/以-341-3_六所宮",
+    "@id": "http://example.org/data/25385",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "curation: "
+      },
+      {
+        "@value": "本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[25385]"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1wx959xfb",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.461763
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.880836
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_檜山河",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
@@ -40,20 +77,20 @@
         "@value": "地理：所在地: 岩手県一関市厳美町"
       },
       {
-        "@value": "架番号: 以-341-3"
+        "@value": "地理：地図: 本寺・栗駒山"
       },
       {
-        "@value": "地理：地図: 本寺・栗駒山"
+        "@value": "架番号: 以-341-3"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "http://geohash.org/xnujxrs5b23z"
+        "@id": "http://geohash.org/xnujxxqdk2h4"
       }
     ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5806,412,671"
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5557,9216,336,668"
       }
     ],
     "http://schema.org/url": [
@@ -63,12 +100,12 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#comment": [
       {
-        "@value": "現在の駒形（根）神社。現岩手県一関市厳美町駒形にある。"
+        "@value": "現本寺川。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "六所宮"
+        "@value": "檜山河"
       }
     ],
     "https://jpsearch.go.jp/term/property#sourceData": [
@@ -78,121 +115,35 @@
     ]
   },
   {
-    "@id": "http://example.org/data/30284",
+    "@id": "http://example.org/data/以-341-3_ミたけたう",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
-      {
-        "@value": "本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの"
-      },
-      {
-        "@value": "curation: "
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[30284]"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/15112",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "curation: "
-      },
-      {
-        "@value": "本文: 奥国中尊寺内所職等事御経蔵領骨寺村同出入免田七段＜瀬原村在畠＞"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[15112]"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-1_不動岩屋",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "架番号: 以-341-1"
-      },
       {
         "@value": "推定した国郡名等: 陸奥国"
-      },
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5743,11643,497,284"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "不動岩屋"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_金峯山",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
       },
       {
         "@value": "原本制作年代: 鎌倉時代"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
+        "@value": "地理：所在地: 岩手県一関市厳美町"
       },
       {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
+        "@value": "地理：地図: 本寺・栗駒山"
       },
       {
         "@value": "架番号: 以-341-3"
       }
     ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujz2mm56zd"
+      }
+    ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7263,6824,604,350"
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7131,5834,1335,685"
       }
     ],
     "http://schema.org/url": [
@@ -200,9 +151,14 @@
         "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
       }
     ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "伝ミタケ堂跡。山岳信仰の聖地であったと考えられている場所であるが、遺構などは見つかっていない。"
+      }
+    ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "金峯山"
+        "@value": "ミたけたう"
       }
     ],
     "https://jpsearch.go.jp/term/property#sourceData": [
@@ -212,9 +168,135 @@
     ]
   },
   {
-    "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1",
+    "@id": "http://example.org/data/仁-108_土海宮",
     "@type": [
-      "http://iiif.io/api/presentation/2#Manifest"
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1wmq34k75"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現鳥取県東伯郡湯梨浜町埴見にある籠守神社にあたるとされる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "土海宮"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_東郷荘",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr606wzhfxv"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "東郷池を中心とし、旧東郷町のほぼ全域と羽合町の西部を除いた地域にあたる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "東郷荘"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_一宮",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1zhc4jr2n"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1799,2989,111,85"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "倭文神社。現鳥取県東伯郡湯梨浜町宮内。御冠山西麓、宮坂に鎮座。旧県社。平安時代後期には伯耆国一宮とされ、江戸時代も一宮大明神などと称された。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "一宮"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
     ]
   },
   {
@@ -232,10 +314,10 @@
     ],
     "http://schema.org/spatial": [
       {
-        "@id": "http://example.org/data/以-341-1_ミタケアト"
+        "@id": "http://example.org/data/以-341-1_石ハ井河"
       },
       {
-        "@id": "http://example.org/data/以-341-1_駒形"
+        "@id": "http://example.org/data/以-341-1_ミタケアト"
       },
       {
         "@id": "http://example.org/data/以-341-1_山王岩屋"
@@ -244,172 +326,20 @@
         "@id": "http://example.org/data/以-341-1_不動岩屋"
       },
       {
-        "@id": "http://example.org/data/以-341-1_石八井河"
+        "@id": "http://example.org/data/以-341-1_大師堂"
       },
       {
-        "@id": "http://example.org/data/以-341-1_大師堂"
+        "@id": "http://example.org/data/以-341-1_駒形"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
+        "@id": "https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "陸奥国骨寺絵図（詳細図）　[表]"
-      }
-    ]
-  },
-  {
-    "@id": "http://geohash.org/xnujxrs5b23z",
-    "http://schema.org/latitude": [
-      {
-        "@value": 38.977392
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": 140.94911
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_岩井河",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      },
-      {
-        "@value": "架番号: 以-341-3"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "http://geohash.org/xnujxqu5y7b4"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2485,8035,274,726"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "現在は磐井川と記す。骨寺村は南限を岩井川としていた。"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "岩井河"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_慈恵塚",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "架番号: 以-341-3"
-      },
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7184,11242,525,189"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "慈恵塚"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_若御子",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "架番号: 以-341-3"
-      },
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4585,11328,963,561"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "若御子"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
       }
     ]
   },
@@ -420,16 +350,16 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "地理：地図: 本寺・栗駒山"
+        "@value": "推定した国郡名等: 陸奥国"
       },
       {
         "@value": "原本制作年代: 鎌倉時代"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
+        "@value": "地理：所在地: 岩手県一関市厳美町"
       },
       {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
+        "@value": "地理：地図: 本寺・栗駒山"
       },
       {
         "@value": "架番号: 以-341-3"
@@ -467,26 +397,181 @@
     ]
   },
   {
-    "@id": "http://example.org/data/25385",
+    "@id": "http://geohash.org/xnujxz1mux7b",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.975025
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.967491
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_西郷",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
       {
-        "@value": "本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田"
+        "@value": "架番号: 仁-108"
       },
       {
-        "@value": "curation: "
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1tftd89qd"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4348,3072,144,113"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": ""
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "鎌倉中期にみえる郷名。初めは東郷（のち東郷庄）に対しての呼称であったと考えられる。郷域は現倉吉市北東端の天神川右岸の小沖積地に比定される。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "鎌倉遺文フルテキストデータベース[25385]"
+        "@value": "西郷"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr606wzhfxv",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.5227613
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.9657831
+      }
+    ]
+  },
+  {
+    "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_岩井河",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "架番号: 以-341-3"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxqu5y7b4"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2485,8035,274,726"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現在は磐井川と記す。骨寺村は南限を岩井川としていた。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "岩井河"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1yrjzy3yv",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.50366
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.876582
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/W11",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxrn2ssx8",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.974109
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.95239
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxr26my0r",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.975792
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.944194
       }
     ]
   },
@@ -500,16 +585,21 @@
         "@value": "推定した国郡名等: 陸奥国"
       },
       {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
+        "@value": "原本制作年代: 鎌倉時代"
       },
       {
-        "@value": "架番号: 以-341-3"
+        "@value": "地理：所在地: 岩手県一関市厳美町"
       },
       {
         "@value": "地理：地図: 本寺・栗駒山"
       },
       {
-        "@value": "原本制作年代: 鎌倉時代"
+        "@value": "架番号: 以-341-3"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxpy4xfrv"
       }
     ],
     "http://schema.org/relatedLink": [
@@ -520,6 +610,11 @@
     "http://schema.org/url": [
       {
         "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "堂山付近に骨寺跡があったとされる。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -534,7 +629,268 @@
     ]
   },
   {
-    "@id": "http://example.org/data/12890",
+    "@id": "http://example.org/data/仁-108_桂尾宮",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1wznr9byd"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2867,1628,58,137"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現東郷神社。八幡神を祀ったことから後に八幡宮と称し、さらに秀尾神社、東郷神社とし、東郷地域の十二社を合祀した。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "桂尾宮"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1zhc4jr2n",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.490343
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.902966
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1yhfn5z3f",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.491029
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.860332
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-1_石ハ井河",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "架番号: 以-341-1"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxqu5y7b4"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=944,4392,316,785"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現在は磐井川と記す。骨寺村は南限を岩井川としていた。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "石ハ井河"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujpk2v1t2p",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.87189
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.944698
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_若御子",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 以-341-3"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxxjx6c0n"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4585,11328,963,561"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "若神子社。石祠がある。現岩手県一関市厳美町若神子の内。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "若御子"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_慈恵塚",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "架番号: 以-341-3"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxzhxu40m"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7184,11242,525,189"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "骨寺村の東端、逆柴山の頂付近にある石積塚。慈恵大師が祀られているとされる。現岩手県一関市厳美町下真坂付近。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "慈恵塚"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1y3814x9y",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.47232
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.868518
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/25384",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
@@ -543,7 +899,7 @@
         "@value": "curation: "
       },
       {
-        "@value": "本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘"
+        "@value": "本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段"
       }
     ],
     "http://schema.org/url": [
@@ -553,7 +909,1057 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "鎌倉遺文フルテキストデータベース[12890]"
+        "@value": "鎌倉遺文フルテキストデータベース[25384]"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: "
+      },
+      {
+        "@value": "curation: https://nakamura196.github.io/soen/curation/以-341-3.json"
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/以-341-3_ミたけたう"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_檜山河"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_白山_寺崎"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_骨寺村"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_堂山"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_山王"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_慈恵塚"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_駒形根"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_御拝殿"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_中沢"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_岩井河"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_六所宮"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_金峯山"
+      },
+      {
+        "@id": "http://example.org/data/以-341-3_若御子"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "陸奥国骨寺絵図（簡略図）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxxjx6c0n",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.97525
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.962261
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1z6s9xm3p",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.477887
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.918846
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_宇野",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1yzgbr7ps"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2126,5139,169,162"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現鳥取県東伯郡湯梨浜町宇野。宇野村。宇谷村の西に位置し、伯耆街道が通る。北は日本海に面して狭小な砂浜があり、ほか三方は丘陵に囲まれる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇野"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_長和田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1wx959xfb"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3152,1335,64,118"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "長和田村。現鳥取県東伯郡湯梨浜町長和田。野花村の西、東郷池の南岸に位置する。羽衣石川下流部の自然堤防上に立地し、倉吉往来が通る。長郷田とも記された。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "長和田"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxpy4xfrv",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.978561
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.9412
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujz2mm56zd",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.981739
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.950963
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_中沢",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "架番号: 以-341-3"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxrn2ssx8"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3990,9513,264,518"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "浅い谷筋。この谷の頭に水神を祀ったとされる宇那根社があったとされるが、場所は特定されていない。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "中沢"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_伯井田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1y7rwmcnh"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3499,3305,114,86"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現鳥取県東伯郡湯梨浜町下浅津・上浅津を含む地域にあたり、そのうちの浅津地区は領家方が下浅津に、地頭方が上浅津になったとされる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伯井田"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1qjgt9b3c",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.408508
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.862306
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_北條内長瀬村",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1yhfn5z3f"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3706,4127,240,114"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "天神川の河口右岸に位置する。北条砂丘の東端にあたり、集落は羽合平野に面する砂丘上に形成された。伯耆街道の宿駅。また当村西端に天神川の渡船場があり、江北村と結ばれていた。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "北條内長瀬村"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_西別所",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1xmbeuks5"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2283,1265,100,85"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "別所村。現鳥取県東伯郡湯梨浜町別所。東郷川左岸に位置し、対岸は方面村、北は中尾村。東郷川最上流の村で、羽衣石山地の山麓台地を占め、南方波関峠を越えると三朝谷に至る。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "西別所"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1rq2057tf",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.410328
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.912501
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxqu5y7b4",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.97329
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.949365
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_北條郷",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1v4npk155"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4540,4102,256,152"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現鳥取県東伯郡北栄町（旧北条町地域）および倉吉市北東部一帯を占めたと考えられる中世の郷。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "北條郷"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/W23",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "史料編纂所所蔵荘園絵図摸本データベース"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_三朝",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1rq2057tf"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3110,559,67,121"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "古代の河村郡三朝郷の郷名を継ぐ中世の郷で、三徳川（三朝川）とその支流小鹿川の流域一帯に比定される。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "三朝"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1ywfe14d7",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.501475
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.882874
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-1_不動岩屋",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "架番号: 以-341-1"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxz1mux7b"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5743,11643,497,284"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "北側の山の中腹にある岩屋。現岩手県一関市厳美町下真坂付近。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "不動岩屋"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_馬野",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1ywfe14d7"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2104,4164,112,151"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "東郷池北東の御冠山に続く小丘陵先端、橋津の東背後に馬ノ山があり、その丘陵一帯と考えられる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "馬野"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_長江",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1y3814x9y"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4177,2550,201,186"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "長江村。現鳥取県東伯郡湯梨浜町長江。門田村の北、東郷池の西方に位置する。大平山北麓にあたる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "長江"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-1_山王岩屋",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "架番号: 以-341-1"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujy935r9z8"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3774,2654,267,578"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "山王窟。現岩手県一関市厳美町本寺地区内にある。その西の境にある切り立った岩山。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "山王岩屋"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1wmq34k75",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.448956
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.877092
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_松尾社",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1wxswfyz4"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3381,1973,114,77"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現鳥取県東伯郡湯梨浜町野花。西ノ上に鎮座。旧村社。祭神別雷命・大山咋神など一一柱。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "松尾社"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/26625",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "curation: "
+      },
+      {
+        "@value": "本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[26625]"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_金峯山",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "架番号: 以-341-3"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujz2mm56zd"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7263,6824,604,350"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "ミタケ堂があったと考えられる。現在は山そのものがミタケドウと呼ばれている。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "金峯山"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1yzgbr7ps",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.506499
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.895852
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_大湊宮",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1yrjzy3yv"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3125,4891,138,70"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現鳥取県東伯郡湯梨浜町橋津。橋津のほぼ中央に鎮座。旧郷社で、祭神は速秋津彦命・速秋津姫命など五柱。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大湊宮"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1wznr9byd",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.459666
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.899048
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxquuscrn",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.973406
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.95034
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: "
+      },
+      {
+        "@value": "curation: "
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "http://example.org/data/仁-108_三朝"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_北條郷"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_一宮"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_長江"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_馬野"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_西郷"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_長和田"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_伯井田"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_西別所"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_北條内長瀬村"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_竹田"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_大湊宮"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_東郷荘"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_宇野"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_笏賀"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_松尾社"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_土海宮"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_野方"
+      },
+      {
+        "@id": "http://example.org/data/仁-108_桂尾宮"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伯耆国河村郡東郷庄之図"
       }
     ]
   },
@@ -564,19 +1970,19 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
+        "@value": "推定した国郡名等: 陸奥国"
       },
       {
         "@value": "原本制作年代: 鎌倉時代"
       },
       {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
         "@value": "架番号: 以-341-1"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
+        "@value": "地理：地図: 本寺・栗駒山"
       }
     ],
     "http://schema.org/geo": [
@@ -611,14 +2017,11 @@
     ]
   },
   {
-    "@id": "http://example.org/data/以-341-1_山王岩屋",
+    "@id": "http://example.org/data/以-341-1_大師堂",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
       {
         "@value": "架番号: 以-341-1"
       },
@@ -626,15 +2029,23 @@
         "@value": "推定した国郡名等: 陸奥国"
       },
       {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
         "@value": "地理：所在地: 岩手県一関市厳美町"
       },
       {
         "@value": "地理：地図: 本寺・栗駒山"
       }
     ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxzhxu40m"
+      }
+    ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3774,2654,267,578"
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7666,11607,432,204"
       }
     ],
     "http://schema.org/url": [
@@ -642,186 +2053,19 @@
         "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
       }
     ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "慈恵塚。骨寺村の東端、逆柴山の頂付近にある石積塚。慈恵大師が祀られているとされる。現岩手県一関市厳美町下真坂付近。"
+      }
+    ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "山王岩屋"
+        "@value": "大師堂"
       }
     ],
     "https://jpsearch.go.jp/term/property#sourceData": [
       {
         "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/17588",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: 以下次第証文等事同御堂免田畠骨寺村＜岩井郡内在之、＞出入免田七"
-      },
-      {
-        "@value": "curation: "
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": ""
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース[17588]"
-      }
-    ]
-  },
-  {
-    "@id": "http://geohash.org/xnujxquuscrn",
-    "http://schema.org/latitude": [
-      {
-        "@value": 38.973406
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": 140.95034
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "本文: "
-      },
-      {
-        "@value": "curation: https://nakamura196.github.io/soen/curation/以-341-3.json"
-      }
-    ],
-    "http://schema.org/spatial": [
-      {
-        "@id": "http://example.org/data/以-341-3_慈恵塚"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_白山_寺崎"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_金峯山"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_骨寺村"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_駒形根"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_檜山河"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_御拝殿"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_山王"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_若御子"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_中沢"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_六所宮"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_堂山"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_岩井河"
-      },
-      {
-        "@id": "http://example.org/data/以-341-3_ミたけたう"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "陸奥国骨寺絵図（簡略図）"
-      }
-    ]
-  },
-  {
-    "@id": "http://geohash.org/xnujpk2v1t2p",
-    "http://schema.org/latitude": [
-      {
-        "@value": 38.87189
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": 140.944698
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_白山_寺崎",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "架番号: 以-341-3"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3251,5823,494,703"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "白山_寺崎"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/W11",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "鎌倉遺文フルテキストデータベース"
       }
     ]
   },
@@ -850,13 +2094,74 @@
     ]
   },
   {
-    "@id": "http://example.org/data/25384",
+    "@id": "http://geohash.org/xnujxxqdk2h4",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.975759
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.963704
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/17588",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
       {
-        "@value": "本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段"
+        "@value": "curation: "
+      },
+      {
+        "@value": "本文: 以下次第証文等事同御堂免田畠骨寺村＜岩井郡内在之、＞出入免田七"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[17588]"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/30284",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "curation: "
+      },
+      {
+        "@value": "本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鎌倉遺文フルテキストデータベース[30284]"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/15112",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "本文: 奥国中尊寺内所職等事御経蔵領骨寺村同出入免田七段＜瀬原村在畠＞"
       },
       {
         "@value": "curation: "
@@ -869,147 +2174,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "鎌倉遺文フルテキストデータベース[25384]"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_御拝殿",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "架番号: 以-341-3"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      },
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5838,11253,741,441"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "御拝殿"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/W23",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "史料編纂所所蔵荘園絵図摸本データベース"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-1_石八井河",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "架番号: 以-341-1"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      },
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=944,4392,316,785"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "石八井河"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_中沢",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "架番号: 以-341-3"
-      },
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3990,9513,264,518"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "中沢"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+        "@value": "鎌倉遺文フルテキストデータベース[15112]"
       }
     ]
   },
@@ -1020,19 +2185,24 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
         "@value": "架番号: 以-341-3"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
       },
       {
         "@value": "原本制作年代: 鎌倉時代"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujy935r9z8"
       }
     ],
     "http://schema.org/relatedLink": [
@@ -1043,6 +2213,11 @@
     "http://schema.org/url": [
       {
         "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "山王岩屋（窟）。現岩手県一関市厳美町本寺地区内にある。その西の境にある切り立った岩山。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -1057,14 +2232,37 @@
     ]
   },
   {
-    "@id": "http://example.org/data/以-341-3_檜山河",
+    "@id": "http://geohash.org/wyr1wxswfyz4",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.462316
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.885702
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1y7rwmcnh",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.482799
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.878963
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_六所宮",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
       {
         "@value": "地理：地図: 本寺・栗駒山"
       },
@@ -1072,15 +2270,23 @@
         "@value": "架番号: 以-341-3"
       },
       {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
         "@value": "原本制作年代: 鎌倉時代"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxrs5b23z"
       }
     ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5557,9216,336,668"
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5806,412,671"
       }
     ],
     "http://schema.org/url": [
@@ -1088,9 +2294,14 @@
         "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
       }
     ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "現在の駒形（根）神社。現岩手県一関市厳美町駒形にある。"
+      }
+    ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "檜山河"
+        "@value": "六所宮"
       }
     ],
     "https://jpsearch.go.jp/term/property#sourceData": [
@@ -1100,7 +2311,83 @@
     ]
   },
   {
-    "@id": "http://example.org/data/26625",
+    "@id": "http://geohash.org/xnujxzhxu40m",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.975341
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.971928
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_野方",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      },
+      {
+        "@value": "架番号: 仁-108"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1z6s9xm3p"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1556,1661,156,100"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "野方村のことか。現鳥取県東伯郡湯梨浜町野方。方地村の南西、舎人川と白石川の合流点南に位置し、山麓台地に集落が開ける。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "野方"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujy935r9z8",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.986926
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.91235
+      }
+    ]
+  },
+  {
+    "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857",
+    "@type": [
+      "http://iiif.io/api/presentation/2#Manifest"
+    ]
+  },
+  {
+    "@id": "http://example.org/data/12890",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
@@ -1109,7 +2396,7 @@
         "@value": "curation: "
       },
       {
-        "@value": "本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八"
+        "@value": "本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘"
       }
     ],
     "http://schema.org/url": [
@@ -1119,63 +2406,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "鎌倉遺文フルテキストデータベース[26625]"
-      }
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-1_大師堂",
-    "@type": [
-      "https://jpsearch.go.jp/term/type/Place"
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "原本制作年代: 鎌倉時代"
-      },
-      {
-        "@value": "架番号: 以-341-1"
-      },
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "推定した国郡名等: 陸奥国"
-      },
-      {
-        "@value": "地理：地図: 本寺・栗駒山"
-      }
-    ],
-    "http://schema.org/relatedLink": [
-      {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7666,11607,432,204"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "大師堂"
-      }
-    ],
-    "https://jpsearch.go.jp/term/property#sourceData": [
-      {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-1.json"
-      }
-    ]
-  },
-  {
-    "@id": "http://geohash.org/xnujxqu5y7b4",
-    "http://schema.org/latitude": [
-      {
-        "@value": 38.97329
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": 140.949365
+        "@value": "鎌倉遺文フルテキストデータベース[12890]"
       }
     ]
   },
@@ -1186,19 +2417,19 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "推定した国郡名等: 陸奥国"
-      },
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
+        "@value": "地理：地図: 本寺・栗駒山"
       },
       {
         "@value": "架番号: 以-341-3"
       },
       {
-        "@value": "地理：地図: 本寺・栗駒山"
+        "@value": "推定した国郡名等: 陸奥国"
       },
       {
         "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
       }
     ],
     "http://schema.org/geo": [
@@ -1233,7 +2464,7 @@
     ]
   },
   {
-    "@id": "http://example.org/data/以-341-1_ミタケアト",
+    "@id": "http://example.org/data/以-341-3_白山_寺崎",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
@@ -1245,13 +2476,246 @@
         "@value": "地理：地図: 本寺・栗駒山"
       },
       {
+        "@value": "架番号: 以-341-3"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
         "@value": "原本制作年代: 鎌倉時代"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxr26my0r"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3251,5823,494,703"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "白山社。石川県の白山比咩神を講じ迎えたところとされる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "白山_寺崎"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1xmbeuks5",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.452176
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.913228
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1tftd89qd",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.434091
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.854019
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/仁-108_竹田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "架番号: 仁-108"
+      },
+      {
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wyr1qjgt9b3c"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4418,584,127,167"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "河村郡竹田郷の郷名を継ぐ中世の郷。竹田川流域の竹田谷から竹田川と三徳川の合流点付近に比定される。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "竹田"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxrs5b23z",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.977392
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.94911
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1zwbnqy6e",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.502053
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.923633
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-3_御拝殿",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
+      },
+      {
+        "@value": "地理：地図: 本寺・栗駒山"
+      },
+      {
+        "@value": "架番号: 以-341-3"
+      },
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujxyvskry0"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5838,11253,741,441"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "慈恵大師拝殿。慈恵塚の山裾にある神社で、慈恵大師を祀っている。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "御拝殿"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#sourceData": [
+      {
+        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wyr1v4npk155",
+    "http://schema.org/latitude": [
+      {
+        "@value": 35.476104
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 133.821892
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/xnujxyvskry0",
+    "http://schema.org/latitude": [
+      {
+        "@value": 38.973397
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 140.97332
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/data/以-341-1_ミタケアト",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "推定した国郡名等: 陸奥国"
+      },
+      {
+        "@value": "原本制作年代: 鎌倉時代"
+      },
+      {
+        "@value": "地理：所在地: 岩手県一関市厳美町"
       },
       {
         "@value": "架番号: 以-341-1"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
+        "@value": "地理：地図: 本寺・栗駒山"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/xnujz2mm56zd"
       }
     ],
     "http://schema.org/relatedLink": [
@@ -1262,6 +2726,11 @@
     "http://schema.org/url": [
       {
         "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "伝ミタケ堂跡。山岳信仰の聖地であったと考えられている場所であるが、遺構などは見つかっていない。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -1276,51 +2745,46 @@
     ]
   },
   {
-    "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857",
-    "@type": [
-      "http://iiif.io/api/presentation/2#Manifest"
-    ]
-  },
-  {
-    "@id": "http://example.org/data/以-341-3_ミたけたう",
+    "@id": "http://example.org/data/仁-108_笏賀",
     "@type": [
       "https://jpsearch.go.jp/term/type/Place"
     ],
     "http://schema.org/description": [
       {
-        "@value": "原本制作年代: 鎌倉時代"
+        "@value": "架番号: 仁-108"
       },
       {
-        "@value": "推定した国郡名等: 陸奥国"
-      },
+        "@value": "推定した国郡名等: 伯耆国河村郡"
+      }
+    ],
+    "http://schema.org/geo": [
       {
-        "@value": "地理：地図: 本寺・栗駒山"
-      },
-      {
-        "@value": "地理：所在地: 岩手県一関市厳美町"
-      },
-      {
-        "@value": "架番号: 以-341-3"
+        "@id": "http://geohash.org/wyr1zwbnqy6e"
       }
     ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7131,5834,1335,685"
+        "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1175,2769,197,114"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857"
+        "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": "伯耆国の最東端、日本海に突出する甲亀山両側の地域と、その背後の丘陵・山地を占めたと推定される摂関家領庄園。東郷庄の東に接していた。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "ミたけたう"
+        "@value": "笏賀"
       }
     ],
     "https://jpsearch.go.jp/term/property#sourceData": [
       {
-        "@id": "https://nakamura196.github.io/shoen/curation/以-341-3.json"
+        "@id": "https://nakamura196.github.io/shoen/curation/仁-108.json"
       }
     ]
   }
