@@ -16,7 +16,10 @@ from rdflib import URIRef, BNode, Literal, Graph
 from rdflib.namespace import RDF, RDFS, FOAF, XSD
 from rdflib import Namespace
 
-prefix = "https://nakamura196.github.io/shoen"
+f = open("../settings.yml", "r+")
+config = yaml.load(f, Loader=yaml.SafeLoader)
+app = config["app"]
+prefix = config["prefix"]
 
 # all = Graph()
 
@@ -54,7 +57,7 @@ for sheet in geo:
 
         member_id = row["schema:relatedLink"]
         id = row["dcterms:identifier"]
-        url = "http://localhost:3000" + "/item/" + id
+        url = app + "/item/" + id
 
         print(id)
 
