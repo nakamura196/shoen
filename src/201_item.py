@@ -11,7 +11,7 @@ import yaml
 import requests
 import sys
 import argparse
-
+import hashlib
 import utils
 
 from rdflib import URIRef, BNode, Literal, Graph
@@ -31,7 +31,6 @@ args = parser.parse_args()    # 4. 引数を解析
 
 f = open("../settings.yml", "r+")
 prefix = yaml.load(f, Loader=yaml.SafeLoader)["prefix"]
-
 import re
 
 def cleanhtml(raw_html):
@@ -67,10 +66,27 @@ def handleManifest(cn, manifest):
 
     resources = annolist["resources"]
 
-    annos = {}
+    annos = []
 
     for r in resources:
-        annos[cleanhtml(r["resource"][0]["chars"])] = r["on"][0]["selector"]["default"]["value"].split("=")[1]
+        obj = {
+            "canvas": r["on"][0]["full"],
+            "xywh": r["on"][0]["selector"]["default"]["value"].split("xywh=")[1]
+        }
+        for res in r["resource"]:
+            type_ = res["@type"]
+            value = cleanhtml(res["chars"])
+            if type_ == "dctypes:Text":
+                obj["label"] = value.replace("&nbsp;", "")
+            if type_ == "oa:Tag":
+                if "loc:" in value:
+                    obj["loc"] = value.replace("loc:", "")
+                else:
+                    obj["tag"] = value
+
+            obj["key"] = obj["loc"] if "loc" in obj else obj["label"]
+
+        annos.append(obj)
 
     return annos
 
@@ -82,22 +98,24 @@ print(settings2)
 
 manifest = settings2["manifest"]
 
+image = settings2["image"]
+
+
 annos = handleManifest(cn, manifest)
 
 print(annos)
 
 df = pd.read_excel("item/{}/place.xlsx".format(cn), sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
-print(df)
-
 r_count = len(df.index)
 c_count = len(df.columns)
 
-print("aaaaaa", r_count, c_count)
+print("table", r_count, c_count)
 
-# uri	rdfs:label	description:推定した国郡名等	schema:description	schema:longitude	schema:latitude	schema:geo^^uri	xywh	schema:url	canvas	schema:relatedLink	schema:isPartOf^^uri
 rows = []
-rows.append(["uri", "dcterms:identifier", "ID", "description:架番号", "rdfs:label", "description:推定した国郡名等", "schema:description", "schema:longitude", "schema:latitude", "schema:geo^^uri", "xywh", "schema:url", "canvas", "schema:relatedLink", "schema:isPartOf^^uri"])
+rows.append(["uri", "dcterms:identifier", "ID", "description:架番号", "rdfs:label", "description:表記","schema:category","description:推定した国郡名等", "schema:description", "schema:longitude", "schema:latitude", "schema:geo^^uri", "xywh", "schema:url", "canvas", "schema:relatedLink", "schema:image", "schema:isPartOf^^uri"])
+
+map_ = {}
 
 for i in range(1, r_count):
 
@@ -106,31 +124,55 @@ for i in range(1, r_count):
     cn2 = df.iloc[i, 12] + "-" + df.iloc[i, 13]
 
     label = df.iloc[i, 17]
-    assume = df.iloc[i, 18]
-    exp = df.iloc[i, 19]
-    kml = df.iloc[i, 20]
-    
-    text = kml.split("<coordinates>")[1].split(",0</coordinates>")[0].split(",")
-    lat = text[1]
-    long = text[0]
 
-    print(lat, long)
+    map_[label] = {
+        "index": i,
+        "value": df
+    }
 
-    id = cn2+"_"+label
+print(map_)
 
-    canvas = "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1"
+for anno in annos:
 
-    
+    label = anno["label"]
 
-    if label not in annos:
-        xywh = ""
-        member = ""
+    key = anno["key"]
+
+    canvas = anno["canvas"]
+
+    xywh = anno["xywh"]
+
+    member = canvas + "#xywh=" + xywh
+
+    category = anno["tag"] if "tag" in anno else ""
+
+    if key in map_:
+        obj = map_[key]
+        i  = obj["index"]
+        df = obj["value"]
+
+        assume = df.iloc[i, 18]
+        exp = df.iloc[i, 19]
+        kml = df.iloc[i, 20]
+        
+        text = kml.split("<coordinates>")[1].split(",0</coordinates>")[0].split(",")
+        lat = text[1]
+        long = text[0]
     else:
-        xywh = annos[label]
-        member = canvas + "#xywh=" + xywh
+        assume = ""
+        exp = ""
+        long = ""
+        lat = ""
 
-    rows.append(["http://example.org/data/"+id, id, "", cn2, label, assume, exp, long, lat, "", xywh, prefix + "/iiif/" + cn + "/manifest.json", canvas, member, "http://example.org/data/"+cn])
+    id = hashlib.md5((cn + member).encode('utf-8')).hexdigest()
 
+    cn2 = cn
+
+    desc = label
+
+    thumbnail = image + "/" + xywh + "/200,/0/default.jpg"
+    
+    rows.append(["http://example.org/data/"+id, id, "", cn2, key, desc, category, assume, exp, long, lat, "", xywh, prefix + "/iiif/" + cn + "/manifest.json", canvas, member, thumbnail, "http://example.org/data/"+cn])
 
 with open("item/{}/data.csv".format(cn), 'w') as f:
     writer = csv.writer(f)

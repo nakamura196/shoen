@@ -3,680 +3,370 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://example.org/data/12890> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[12890]" ;
-    ns1:description "curation: ",
-        "本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘" ;
-    ns1:url <> .
-
-<http://example.org/data/13983> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[13983]" ;
-    ns1:description "curation: ",
-        "本文: 并所々免田畠屋敷等事合岩井郡骨寺村以下免田屋敷等＜麓并瀬原村在" ;
-    ns1:url <> .
-
-<http://example.org/data/15112> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[15112]" ;
-    ns1:description "curation: ",
-        "本文: 奥国中尊寺内所職等事御経蔵領骨寺村同出入免田七段＜瀬原村在畠＞" ;
-    ns1:url <> .
-
-<http://example.org/data/17588> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[17588]" ;
-    ns1:description "curation: ",
-        "本文: 以下次第証文等事同御堂免田畠骨寺村＜岩井郡内在之、＞出入免田七" ;
-    ns1:url <> .
-
-<http://example.org/data/25384> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[25384]" ;
-    ns1:description "curation: ",
-        "本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段" ;
-    ns1:url <> .
-
-<http://example.org/data/25385> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[25385]" ;
-    ns1:description "curation: ",
-        "本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田" ;
-    ns1:url <> .
-
-<http://example.org/data/26625> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[26625]" ;
-    ns1:description "curation: ",
-        "本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八" ;
-    ns1:url <> .
-
-<http://example.org/data/30284> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース[30284]" ;
-    ns1:description "curation: ",
-        "本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの" ;
-    ns1:url <> .
-
-<http://example.org/data/W11> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "鎌倉遺文フルテキストデータベース" .
-
-<http://example.org/data/W23> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "史料編纂所所蔵荘園絵図摸本データベース" .
-
-<http://example.org/data/仁-108> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "伯耆国河村郡東郷庄之図" ;
-    ns1:description "curation: ",
-        "本文: " ;
-    ns1:spatial <http://example.org/data/仁-108_一宮>,
-        <http://example.org/data/仁-108_三朝>,
-        <http://example.org/data/仁-108_伯井田>,
-        <http://example.org/data/仁-108_北條内長瀬村>,
-        <http://example.org/data/仁-108_北條郷>,
-        <http://example.org/data/仁-108_土海宮>,
-        <http://example.org/data/仁-108_大湊宮>,
-        <http://example.org/data/仁-108_宇野>,
-        <http://example.org/data/仁-108_東郷荘>,
-        <http://example.org/data/仁-108_松尾社>,
-        <http://example.org/data/仁-108_桂尾宮>,
-        <http://example.org/data/仁-108_竹田>,
-        <http://example.org/data/仁-108_笏賀>,
-        <http://example.org/data/仁-108_西別所>,
-        <http://example.org/data/仁-108_西郷>,
-        <http://example.org/data/仁-108_野方>,
-        <http://example.org/data/仁-108_長和田>,
-        <http://example.org/data/仁-108_長江>,
-        <http://example.org/data/仁-108_馬野> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> .
-
-<http://example.org/data/以-341-1> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "陸奥国骨寺絵図（詳細図）　[表]" ;
-    ns1:description "curation: https://nakamura196.github.io/soen/curation/以-341-1.json",
-        "本文: " ;
-    ns1:spatial <http://example.org/data/以-341-1_ミタケアト>,
-        <http://example.org/data/以-341-1_不動岩屋>,
-        <http://example.org/data/以-341-1_大師堂>,
-        <http://example.org/data/以-341-1_山王岩屋>,
-        <http://example.org/data/以-341-1_石ハ井河>,
-        <http://example.org/data/以-341-1_駒形> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> .
-
-<http://example.org/data/以-341-3> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "陸奥国骨寺絵図（簡略図）" ;
-    ns1:description "curation: https://nakamura196.github.io/soen/curation/以-341-3.json",
-        "本文: " ;
-    ns1:spatial <http://example.org/data/以-341-3_ミたけたう>,
-        <http://example.org/data/以-341-3_中沢>,
-        <http://example.org/data/以-341-3_六所宮>,
-        <http://example.org/data/以-341-3_堂山>,
-        <http://example.org/data/以-341-3_山王>,
-        <http://example.org/data/以-341-3_岩井河>,
-        <http://example.org/data/以-341-3_御拝殿>,
-        <http://example.org/data/以-341-3_慈恵塚>,
-        <http://example.org/data/以-341-3_檜山河>,
-        <http://example.org/data/以-341-3_白山_寺崎>,
-        <http://example.org/data/以-341-3_若御子>,
-        <http://example.org/data/以-341-3_金峯山>,
-        <http://example.org/data/以-341-3_駒形根>,
-        <http://example.org/data/以-341-3_骨寺村> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> .
-
-<http://example.org/data/仁-108_一宮> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "一宮" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1zhc4jr2n> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1799,2989,111,85> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "倭文神社。現鳥取県東伯郡湯梨浜町宮内。御冠山西麓、宮坂に鎮座。旧県社。平安時代後期には伯耆国一宮とされ、江戸時代も一宮大明神などと称された。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_三朝> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "三朝" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1rq2057tf> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3110,559,67,121> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "古代の河村郡三朝郷の郷名を継ぐ中世の郷で、三徳川（三朝川）とその支流小鹿川の流域一帯に比定される。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_伯井田> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "伯井田" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1y7rwmcnh> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3499,3305,114,86> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現鳥取県東伯郡湯梨浜町下浅津・上浅津を含む地域にあたり、そのうちの浅津地区は領家方が下浅津に、地頭方が上浅津になったとされる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_北條内長瀬村> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "北條内長瀬村" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1yhfn5z3f> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3706,4127,240,114> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "天神川の河口右岸に位置する。北条砂丘の東端にあたり、集落は羽合平野に面する砂丘上に形成された。伯耆街道の宿駅。また当村西端に天神川の渡船場があり、江北村と結ばれていた。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_北條郷> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "北條郷" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1v4npk155> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4540,4102,256,152> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現鳥取県東伯郡北栄町（旧北条町地域）および倉吉市北東部一帯を占めたと考えられる中世の郷。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_土海宮> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "土海宮" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1wmq34k75> ;
-    ns1:relatedLink <> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現鳥取県東伯郡湯梨浜町埴見にある籠守神社にあたるとされる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_大湊宮> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "大湊宮" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1yrjzy3yv> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3125,4891,138,70> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現鳥取県東伯郡湯梨浜町橋津。橋津のほぼ中央に鎮座。旧郷社で、祭神は速秋津彦命・速秋津姫命など五柱。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_宇野> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "宇野" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1yzgbr7ps> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2126,5139,169,162> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現鳥取県東伯郡湯梨浜町宇野。宇野村。宇谷村の西に位置し、伯耆街道が通る。北は日本海に面して狭小な砂浜があり、ほか三方は丘陵に囲まれる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_東郷荘> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "東郷荘" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr606wzhfxv> ;
-    ns1:relatedLink <> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "東郷池を中心とし、旧東郷町のほぼ全域と羽合町の西部を除いた地域にあたる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_松尾社> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "松尾社" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1wxswfyz4> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3381,1973,114,77> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現鳥取県東伯郡湯梨浜町野花。西ノ上に鎮座。旧村社。祭神別雷命・大山咋神など一一柱。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_桂尾宮> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "桂尾宮" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1wznr9byd> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2867,1628,58,137> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "現東郷神社。八幡神を祀ったことから後に八幡宮と称し、さらに秀尾神社、東郷神社とし、東郷地域の十二社を合祀した。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_竹田> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "竹田" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1qjgt9b3c> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4418,584,127,167> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "河村郡竹田郷の郷名を継ぐ中世の郷。竹田川流域の竹田谷から竹田川と三徳川の合流点付近に比定される。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_笏賀> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "笏賀" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1zwbnqy6e> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1175,2769,197,114> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "伯耆国の最東端、日本海に突出する甲亀山両側の地域と、その背後の丘陵・山地を占めたと推定される摂関家領庄園。東郷庄の東に接していた。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_西別所> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "西別所" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1xmbeuks5> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2283,1265,100,85> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "別所村。現鳥取県東伯郡湯梨浜町別所。東郷川左岸に位置し、対岸は方面村、北は中尾村。東郷川最上流の村で、羽衣石山地の山麓台地を占め、南方波関峠を越えると三朝谷に至る。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_西郷> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "西郷" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1tftd89qd> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4348,3072,144,113> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "鎌倉中期にみえる郷名。初めは東郷（のち東郷庄）に対しての呼称であったと考えられる。郷域は現倉吉市北東端の天神川右岸の小沖積地に比定される。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_野方> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "野方" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1z6s9xm3p> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1556,1661,156,100> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "野方村のことか。現鳥取県東伯郡湯梨浜町野方。方地村の南西、舎人川と白石川の合流点南に位置し、山麓台地に集落が開ける。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_長和田> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "長和田" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1wx959xfb> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3152,1335,64,118> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "長和田村。現鳥取県東伯郡湯梨浜町長和田。野花村の西、東郷池の南岸に位置する。羽衣石川下流部の自然堤防上に立地し、倉吉往来が通る。長郷田とも記された。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_長江> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "長江" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1y3814x9y> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4177,2550,201,186> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "長江村。現鳥取県東伯郡湯梨浜町長江。門田村の北、東郷池の西方に位置する。大平山北麓にあたる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/仁-108_馬野> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "馬野" ;
-    ns1:description "推定した国郡名等: 伯耆国河村郡",
-        "架番号: 仁-108" ;
-    ns1:geo <http://geohash.org/wyr1ywfe14d7> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2104,4164,112,151> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> ;
-    rdfs:comment "東郷池北東の御冠山に続く小丘陵先端、橋津の東背後に馬ノ山があり、その丘陵一帯と考えられる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/仁-108.json> .
-
-<http://example.org/data/以-341-1_ミタケアト> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "ミタケアト" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-1" ;
-    ns1:geo <http://geohash.org/xnujz2mm56zd> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7752,3441,386,650> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
-    rdfs:comment "伝ミタケ堂跡。山岳信仰の聖地であったと考えられている場所であるが、遺構などは見つかっていない。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-1.json> .
-
-<http://example.org/data/以-341-1_不動岩屋> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "不動岩屋" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-1" ;
-    ns1:geo <http://geohash.org/xnujxz1mux7b> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5743,11643,497,284> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
-    rdfs:comment "北側の山の中腹にある岩屋。現岩手県一関市厳美町下真坂付近。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-1.json> .
-
-<http://example.org/data/以-341-1_大師堂> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "大師堂" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-1" ;
-    ns1:geo <http://geohash.org/xnujxzhxu40m> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7666,11607,432,204> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
-    rdfs:comment "慈恵塚。骨寺村の東端、逆柴山の頂付近にある石積塚。慈恵大師が祀られているとされる。現岩手県一関市厳美町下真坂付近。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-1.json> .
-
-<http://example.org/data/以-341-1_山王岩屋> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "山王岩屋" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-1" ;
-    ns1:geo <http://geohash.org/xnujy935r9z8> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3774,2654,267,578> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
-    rdfs:comment "山王窟。現岩手県一関市厳美町本寺地区内にある。その西の境にある切り立った岩山。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-1.json> .
-
-<http://example.org/data/以-341-1_石ハ井河> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "石ハ井河" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-1" ;
-    ns1:geo <http://geohash.org/xnujxqu5y7b4> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=944,4392,316,785> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
-    rdfs:comment "現在は磐井川と記す。骨寺村は南限を岩井川としていた。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-1.json> .
-
-<http://example.org/data/以-341-1_駒形> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "駒形" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-1" ;
-    ns1:geo <http://geohash.org/xnujpk2v1t2p> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3061,628,501,461> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> ;
-    rdfs:comment "勅宣日宮駒形根神社のことと思われる。現宮城県栗原市栗駒沼倉一ノ宮。日本武尊の勧請と伝えられる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-1.json> .
-
-<http://example.org/data/以-341-3_ミたけたう> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "ミたけたう" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujz2mm56zd> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7131,5834,1335,685> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "伝ミタケ堂跡。山岳信仰の聖地であったと考えられている場所であるが、遺構などは見つかっていない。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_中沢> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "中沢" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxrn2ssx8> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3990,9513,264,518> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "浅い谷筋。この谷の頭に水神を祀ったとされる宇那根社があったとされるが、場所は特定されていない。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_六所宮> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "六所宮" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxrs5b23z> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5806,412,671> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "現在の駒形（根）神社。現岩手県一関市厳美町駒形にある。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_堂山> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "堂山" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxpy4xfrv> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3857,5400,496,264> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "堂山付近に骨寺跡があったとされる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_山王> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "山王" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujy935r9z8> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6411,3584,225,196> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "山王岩屋（窟）。現岩手県一関市厳美町本寺地区内にある。その西の境にある切り立った岩山。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_岩井河> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "岩井河" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxqu5y7b4> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2485,8035,274,726> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "現在は磐井川と記す。骨寺村は南限を岩井川としていた。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_御拝殿> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "御拝殿" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxyvskry0> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5838,11253,741,441> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "慈恵大師拝殿。慈恵塚の山裾にある神社で、慈恵大師を祀っている。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_慈恵塚> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "慈恵塚" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxzhxu40m> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7184,11242,525,189> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "骨寺村の東端、逆柴山の頂付近にある石積塚。慈恵大師が祀られているとされる。現岩手県一関市厳美町下真坂付近。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_檜山河> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "檜山河" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxxqdk2h4> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5557,9216,336,668> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "現本寺川。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_白山_寺崎> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "白山_寺崎" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxr26my0r> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3251,5823,494,703> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "白山社。石川県の白山比咩神を講じ迎えたところとされる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_若御子> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "若御子" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxxjx6c0n> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4585,11328,963,561> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "若神子社。石祠がある。現岩手県一関市厳美町若神子の内。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_金峯山> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "金峯山" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujz2mm56zd> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7263,6824,604,350> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "ミタケ堂があったと考えられる。現在は山そのものがミタケドウと呼ばれている。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_駒形根> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "駒形根" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujpk2v1t2p> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=865,266,413,756> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "勅宣日宮駒形根神社のことと思われる。現宮城県栗原市栗駒沼倉一ノ宮。日本武尊の勧請と伝えられる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://example.org/data/以-341-3_骨寺村> a <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "骨寺村" ;
-    ns1:description "原本制作年代: 鎌倉時代",
-        "地理：地図: 本寺・栗駒山",
-        "地理：所在地: 岩手県一関市厳美町",
-        "推定した国郡名等: 陸奥国",
-        "架番号: 以-341-3" ;
-    ns1:geo <http://geohash.org/xnujxquuscrn> ;
-    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3782,5780,427,781> ;
-    ns1:url <https://api.jsonbin.io/b/60bb30fb92164b68bec09857> ;
-    rdfs:comment "現岩手県一関市の西郊、磐井川上流北岸の東流する本寺川流域一帯にあった。厳美町下真坂・要害・沖要害・駒形・中川・本寺などを範囲とする地域に比定される。中世には中尊寺経蔵領で、四至をもち庄園的性格を有したと考えられる。" ;
-    ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-341-3.json> .
-
-<http://geohash.org/wyr1qjgt9b3c> ns1:latitude 3.540851e+01 ;
-    ns1:longitude 1.338623e+02 .
-
-<http://geohash.org/wyr1rq2057tf> ns1:latitude 3.541033e+01 ;
-    ns1:longitude 1.339125e+02 .
-
-<http://geohash.org/wyr1tftd89qd> ns1:latitude 3.543409e+01 ;
-    ns1:longitude 1.33854e+02 .
-
-<http://geohash.org/wyr1v4npk155> ns1:latitude 3.54761e+01 ;
-    ns1:longitude 1.338219e+02 .
-
-<http://geohash.org/wyr1wmq34k75> ns1:latitude 3.544896e+01 ;
-    ns1:longitude 1.338771e+02 .
-
-<http://geohash.org/wyr1wx959xfb> ns1:latitude 3.546176e+01 ;
-    ns1:longitude 1.338808e+02 .
-
-<http://geohash.org/wyr1wxswfyz4> ns1:latitude 3.546232e+01 ;
-    ns1:longitude 1.338857e+02 .
-
-<http://geohash.org/wyr1wznr9byd> ns1:latitude 3.545967e+01 ;
-    ns1:longitude 1.33899e+02 .
-
-<http://geohash.org/wyr1xmbeuks5> ns1:latitude 3.545218e+01 ;
-    ns1:longitude 1.339132e+02 .
-
-<http://geohash.org/wyr1y3814x9y> ns1:latitude 3.547232e+01 ;
-    ns1:longitude 1.338685e+02 .
-
-<http://geohash.org/wyr1y7rwmcnh> ns1:latitude 3.54828e+01 ;
-    ns1:longitude 1.33879e+02 .
-
-<http://geohash.org/wyr1yhfn5z3f> ns1:latitude 3.549103e+01 ;
-    ns1:longitude 1.338603e+02 .
-
-<http://geohash.org/wyr1yrjzy3yv> ns1:latitude 3.550366e+01 ;
-    ns1:longitude 1.338766e+02 .
-
-<http://geohash.org/wyr1ywfe14d7> ns1:latitude 3.550147e+01 ;
-    ns1:longitude 1.338829e+02 .
-
-<http://geohash.org/wyr1yzgbr7ps> ns1:latitude 3.55065e+01 ;
-    ns1:longitude 1.338959e+02 .
-
-<http://geohash.org/wyr1z6s9xm3p> ns1:latitude 3.547789e+01 ;
-    ns1:longitude 1.339188e+02 .
-
-<http://geohash.org/wyr1zhc4jr2n> ns1:latitude 3.549034e+01 ;
-    ns1:longitude 1.33903e+02 .
-
-<http://geohash.org/wyr1zwbnqy6e> ns1:latitude 3.550205e+01 ;
-    ns1:longitude 1.339236e+02 .
-
-<http://geohash.org/wyr606wzhfxv> ns1:latitude 3.552276e+01 ;
-    ns1:longitude 1.339658e+02 .
-
-<http://geohash.org/xnujxpy4xfrv> ns1:latitude 3.897856e+01 ;
-    ns1:longitude 1.409412e+02 .
-
-<http://geohash.org/xnujxquuscrn> ns1:latitude 3.897341e+01 ;
-    ns1:longitude 1.409503e+02 .
-
-<http://geohash.org/xnujxr26my0r> ns1:latitude 3.897579e+01 ;
-    ns1:longitude 1.409442e+02 .
-
-<http://geohash.org/xnujxrn2ssx8> ns1:latitude 3.897411e+01 ;
-    ns1:longitude 1.409524e+02 .
-
-<http://geohash.org/xnujxrs5b23z> ns1:latitude 3.897739e+01 ;
-    ns1:longitude 1.409491e+02 .
-
-<http://geohash.org/xnujxxjx6c0n> ns1:latitude 3.897525e+01 ;
-    ns1:longitude 1.409623e+02 .
-
-<http://geohash.org/xnujxxqdk2h4> ns1:latitude 3.897576e+01 ;
-    ns1:longitude 1.409637e+02 .
-
-<http://geohash.org/xnujxyvskry0> ns1:latitude 3.89734e+01 ;
-    ns1:longitude 1.409733e+02 .
-
-<http://geohash.org/xnujxz1mux7b> ns1:latitude 3.897503e+01 ;
-    ns1:longitude 1.409675e+02 .
-
-<https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
-
-<https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
-
-<http://geohash.org/xnujpk2v1t2p> ns1:latitude 3.887189e+01 ;
-    ns1:longitude 1.409447e+02 .
-
-<http://geohash.org/xnujxqu5y7b4> ns1:latitude 3.897329e+01 ;
-    ns1:longitude 1.409494e+02 .
-
-<http://geohash.org/xnujxzhxu40m> ns1:latitude 3.897534e+01 ;
-    ns1:longitude 1.409719e+02 .
-
-<http://geohash.org/xnujy935r9z8> ns1:latitude 3.898693e+01 ;
-    ns1:longitude 1.409124e+02 .
-
-<http://geohash.org/xnujz2mm56zd> ns1:latitude 3.898174e+01 ;
-    ns1:longitude 1.40951e+02 .
-
-<https://api.jsonbin.io/b/60bb30fb92164b68bec09857/1> a <http://iiif.io/api/presentation/2#Manifest> .
-
-<> a <http://iiif.io/api/presentation/2#Manifest>,
-        <https://jpsearch.go.jp/term/type/Place> ;
-    rdfs:label "" ;
-    ns1:description "curation: ",
-        "本文: " ;
-    ns1:url <> .
-
-<https://api.jsonbin.io/b/60bb30fb92164b68bec09857> a <http://iiif.io/api/presentation/2#Manifest> .
-
-<https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+<http://example.org/data/保-38> ns1:spatial <http://example.org/data/0910eae721b4ca8704bd6c31936df978>,
+        <http://example.org/data/0ec8510c02fbdefb832cb8aaca9f116e>,
+        <http://example.org/data/12e3d8119a1778e22856b156325f074d>,
+        <http://example.org/data/17b1232de839a4608b83623440e91e55>,
+        <http://example.org/data/1b225e1456821c6b135fd9979ad07388>,
+        <http://example.org/data/24cea319839c13c6ad22714087bc7f2c>,
+        <http://example.org/data/263041f6ace83b9f7ae5848ebb8ebd7c>,
+        <http://example.org/data/283467b2fbb1d6eab039eb403e8074b0>,
+        <http://example.org/data/3ef1ac3c3bb3ea63ce7854fd1e9b7fa7>,
+        <http://example.org/data/4d4259bf2311cab7cb43940826ad6e64>,
+        <http://example.org/data/503dda36e63dff7222f9bd77fee64219>,
+        <http://example.org/data/5c9b8f7a030dd5e0766fdb080ba9f413>,
+        <http://example.org/data/75ec9f4fd9f4444c826e7df3ee96e4cd>,
+        <http://example.org/data/76a76a8c73b88ca62a72b224baabb493>,
+        <http://example.org/data/7c9f349cf238aa648b1a796f99c662c1>,
+        <http://example.org/data/7d86a5923419c823b0ccdfc8d0757790>,
+        <http://example.org/data/83bbe8bee57286cd47b29cf4766eed02>,
+        <http://example.org/data/84ccf5c2dcf554b92acb909ed6d424f6>,
+        <http://example.org/data/a697e98e572194950d5f791615503560>,
+        <http://example.org/data/ac6ae8aa01922cda957c9083ca560996>,
+        <http://example.org/data/ad7582d004ff8ab98e5e82fe3a5b2053>,
+        <http://example.org/data/b774348d23310b9039eac10aae22b9ae>,
+        <http://example.org/data/bd069c9b6c6ae44edbbdcfea4dc049fa>,
+        <http://example.org/data/d601c0fc9f557bf56f76739cee97fc84>,
+        <http://example.org/data/d7b18bc94625fb98dc9dc96da90b2ace>,
+        <http://example.org/data/dd55000d7cffd5138c1619fcc78ebce4>,
+        <http://example.org/data/f8acdb85fab63707dfacdeb1ef63270f> .
+
+<http://example.org/data/0910eae721b4ca8704bd6c31936df978> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大井御庄堺藤木山　□□〔牓示カ" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 大井御庄堺藤木山　□□〔牓示カ" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/11942,1236,2005,556/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11942,1236,2005,556> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/0ec8510c02fbdefb832cb8aaca9f116e> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "三井寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 三井寺" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/10095,11764,730,918/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10095,11764,730,918> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/12e3d8119a1778e22856b156325f074d> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "北" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 北" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/7723,602,376,331/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7723,602,376,331> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/17b1232de839a4608b83623440e91e55> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "東福寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 東福寺" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/9814,5259,888,867/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9814,5259,888,867> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/1b225e1456821c6b135fd9979ad07388> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大井川" ;
+    ns1:category "川" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 大井川" ;
+    ns1:geo <http://geohash.org/wypjsf1pgfxy> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/7290,625,401,928/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7290,625,401,928> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "現足守川。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/24cea319839c13c6ad22714087bc7f2c> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "東" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 東" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/13081,12180,441,438/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=13081,12180,441,438> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/263041f6ace83b9f7ae5848ebb8ebd7c> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "八幡宮" ;
+    ns1:category "宮" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 八幡宮" ;
+    ns1:geo <http://geohash.org/wypjsc7f388k> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/6445,8265,628,894/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6445,8265,628,894> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "葦守八幡宮。現岡山県岡山市北区下足守のほぼ中央の小丘上に鎮座。主祭神は応神天皇。旧足守藩領の総鎮守。旧郷社。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/283467b2fbb1d6eab039eb403e8074b0> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "阿宗郷" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 阿宗郷堺大横山戌亥牓□（示）" ;
+    ns1:geo <http://geohash.org/wypjkwun7edj> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/1099,355,2019,692/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1099,355,2019,692> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "阿曾郷。古代の賀陽郡阿曾郷の郷名を継いだものか。足守川右岸、血吸川流域の岡山県東阿曾・西阿曾を遺称地とし、一帯に推定される。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/3ef1ac3c3bb3ea63ce7854fd1e9b7fa7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "八幡山" ;
+    ns1:category "山" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 八幡山" ;
+    ns1:geo <http://geohash.org/wypjsc7fhdu7> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/6209,9166,401,607/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6209,9166,401,607> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "現岡山県岡山市北区下足守。葦守八幡宮がある。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/4d4259bf2311cab7cb43940826ad6e64> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "王子堂" ;
+    ns1:category "堂" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 王子堂" ;
+    ns1:geo <http://geohash.org/wypjt1cbrx21> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/11066,7354,1049,932/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11066,7354,1049,932> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "現在の守福寺内にある王子権現石宝殿がその後身にあたるとされる。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/503dda36e63dff7222f9bd77fee64219> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "福岡山" ;
+    ns1:category "山" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 福岡山" ;
+    ns1:geo <http://geohash.org/wypjsb6p3z24> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/3923,12331,3156,2375/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3923,12331,3156,2375> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "現冠山に相当する。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/5c9b8f7a030dd5e0766fdb080ba9f413> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大井庄" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 大井御庄堺" ;
+    ns1:geo <http://geohash.org/wypjsewwcchj> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/10543,641,1085,476/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10543,641,1085,476> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "足守川左岸の現岡山県岡山市北区大井を遺称地とし、一帯に推定される。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/75ec9f4fd9f4444c826e7df3ee96e4cd> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "畏坂山" ;
+    ns1:category "山" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 畏坂山" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/10034,1001,888,426/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10034,1001,888,426> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/76a76a8c73b88ca62a72b224baabb493> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "西" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 西" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/966,11683,328,351/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=966,11683,328,351> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/7c9f349cf238aa648b1a796f99c662c1> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "延寿寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 延寿寺" ;
+    ns1:geo <http://geohash.org/wypjkwpuujbr> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/1940,19351,1818,1986/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1940,19351,1818,1986> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "堂本・堂前の字名が残り、発掘調査によって寺院のものと思われる瓦や溝跡が検出されている。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/7d86a5923419c823b0ccdfc8d0757790> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "辰巳牓示　備前国堺石畳山" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 辰巳牓示　備前国堺石畳山" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/11838,24730,2069,842/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11838,24730,2069,842> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/83bbe8bee57286cd47b29cf4766eed02> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "田福寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 田福寺" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/2830,1174,933,1180/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2830,1174,933,1180> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/84ccf5c2dcf554b92acb909ed6d424f6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "吉田山" ;
+    ns1:category "山" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 吉田山" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/3525,4075,717,786/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3525,4075,717,786> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/a697e98e572194950d5f791615503560> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "脇牓示" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 脇牓示" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/9213,731,1213,496/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9213,731,1213,496> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/ac6ae8aa01922cda957c9083ca560996> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "水田山" ;
+    ns1:category "山" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 水田山" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/9829,21052,812,459/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9829,21052,812,459> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/ad7582d004ff8ab98e5e82fe3a5b2053> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "清水寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 清水寺" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/10706,4749,752,793/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10706,4749,752,793> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/b774348d23310b9039eac10aae22b9ae> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "南" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 南" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/6970,24151,467,511/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6970,24151,467,511> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/bd069c9b6c6ae44edbbdcfea4dc049fa> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "穂本山" ;
+    ns1:category "山" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 穂本山" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/12211,5046,1505,822/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=12211,5046,1505,822> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/d601c0fc9f557bf56f76739cee97fc84> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "吉福寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: 吉福寺" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/9329,7234,830,1001/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9329,7234,830,1001> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/d7b18bc94625fb98dc9dc96da90b2ace> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "半刀池" ;
+    ns1:category "池" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 半刀池" ;
+    ns1:geo <http://geohash.org/wypjscmms5rw> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/7868,8753,1649,1973/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7868,8753,1649,1973> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "現在は水田となっているが、池田という字名であり、古くから半刀池にあたると指摘されている。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/dd55000d7cffd5138c1619fcc78ebce4> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "生石御庄" ;
+    ns1:description "推定した国郡名等: 備中国賀陽郡",
+        "架番号: 保-38",
+        "表記: 生石御庄堺堤田一条六丁　作人永宗坪　未申牓示" ;
+    ns1:geo <http://geohash.org/wypjkuedn4gw> ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/1487,23682,2788,1312/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1487,23682,2788,1312> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    rdfs:comment "賀陽郡生石郷の郷名を継いだものか。山城神護寺領足守庄の南に隣接していた。現岡山県岡山市西端の足守川流域一帯に推定され、かつて小山村・高塚村・土田村があったことが確認されている。" ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://example.org/data/f8acdb85fab63707dfacdeb1ef63270f> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "□〔田カ〕□寺" ;
+    ns1:category "寺" ;
+    ns1:description "推定した国郡名等: ",
+        "架番号: 保-38",
+        "表記: □〔田カ〕□寺" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/1272,6827,832,857/200,/0/default.jpg> ;
+    ns1:relatedLink <https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1272,6827,832,857> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceData <https://nakamura196.github.io/shoen/curation/保-38.json> .
+
+<http://geohash.org/wypjkuedn4gw> ns1:latitude 3.469793e+01 ;
+    ns1:longitude 1.338076e+02 .
+
+<http://geohash.org/wypjkwpuujbr> ns1:latitude 3.470666e+01 ;
+    ns1:longitude 1.338023e+02 .
+
+<http://geohash.org/wypjkwun7edj> ns1:latitude 3.471102e+01 ;
+    ns1:longitude 1.337971e+02 .
+
+<http://geohash.org/wypjsb6p3z24> ns1:latitude 3.471945e+01 ;
+    ns1:longitude 1.338053e+02 .
+
+<http://geohash.org/wypjsc7f388k> ns1:latitude 3.472405e+01 ;
+    ns1:longitude 1.338077e+02 .
+
+<http://geohash.org/wypjsc7fhdu7> ns1:latitude 3.472402e+01 ;
+    ns1:longitude 1.338078e+02 .
+
+<http://geohash.org/wypjscmms5rw> ns1:latitude 3.472463e+01 ;
+    ns1:longitude 1.338099e+02 .
+
+<http://geohash.org/wypjsewwcchj> ns1:latitude 3.473719e+01 ;
+    ns1:longitude 1.338005e+02 .
+
+<http://geohash.org/wypjsf1pgfxy> ns1:latitude 3.472913e+01 ;
+    ns1:longitude 1.33804e+02 .
+
+<http://geohash.org/wypjt1cbrx21> ns1:latitude 3.472649e+01 ;
+    ns1:longitude 1.338162e+02 .
+
+<https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 

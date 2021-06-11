@@ -85,6 +85,12 @@
     ns1:url <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> ;
     ns2:sourceInfo <http://example.org/data/以-341-3#sourceinfo> .
 
+<http://example.org/data/保-38> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "足守庄図" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/200,/0/default.jpg> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> ;
+    ns2:sourceInfo <http://example.org/data/保-38#sourceinfo> .
+
 <http://datetime.hutime.org/date/1280-06-30> a <https://jpsearch.go.jp/term/type/Time> ;
     rdfs:label "弘安３年５月２５日" .
 
@@ -133,11 +139,16 @@
 <http://example.org/data/以-341-3#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W23> .
 
+<http://example.org/data/保-38#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W23> .
+
 <https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+
+<https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <http://datetime.hutime.org/date/1315-02-08> a <https://jpsearch.go.jp/term/type/Time> ;
     rdfs:label "正和３年１２月２５日" .
