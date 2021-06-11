@@ -202,4 +202,11 @@ Snorqldef.prop_description = {
 }
 
 // list of example queries. each object represents one example: {label: Japanese label for select option, label_en: English label for select option, ns: [prefixes to use in query], query: SPARQL query (escaped)}
-Snorqldef.example = []
+Snorqldef.example = [
+  {
+		"label" : "寺",
+		"label_en" : "Temple",
+		"ns" : [ ],
+		"query" : "select ?文書名 ?label ?image ?category ?s where {   ?s schema:category ?category; schema:image ?image; rdfs:label ?label . filter(?category = '寺') .    ?doc 	schema:spatial ?s; rdfs:label ?文書名. }"
+	},
+]

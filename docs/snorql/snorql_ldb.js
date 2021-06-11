@@ -2294,6 +2294,10 @@ var Util = {
 	uri: {
 		split: function(uri, local_only){
 			var m = uri.match(/^(.+?[\/#])([^\/#]+)$/);
+			//臨時対応
+			if(!m){
+				return uri
+			}
 			return local_only ? m[2] : [m[1], m[2]];
 		},
 		qname2uri: function(qname, nsmap){
