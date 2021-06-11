@@ -27,10 +27,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1940,19351,1818,1986",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7c9f349cf238aa648b1a796f99c662c1\">7c9f349cf238aa648b1a796f99c662c1</a> ]<br/>延寿寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7c9f349cf238aa648b1a796f99c662c1\">7c9f349cf238aa648b1a796f99c662c1</a> ]<br/>地名：延寿寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -54,10 +54,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7290,625,401,928",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1b225e1456821c6b135fd9979ad07388\">1b225e1456821c6b135fd9979ad07388</a> ]<br/>大井川",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1b225e1456821c6b135fd9979ad07388\">1b225e1456821c6b135fd9979ad07388</a> ]<br/>地名：大井川<br/>分類：川",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23009688&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -81,10 +81,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7868,8753,1649,1973",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d7b18bc94625fb98dc9dc96da90b2ace\">d7b18bc94625fb98dc9dc96da90b2ace</a> ]<br/>半刀池",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d7b18bc94625fb98dc9dc96da90b2ace\">d7b18bc94625fb98dc9dc96da90b2ace</a> ]<br/>地名：半刀池<br/>分類：池",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23FF9800&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -108,10 +108,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6445,8265,628,894",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/263041f6ace83b9f7ae5848ebb8ebd7c\">263041f6ace83b9f7ae5848ebb8ebd7c</a> ]<br/>八幡宮",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/263041f6ace83b9f7ae5848ebb8ebd7c\">263041f6ace83b9f7ae5848ebb8ebd7c</a> ]<br/>地名：八幡宮<br/>分類：宮",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23795548&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -135,10 +135,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6209,9166,401,607",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3ef1ac3c3bb3ea63ce7854fd1e9b7fa7\">3ef1ac3c3bb3ea63ce7854fd1e9b7fa7</a> ]<br/>八幡山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3ef1ac3c3bb3ea63ce7854fd1e9b7fa7\">3ef1ac3c3bb3ea63ce7854fd1e9b7fa7</a> ]<br/>地名：八幡山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -162,10 +162,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3923,12331,3156,2375",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/503dda36e63dff7222f9bd77fee64219\">503dda36e63dff7222f9bd77fee64219</a> ]<br/>福岡山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/503dda36e63dff7222f9bd77fee64219\">503dda36e63dff7222f9bd77fee64219</a> ]<br/>地名：福岡山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -189,10 +189,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11066,7354,1049,932",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4d4259bf2311cab7cb43940826ad6e64\">4d4259bf2311cab7cb43940826ad6e64</a> ]<br/>王子堂",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4d4259bf2311cab7cb43940826ad6e64\">4d4259bf2311cab7cb43940826ad6e64</a> ]<br/>地名：王子堂<br/>分類：堂",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%238BC34A&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -216,10 +216,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1487,23682,2788,1312",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dd55000d7cffd5138c1619fcc78ebce4\">dd55000d7cffd5138c1619fcc78ebce4</a> ]<br/>生石御庄",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dd55000d7cffd5138c1619fcc78ebce4\">dd55000d7cffd5138c1619fcc78ebce4</a> ]<br/>地名：生石御庄",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -243,10 +243,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1099,355,2019,692",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/283467b2fbb1d6eab039eb403e8074b0\">283467b2fbb1d6eab039eb403e8074b0</a> ]<br/>阿宗郷",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/283467b2fbb1d6eab039eb403e8074b0\">283467b2fbb1d6eab039eb403e8074b0</a> ]<br/>地名：阿宗郷",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -270,10 +270,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11838,24730,2069,842",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7d86a5923419c823b0ccdfc8d0757790\">7d86a5923419c823b0ccdfc8d0757790</a> ]<br/>辰巳牓示　備前国堺石畳山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7d86a5923419c823b0ccdfc8d0757790\">7d86a5923419c823b0ccdfc8d0757790</a> ]<br/>地名：辰巳牓示　備前国堺石畳山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -297,10 +297,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2830,1174,933,1180",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/83bbe8bee57286cd47b29cf4766eed02\">83bbe8bee57286cd47b29cf4766eed02</a> ]<br/>田福寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/83bbe8bee57286cd47b29cf4766eed02\">83bbe8bee57286cd47b29cf4766eed02</a> ]<br/>地名：田福寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -324,10 +324,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1272,6827,832,857",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f8acdb85fab63707dfacdeb1ef63270f\">f8acdb85fab63707dfacdeb1ef63270f</a> ]<br/>□〔田カ〕□寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f8acdb85fab63707dfacdeb1ef63270f\">f8acdb85fab63707dfacdeb1ef63270f</a> ]<br/>地名：□〔田カ〕□寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -351,10 +351,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9829,21052,812,459",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ac6ae8aa01922cda957c9083ca560996\">ac6ae8aa01922cda957c9083ca560996</a> ]<br/>水田山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ac6ae8aa01922cda957c9083ca560996\">ac6ae8aa01922cda957c9083ca560996</a> ]<br/>地名：水田山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -378,10 +378,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=966,11683,328,351",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/76a76a8c73b88ca62a72b224baabb493\">76a76a8c73b88ca62a72b224baabb493</a> ]<br/>西",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/76a76a8c73b88ca62a72b224baabb493\">76a76a8c73b88ca62a72b224baabb493</a> ]<br/>地名：西",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -405,10 +405,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=13081,12180,441,438",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/24cea319839c13c6ad22714087bc7f2c\">24cea319839c13c6ad22714087bc7f2c</a> ]<br/>東",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/24cea319839c13c6ad22714087bc7f2c\">24cea319839c13c6ad22714087bc7f2c</a> ]<br/>地名：東",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -432,10 +432,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10095,11764,730,918",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0ec8510c02fbdefb832cb8aaca9f116e\">0ec8510c02fbdefb832cb8aaca9f116e</a> ]<br/>三井寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0ec8510c02fbdefb832cb8aaca9f116e\">0ec8510c02fbdefb832cb8aaca9f116e</a> ]<br/>地名：三井寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -459,10 +459,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3525,4075,717,786",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/84ccf5c2dcf554b92acb909ed6d424f6\">84ccf5c2dcf554b92acb909ed6d424f6</a> ]<br/>吉田山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/84ccf5c2dcf554b92acb909ed6d424f6\">84ccf5c2dcf554b92acb909ed6d424f6</a> ]<br/>地名：吉田山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -486,10 +486,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7723,602,376,331",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/12e3d8119a1778e22856b156325f074d\">12e3d8119a1778e22856b156325f074d</a> ]<br/>北",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/12e3d8119a1778e22856b156325f074d\">12e3d8119a1778e22856b156325f074d</a> ]<br/>地名：北",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -513,10 +513,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9814,5259,888,867",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/17b1232de839a4608b83623440e91e55\">17b1232de839a4608b83623440e91e55</a> ]<br/>東福寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/17b1232de839a4608b83623440e91e55\">17b1232de839a4608b83623440e91e55</a> ]<br/>地名：東福寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -540,10 +540,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6970,24151,467,511",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b774348d23310b9039eac10aae22b9ae\">b774348d23310b9039eac10aae22b9ae</a> ]<br/>南",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b774348d23310b9039eac10aae22b9ae\">b774348d23310b9039eac10aae22b9ae</a> ]<br/>地名：南",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -567,10 +567,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9213,731,1213,496",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a697e98e572194950d5f791615503560\">a697e98e572194950d5f791615503560</a> ]<br/>脇牓示",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a697e98e572194950d5f791615503560\">a697e98e572194950d5f791615503560</a> ]<br/>地名：脇牓示",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -594,10 +594,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10034,1001,888,426",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/75ec9f4fd9f4444c826e7df3ee96e4cd\">75ec9f4fd9f4444c826e7df3ee96e4cd</a> ]<br/>畏坂山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/75ec9f4fd9f4444c826e7df3ee96e4cd\">75ec9f4fd9f4444c826e7df3ee96e4cd</a> ]<br/>地名：畏坂山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -621,10 +621,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10543,641,1085,476",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5c9b8f7a030dd5e0766fdb080ba9f413\">5c9b8f7a030dd5e0766fdb080ba9f413</a> ]<br/>大井庄",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5c9b8f7a030dd5e0766fdb080ba9f413\">5c9b8f7a030dd5e0766fdb080ba9f413</a> ]<br/>地名：大井庄",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -648,10 +648,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11942,1236,2005,556",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0910eae721b4ca8704bd6c31936df978\">0910eae721b4ca8704bd6c31936df978</a> ]<br/>大井御庄堺藤木山　□□〔牓示カ",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0910eae721b4ca8704bd6c31936df978\">0910eae721b4ca8704bd6c31936df978</a> ]<br/>地名：大井御庄堺藤木山　□□〔牓示カ",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -675,10 +675,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=10706,4749,752,793",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ad7582d004ff8ab98e5e82fe3a5b2053\">ad7582d004ff8ab98e5e82fe3a5b2053</a> ]<br/>清水寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ad7582d004ff8ab98e5e82fe3a5b2053\">ad7582d004ff8ab98e5e82fe3a5b2053</a> ]<br/>地名：清水寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -702,10 +702,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=12211,5046,1505,822",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bd069c9b6c6ae44edbbdcfea4dc049fa\">bd069c9b6c6ae44edbbdcfea4dc049fa</a> ]<br/>穂本山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bd069c9b6c6ae44edbbdcfea4dc049fa\">bd069c9b6c6ae44edbbdcfea4dc049fa</a> ]<br/>地名：穂本山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -729,10 +729,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9329,7234,830,1001",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d601c0fc9f557bf56f76739cee97fc84\">d601c0fc9f557bf56f76739cee97fc84</a> ]<br/>吉福寺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d601c0fc9f557bf56f76739cee97fc84\">d601c0fc9f557bf56f76739cee97fc84</a> ]<br/>地名：吉福寺<br/>分類：寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44336&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }

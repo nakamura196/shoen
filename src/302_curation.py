@@ -30,6 +30,15 @@ geo = json.load(json_open)
 
 map = {}
 
+colors = {
+    "寺" : "#F44336",
+    "山" : "#9C27B0",
+    "川" : "#009688",
+    "堂" : "#8BC34A",
+    "池" : "#FF9800",
+    "宮" : "#795548",
+}
+
 for sheet in geo:
 
     if sheet["label"] in ["セット", "まとめ"]:
@@ -63,6 +72,19 @@ for sheet in geo:
 
         label = row["rdfs:label"]
 
+        tag = row["schema:category"] if "schema:category" in row else ""
+
+        tag_str = ""
+
+        if tag != "":
+
+            tag_str = "<br/>分類："+tag
+
+        color = "#2196F3"
+
+        if tag in colors:
+            color = colors[tag]
+
         member = {
 
             "@id": member_id,
@@ -79,10 +101,10 @@ for sheet in geo:
                             "on": member_id,
                             "resource": {
                                 "@type": "cnt:ContentAsText",
-                                "chars": '''[ <a href=\"{}\">{}</a> ]<br/>{}'''.format(url, id, label),
+                                "chars": '''[ <a href=\"{}\">{}</a> ]<br/>地名：{}{}'''.format(url, id, label, tag_str),
                                 "format": "text/html",
                                 "marker": {
-                                "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23"+color.replace("#", "")+"&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                 "@type": "dctypes:Image"
                                 }
                             }
