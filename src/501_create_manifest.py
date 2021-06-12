@@ -45,7 +45,7 @@ pages = "https://nakamura196.github.io/shoen"
 canvases = []
 thumbnail = {}
 
-label = cn
+label = settings2["label"]
 
 for i in range(len(urls)):
 
@@ -92,6 +92,7 @@ for i in range(len(urls)):
     })
 
 manifest = {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "{pages}/iiif/{cn}/manifest.json".format(pages=pages, cn=cn),
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
