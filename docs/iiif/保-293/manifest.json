@@ -1,0 +1,52 @@
+{
+    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "保-293",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/保-293/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 13998,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 13998,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9713
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 9713
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

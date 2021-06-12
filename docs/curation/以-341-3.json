@@ -8,7 +8,7 @@
     "label": "",
     "selections": [
         {
-            "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857/range",
+            "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json/range",
             "@type": "sc:Range",
             "label": "",
             "members": [
@@ -21,13 +21,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_骨寺村",
+                                    "@id": "https://shoen.netlify.app/item/b7f0c7bfaf9d0a4240430286b89e3c0a",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3782,5780,427,781",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_骨寺村\">以-341-3_骨寺村</a> ]<br/>地名：骨寺村",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b7f0c7bfaf9d0a4240430286b89e3c0a\">b7f0c7bfaf9d0a4240430286b89e3c0a</a> ]<br/>地名：骨寺村<br/>分類：村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -48,13 +48,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_岩井河",
+                                    "@id": "https://shoen.netlify.app/item/b493ef4c3817c744922f6a99e0415466",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2485,8035,274,726",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_岩井河\">以-341-3_岩井河</a> ]<br/>地名：岩井河",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b493ef4c3817c744922f6a99e0415466\">b493ef4c3817c744922f6a99e0415466</a> ]<br/>地名：岩井河<br/>分類：河",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -67,7 +67,7 @@
                     ]
                 },
                 {
-                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5806,412,671",
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5519,439,958",
                     "@type": "sc:Canvas",
                     "label": "六所宮",
                     "metadata": [
@@ -75,16 +75,16 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_六所宮",
+                                    "@id": "https://shoen.netlify.app/item/acae376a588c52d11358a28b74187520",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5806,412,671",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5519,439,958",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_六所宮\">以-341-3_六所宮</a> ]<br/>地名：六所宮",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/acae376a588c52d11358a28b74187520\">acae376a588c52d11358a28b74187520</a> ]<br/>地名：六所宮<br/>分類：宮",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23795548&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -102,13 +102,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_駒形根",
+                                    "@id": "https://shoen.netlify.app/item/720e186210533ccdc6569979f1ebc00d",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=865,266,413,756",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_駒形根\">以-341-3_駒形根</a> ]<br/>地名：駒形根",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/720e186210533ccdc6569979f1ebc00d\">720e186210533ccdc6569979f1ebc00d</a> ]<br/>地名：駒形根",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -129,16 +129,16 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_堂山",
+                                    "@id": "https://shoen.netlify.app/item/6ad2a33bfa0dc321290a5e74f4922ce7",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3857,5400,496,264",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_堂山\">以-341-3_堂山</a> ]<br/>地名：堂山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6ad2a33bfa0dc321290a5e74f4922ce7\">6ad2a33bfa0dc321290a5e74f4922ce7</a> ]<br/>地名：堂山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -150,22 +150,22 @@
                 {
                     "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3251,5823,494,703",
                     "@type": "sc:Canvas",
-                    "label": "白山_寺崎",
+                    "label": "白山　寺崎",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_白山_寺崎",
+                                    "@id": "https://shoen.netlify.app/item/bf8d59972f1fee48d1a893f809833668",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3251,5823,494,703",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_白山_寺崎\">以-341-3_白山_寺崎</a> ]<br/>地名：白山_寺崎",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bf8d59972f1fee48d1a893f809833668\">bf8d59972f1fee48d1a893f809833668</a> ]<br/>地名：白山　寺崎<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -183,13 +183,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_中沢",
+                                    "@id": "https://shoen.netlify.app/item/2dfa0b9b0791cc7bbb22b686b0f6ae8f",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3990,9513,264,518",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_中沢\">以-341-3_中沢</a> ]<br/>地名：中沢",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2dfa0b9b0791cc7bbb22b686b0f6ae8f\">2dfa0b9b0791cc7bbb22b686b0f6ae8f</a> ]<br/>地名：中沢",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -210,13 +210,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_山王",
+                                    "@id": "https://shoen.netlify.app/item/8437889116f8e44fcae500ce1dd7d31c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6411,3584,225,196",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_山王\">以-341-3_山王</a> ]<br/>地名：山王",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8437889116f8e44fcae500ce1dd7d31c\">8437889116f8e44fcae500ce1dd7d31c</a> ]<br/>地名：山王",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -237,13 +237,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_ミたけたう",
+                                    "@id": "https://shoen.netlify.app/item/0ee6840808b251394502f9673837fe8c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7131,5834,1335,685",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_ミたけたう\">以-341-3_ミたけたう</a> ]<br/>地名：ミたけたう",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0ee6840808b251394502f9673837fe8c\">0ee6840808b251394502f9673837fe8c</a> ]<br/>地名：ミたけたう",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -264,16 +264,16 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_金峯山",
+                                    "@id": "https://shoen.netlify.app/item/fe2e07b7c2eaba532f5d3d89185f2969",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7263,6824,604,350",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_金峯山\">以-341-3_金峯山</a> ]<br/>地名：金峯山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fe2e07b7c2eaba532f5d3d89185f2969\">fe2e07b7c2eaba532f5d3d89185f2969</a> ]<br/>地名：金峯山<br/>分類：山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%239C27B0&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -291,13 +291,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_檜山河",
+                                    "@id": "https://shoen.netlify.app/item/32a3c987ac2bbd9777e9e8a06464694f",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5557,9216,336,668",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_檜山河\">以-341-3_檜山河</a> ]<br/>地名：檜山河",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/32a3c987ac2bbd9777e9e8a06464694f\">32a3c987ac2bbd9777e9e8a06464694f</a> ]<br/>地名：檜山河<br/>分類：河",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -318,13 +318,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_若御子",
+                                    "@id": "https://shoen.netlify.app/item/ded684fb9d90810b34f836a2b04afc80",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4585,11328,963,561",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_若御子\">以-341-3_若御子</a> ]<br/>地名：若御子",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ded684fb9d90810b34f836a2b04afc80\">ded684fb9d90810b34f836a2b04afc80</a> ]<br/>地名：若御子<br/>分類：田",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -345,13 +345,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_御拝殿",
+                                    "@id": "https://shoen.netlify.app/item/b24b72ba163a84befff5afe27e05357b",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5838,11253,741,441",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_御拝殿\">以-341-3_御拝殿</a> ]<br/>地名：御拝殿",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b24b72ba163a84befff5afe27e05357b\">b24b72ba163a84befff5afe27e05357b</a> ]<br/>地名：御拝殿",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -372,13 +372,1147 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/以-341-3_慈恵塚",
+                                    "@id": "https://shoen.netlify.app/item/70e08ba3290f6cd69493a6b16727ba78",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7184,11242,525,189",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/以-341-3_慈恵塚\">以-341-3_慈恵塚</a> ]<br/>地名：慈恵塚",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/70e08ba3290f6cd69493a6b16727ba78\">70e08ba3290f6cd69493a6b16727ba78</a> ]<br/>地名：慈恵塚",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2063,1764,412,440",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/003707827a1e2d31960f2aadfe48f27e",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2063,1764,412,440",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/003707827a1e2d31960f2aadfe48f27e\">003707827a1e2d31960f2aadfe48f27e</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2417,2149,268,289",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/e45aa699f77e9018e613eef0a2a9a1c8",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2417,2149,268,289",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e45aa699f77e9018e613eef0a2a9a1c8\">e45aa699f77e9018e613eef0a2a9a1c8</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2829,2751,313,313",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/f639837a5305007fba7cdf7c68f49640",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2829,2751,313,313",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f639837a5305007fba7cdf7c68f49640\">f639837a5305007fba7cdf7c68f49640</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1950,4109,267,291",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/8f523e50067c40a46cbe89e88567fb7b",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1950,4109,267,291",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8f523e50067c40a46cbe89e88567fb7b\">8f523e50067c40a46cbe89e88567fb7b</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2475,4741,250,315",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/9e6fff94c94b95d2af219ede85800d60",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2475,4741,250,315",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9e6fff94c94b95d2af219ede85800d60\">9e6fff94c94b95d2af219ede85800d60</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2640,3997,285,527",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/7548e087dcc38cbe4987335c53c1889f",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2640,3997,285,527",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7548e087dcc38cbe4987335c53c1889f\">7548e087dcc38cbe4987335c53c1889f</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1248,4394,416,236",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/63b3e956149d435083c1fba45b65789d",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1248,4394,416,236",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/63b3e956149d435083c1fba45b65789d\">63b3e956149d435083c1fba45b65789d</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1612,5504,334,317",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/fb3f4c7e8529f2ed2ac26098634cf1f1",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1612,5504,334,317",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fb3f4c7e8529f2ed2ac26098634cf1f1\">fb3f4c7e8529f2ed2ac26098634cf1f1</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1056,6121,440,248",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/8045770afb37adea64940d2e167ea9fa",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1056,6121,440,248",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8045770afb37adea64940d2e167ea9fa\">8045770afb37adea64940d2e167ea9fa</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1166,8206,447,206",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/012b655dc59418335ac8ee24fb61c39c",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1166,8206,447,206",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/012b655dc59418335ac8ee24fb61c39c\">012b655dc59418335ac8ee24fb61c39c</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3073,8016,309,245",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/723c746613153fcc26f76524b1cdd4c8",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3073,8016,309,245",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/723c746613153fcc26f76524b1cdd4c8\">723c746613153fcc26f76524b1cdd4c8</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2024,9094,314,254",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/d6233902d0c365a5b11682917565e8cf",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2024,9094,314,254",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d6233902d0c365a5b11682917565e8cf\">d6233902d0c365a5b11682917565e8cf</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1504,9187,281,281",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/8ac5693b2ecb61166ca2c6a96045ab89",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1504,9187,281,281",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8ac5693b2ecb61166ca2c6a96045ab89\">8ac5693b2ecb61166ca2c6a96045ab89</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3137,9103,424,703",
+                    "@type": "sc:Canvas",
+                    "label": "野畠",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/76b9e082c3974df1ee2647d6be2deadb",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3137,9103,424,703",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/76b9e082c3974df1ee2647d6be2deadb\">76b9e082c3974df1ee2647d6be2deadb</a> ]<br/>地名：野畠",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3102,10510,434,377",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/447486f019155433b544a4178a2004df",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3102,10510,434,377",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/447486f019155433b544a4178a2004df\">447486f019155433b544a4178a2004df</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1853,10919,366,377",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/763983d9d7bcea1ef77b038faee43476",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1853,10919,366,377",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/763983d9d7bcea1ef77b038faee43476\">763983d9d7bcea1ef77b038faee43476</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3421,11783,388,616",
+                    "@type": "sc:Canvas",
+                    "label": "田代",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/88caa5d3fc3117acd90b97d5ae565887",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3421,11783,388,616",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/88caa5d3fc3117acd90b97d5ae565887\">88caa5d3fc3117acd90b97d5ae565887</a> ]<br/>地名：田代",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=870,11107,417,252",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/d7f923acd5d1caa7ef379c362844bc9a",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=870,11107,417,252",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d7f923acd5d1caa7ef379c362844bc9a\">d7f923acd5d1caa7ef379c362844bc9a</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2029,12681,530,326",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/606c248e8d404636d90e92c113b9867a",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=2029,12681,530,326",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/606c248e8d404636d90e92c113b9867a\">606c248e8d404636d90e92c113b9867a</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3916,8115,344,320",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/3fd7e4ee9f9e078e104675e381127084",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3916,8115,344,320",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3fd7e4ee9f9e078e104675e381127084\">3fd7e4ee9f9e078e104675e381127084</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3470,6716,222,304",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/8c62494b967cb1b022e63dca0c53fd4b",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3470,6716,222,304",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8c62494b967cb1b022e63dca0c53fd4b\">8c62494b967cb1b022e63dca0c53fd4b</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3266,6565,219,171",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/f7e41df66f8080a532413fb37140e403",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3266,6565,219,171",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f7e41df66f8080a532413fb37140e403\">f7e41df66f8080a532413fb37140e403</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7471,3283,286,491",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/c346d569fa1974b39561d19f085e2938",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7471,3283,286,491",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c346d569fa1974b39561d19f085e2938\">c346d569fa1974b39561d19f085e2938</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4608,5027,343,297",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/7174914ec9095f7d1a2208b46d4e1b9a",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4608,5027,343,297",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7174914ec9095f7d1a2208b46d4e1b9a\">7174914ec9095f7d1a2208b46d4e1b9a</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6701,5847,293,265",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/b1aba7d8fc32932677efa9f98dae7b75",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6701,5847,293,265",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b1aba7d8fc32932677efa9f98dae7b75\">b1aba7d8fc32932677efa9f98dae7b75</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4705,6704,198,166",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/2f3d38b8befd09b3d6e23e113f99d374",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4705,6704,198,166",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2f3d38b8befd09b3d6e23e113f99d374\">2f3d38b8befd09b3d6e23e113f99d374</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5228,6910,945,1000",
+                    "@type": "sc:Canvas",
+                    "label": "田　宇那根田二段",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/4618224454b0783f561a771d57a3c2fb",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5228,6910,945,1000",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4618224454b0783f561a771d57a3c2fb\">4618224454b0783f561a771d57a3c2fb</a> ]<br/>地名：田　宇那根田二段<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6053,8955,251,219",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/23e9f12329a3beb62ef0d59c6e50ecd1",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6053,8955,251,219",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/23e9f12329a3beb62ef0d59c6e50ecd1\">23e9f12329a3beb62ef0d59c6e50ecd1</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5943,10761,270,286",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/cde189add006db40c92904f587d2f937",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5943,10761,270,286",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cde189add006db40c92904f587d2f937\">cde189add006db40c92904f587d2f937</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5813,11867,254,239",
+                    "@type": "sc:Canvas",
+                    "label": "田",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/8553a46db75ff43c3a8da70c62f6b1ba",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5813,11867,254,239",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8553a46db75ff43c3a8da70c62f6b1ba\">8553a46db75ff43c3a8da70c62f6b1ba</a> ]<br/>地名：田<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6417,6819,811,700",
+                    "@type": "sc:Canvas",
+                    "label": "田　六所神田二段",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/e48d956d2589dfec1f05a8ec2b1a7bd6",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6417,6819,811,700",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e48d956d2589dfec1f05a8ec2b1a7bd6\">e48d956d2589dfec1f05a8ec2b1a7bd6</a> ]<br/>地名：田　六所神田二段<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5659,6211,621,452",
+                    "@type": "sc:Canvas",
+                    "label": "馬頭観音",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/fd221d93267ae2f6e5e57e51382c2cd5",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5659,6211,621,452",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fd221d93267ae2f6e5e57e51382c2cd5\">fd221d93267ae2f6e5e57e51382c2cd5</a> ]<br/>地名：馬頭観音",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6334,5450,796,616",
+                    "@type": "sc:Canvas",
+                    "label": "首人分二段",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/1aae4174944b2a63138e57d66a2ac151",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6334,5450,796,616",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1aae4174944b2a63138e57d66a2ac151\">1aae4174944b2a63138e57d66a2ac151</a> ]<br/>地名：首人分二段",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4368,8333,534,309",
+                    "@type": "sc:Canvas",
+                    "label": "うなね",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/4756e2b0658884b30a6906c5caeb2243",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4368,8333,534,309",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4756e2b0658884b30a6906c5caeb2243\">4756e2b0658884b30a6906c5caeb2243</a> ]<br/>地名：うなね",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4868,8558,748,752",
+                    "@type": "sc:Canvas",
+                    "label": "田　霊田二段",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/ebe102265158cf0de526c7c5d767542c",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4868,8558,748,752",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ebe102265158cf0de526c7c5d767542c\">ebe102265158cf0de526c7c5d767542c</a> ]<br/>地名：田　霊田二段<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5899,7810,519,1142",
+                    "@type": "sc:Canvas",
+                    "label": "経蔵別当休息所",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/4146b58e2e827f7cfb7927c24eec35df",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5899,7810,519,1142",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4146b58e2e827f7cfb7927c24eec35df\">4146b58e2e827f7cfb7927c24eec35df</a> ]<br/>地名：経蔵別当休息所",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6291,7850,617,637",
+                    "@type": "sc:Canvas",
+                    "label": "田　山王田　三段",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/93b8ef472a082849c60ef994026df9dc",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6291,7850,617,637",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/93b8ef472a082849c60ef994026df9dc\">93b8ef472a082849c60ef994026df9dc</a> ]<br/>地名：田　山王田　三段<br/>分類：田",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4665,9638,400,445",
+                    "@type": "sc:Canvas",
+                    "label": "道",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/28d0ecf773a89695d77d3b6740f7c031",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4665,9638,400,445",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/28d0ecf773a89695d77d3b6740f7c031\">28d0ecf773a89695d77d3b6740f7c031</a> ]<br/>地名：道<br/>分類：道",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7238,11717,460,297",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/5aa235984c995a86c25f1261283e4427",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7238,11717,460,297",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5aa235984c995a86c25f1261283e4427\">5aa235984c995a86c25f1261283e4427</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4888,12374,322,405",
+                    "@type": "sc:Canvas",
+                    "label": "郡方牓□〔示〕",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/b56978e9034e54fdf791b13755e9c8fb",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4888,12374,322,405",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b56978e9034e54fdf791b13755e9c8fb\">b56978e9034e54fdf791b13755e9c8fb</a> ]<br/>地名：郡方牓□〔示〕",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5712,12729,487,225",
+                    "@type": "sc:Canvas",
+                    "label": "寺領",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/8bfb1a789c9ec323257b308d441a45b6",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5712,12729,487,225",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8bfb1a789c9ec323257b308d441a45b6\">8bfb1a789c9ec323257b308d441a45b6</a> ]<br/>地名：寺領",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5534,12499,297,286",
+                    "@type": "sc:Canvas",
+                    "label": "□",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/564ec78bada6b2e8984e7680fad5d372",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5534,12499,297,286",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/564ec78bada6b2e8984e7680fad5d372\">564ec78bada6b2e8984e7680fad5d372</a> ]<br/>地名：□",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%232196F3&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -392,7 +1526,7 @@
                 }
             ],
             "within": {
-                "@id": "https://api.jsonbin.io/b/60bb30fb92164b68bec09857",
+                "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json",
                 "@type": "sc:Manifest",
                 "label": ""
             }

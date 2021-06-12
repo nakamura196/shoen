@@ -75,7 +75,7 @@ def handleManifest(cn, manifest):
         }
         for res in r["resource"]:
             type_ = res["@type"]
-            value = cleanhtml(res["chars"])
+            value = cleanhtml(res["chars"]).replace("_", "　")
             if type_ == "dctypes:Text":
                 obj["label"] = value.replace("&nbsp;", "")
             if type_ == "oa:Tag":
@@ -96,7 +96,7 @@ settings2 = yaml.load(open("item/{}/settings.yml".format(cn), "r+"), Loader=yaml
 
 print(settings2)
 
-manifest = settings2["manifest"]
+manifest = None # settings2["manifest"]
 
 image = settings2["image"]
 

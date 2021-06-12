@@ -85,6 +85,12 @@
     ns1:url <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> ;
     ns2:sourceInfo <http://example.org/data/以-341-3#sourceinfo> .
 
+<http://example.org/data/保-293> a <https://jpsearch.go.jp/term/type/Item> ;
+    rdfs:label "菅浦与大浦下庄堺絵図" ;
+    ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/保-293/manifest.json> ;
+    ns2:sourceInfo <http://example.org/data/保-293#sourceinfo> .
+
 <http://example.org/data/保-38> a <https://jpsearch.go.jp/term/type/Item> ;
     rdfs:label "足守庄図" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/200,/0/default.jpg> ;
@@ -139,6 +145,9 @@
 <http://example.org/data/以-341-3#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W23> .
 
+<http://example.org/data/保-293#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
+    ns1:provider <http://example.org/data/W23> .
+
 <http://example.org/data/保-38#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W23> .
 
@@ -147,6 +156,8 @@
 <https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+
+<https://nakamura196.github.io/shoen/iiif/保-293/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <https://nakamura196.github.io/shoen/iiif/保-38/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 

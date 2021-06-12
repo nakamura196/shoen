@@ -25,11 +25,8 @@ all = Graph()
 
 ###########
 
-geo = requests.get("https://script.google.com/macros/s/AKfycbwYfhKrM3A8WZJhWOP6WDoNqxNeCqqoz-agemlDtdWIm5V5G6XsHEXAt9bnZZveqM6_/exec?sheet=all").json()
-
-f2 = open("data/data.json", 'w')
-json.dump(geo, f2, ensure_ascii=False, indent=4,
-        sort_keys=True, separators=(',', ': '))
+json_open = open("data/data.json", 'r')
+geo = json.load(json_open)
 
 for sheet in geo:
     name = sheet["label"]
