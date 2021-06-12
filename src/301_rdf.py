@@ -28,9 +28,6 @@ geo = json.load(json_open)
 
 for sheet in geo:
 
-    if sheet["label"] not in ["保-38"]:
-        continue
-
     rows = sheet["value"]
 
     for row in rows:
