@@ -1,26 +1,68 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+    "@id": "https://nakamura196.github.io/shoen/iiif/保-38/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
     "label": "足守庄図",
     "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
-    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://lab-hi.github.io/map/iiif/1/manifest.json",
+    "metadata": [
+        {
+            "label": "模写時所蔵",
+            "value": "神護寺"
+        },
+        {
+            "label": "縦",
+            "value": "161.7"
+        },
+        {
+            "label": "横",
+            "value": "88.5"
+        },
+        {
+            "label": "聚影巻数",
+            "value": "西日本一"
+        },
+        {
+            "label": "絵図番号",
+            "value": "6"
+        },
+        {
+            "label": "国名",
+            "value": "備中(岡山県)"
+        },
+        {
+            "label": "模写年代",
+            "value": "1905年5月"
+        },
+        {
+            "label": "原本制作年代",
+            "value": "平安時代 「嘉応元年十二月　日」"
+        },
+        {
+            "label": "材質",
+            "value": "紙本"
+        },
+        {
+            "label": "著色",
+            "value": "着色"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/保-38/manifest.json",
     "sequences": [
         {
-            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/sequence/normal",
+            "@id": "https://nakamura196.github.io/shoen/iiif/保-38/manifest.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/保-38/manifest.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 26367,
                     "images": [
                         {
-                            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/shoen/iiif/保-38/manifest.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1",
+                            "on": "https://nakamura196.github.io/shoen/iiif/保-38/manifest.json/canvas/p1",
                             "resource": {
                                 "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -37,7 +79,7 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/97,/0/default.jpg"
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/200,/0/default.jpg"
                     },
                     "width": 14784
                 }
@@ -47,7 +89,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/97,/0/default.jpg"
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/200,/0/default.jpg"
     },
     "viewingDirection": "left-to-right"
 }

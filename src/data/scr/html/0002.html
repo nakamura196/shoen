@@ -1,0 +1,161 @@
+<html><head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="text/css" http-equiv="content-Style-Type"/>
+<meta content="text/javascript" http-equiv="content-Script-Type"/>
+<link href="CSS/style02.css?20201127" rel="stylesheet" type="text/css"/>
+<link href="CSS/lib/jquery-ui-1.10.4.custom.css?20201127" rel="stylesheet" type="text/css"/>
+<link href="CSS/lib/iThing.css?20201127" rel="stylesheet" type="text/css"/>
+<title>史料編纂所所蔵荘園絵図摸本データベース【検索結果詳細画面】</title>
+<script src="JS/ships.js?20201127" type="text/javascript"></script>
+<script src="JS/shipsMap.js?20201127" type="text/javascript"></script>
+<script src="JS/shipsImage.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/OpenLayers.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/jquery-1.10.2.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/jquery-ui-1.10.4.custom.min.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/jQRangeSlider-withRuler-min.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/geolib.js?20201127" type="text/javascript"></script>
+<script src="JS/ships.map.define.js?20201127" type="text/javascript"></script>
+<script src="JS/ships.map.js?20201127" type="text/javascript"></script>
+<script src="JS/ships.common.js?20201127" type="text/javascript"></script>
+</head>
+<body style=""><div id="container"><div id="primary">
+<form action="/ships/shipscontroller" method="post" name="form01">
+<div class="chuki" id="popup"></div>
+<input name="session" type="hidden" value="19216825203664C2E742118092BD032788C2A78A2FCE"/>
+<input name="screen" type="hidden" value="disp"/>
+<input name="hitsno" type="hidden" value=""/>
+<input name="hitsmax" type="hidden" value=""/>
+<input name="cfname" type="hidden" value="W23/23.ctl"/>
+<input name="pfid" type="hidden" value="disp01"/>
+<input name="mgno" type="hidden" value="00000002"/>
+<input name="listptn" type="hidden" value=""/>
+<input name="hcnt" type="hidden" value="1"/>
+<input name="lmax" type="hidden" value="20"/>
+<input name="url" type="hidden" value=""/>
+<input name="kanrenflg" type="hidden" value=""/>
+<input name="kanrenkey" type="hidden" value=""/>
+<input name="kanrendispSql" type="hidden" value=""/>
+<input name="srchlist" type="hidden" value=""/>
+<input name="maxsatu" type="hidden" value=""/>
+<input name="nowsatu" type="hidden" value=""/>
+<input name="maxrec" type="hidden" value="27"/>
+<input name="nowrec" type="hidden" value="2"/>
+<input name="nowpage" type="hidden" value="1"/>
+<input name="hitspage" type="hidden" value="0"/>
+<input name="listmax" type="hidden" value=""/>
+<input name="refflg" type="hidden" value=""/>
+<input name="genteikywd" type="hidden" value=""/>
+<input name="srchtaisho" type="hidden" value=""/>
+<input name="stflg" type="hidden" value="2"/>
+<input name="another" type="hidden" value=""/>
+<input name="sortkey" type="hidden" value=" ORDER BY TO_CHAR(MGNO)"/>
+<table class="main">
+<tbody><tr><td>
+<table class="header_table"><tbody><tr>
+<td class="header"><table class="menu_table"><tbody><tr><td class="menu_bg">史料編纂所所蔵荘園絵図摸本データベース      </td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('index')" onclick="return jsCheckClick();">DB選択</a></td>
+<td class="menu_line"></td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('normal')" onclick="return jsCheckClick();">項目検索</a></td>
+<td class="menu_line"></td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('easy')" onclick="return jsCheckClick();">簡易検索</a></td>
+<td class="menu_line"></td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('help')" onclick="return jsCheckClick();">ヘルプ</a></td>
+</tr></tbody></table></td></tr>
+<tr class="main"><td class="main"><hr class="main"/></td></tr>
+</tbody></table>
+</td></tr>
+<tr class="con_min"><td>
+<table class="scon_tbl"><tbody><tr><td>
+<input class="btn85" onclick="jsRecMove('disp01','previos',2,'23')" type="button" value="前　件"/>
+<input class="btn85" onclick="jsRecMove('disp01','next',2,'23')" type="button" value="次　件"/>
+<input class="btn85" onclick="jsRecMove('disp01','first',2,'23')" type="button" value="先　頭"/>
+<input class="btn85" onclick="jsRecMove('disp01','last',2,'23')" type="button" value="最　終"/>
+<input class="btn85" onclick="jsList('list01','23')" type="button" value="一　覧"/>
+<input class="btn85" onclick="javascript:showFixPop('disp01','mapd01','00000002','2','815','800')" type="button" value="地　図"/>
+<input class="btn85" onclick="openImageViewer('https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_101i_/341-1/00000001?m=limit&amp;f=00000001')" type="button" value="模写画面"/>
+<input class="btn" onclick="jsDispImage('https://clioimg.hi.u-tokyo.ac.jp/IMG/0M0/_101i_/341-1/y0000001.png','650','650')" type="button" value="トレース図(線あり)"/>
+</td></tr>
+</tbody></table>
+</td></tr><tr class="con_min"><td>
+<hr class="sub"/>
+</td></tr><tr class="con_min"><td>
+<table class="res_tbl"><tbody><tr><td>2/27件</td></tr>
+</tbody></table>
+</td></tr><tr class="con_min"><td>
+<table class="dcon_tbl0"><tbody><tr>
+<td class="dcon_text" width="400">
+<table class="dcon_tbl2">
+<tbody><tr class="con_min">
+<td colspan="2"><input onclick="jsDispButton('disp01')" type="button" value="管理"/>
+<input onclick="jsDispButton('disp02')" type="button" value="文献"/>
+<input onclick="jsDispButton('disp03')" type="button" value="画像"/>
+<input onclick="jsDispButton('disp04')" type="button" value="釈文"/>
+<input onclick="jsDispButton('disp05')" type="button" value="地理"/>
+</td></tr><tr><td>　</td></tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【架番号】</td>
+<td class="dcon_data2">以-341-1</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【名称】</td>
+<td class="dcon_data2">陸奥国骨寺絵図（詳細図）　[表]</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【模写時所蔵】</td>
+<td class="dcon_data2">中尊寺（岩手県西磐井郡）</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【縦】</td>
+<td class="dcon_data2">85</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【横】</td>
+<td class="dcon_data2">57.7</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【聚影巻数】</td>
+<td class="dcon_data2">東日本一</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【絵図番号】</td>
+<td class="dcon_data2">2</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【国名】</td>
+<td class="dcon_data2">陸奥(岩手県)</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【模写年代】</td>
+<td class="dcon_data2">1992年</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【原本制作年代】</td>
+<td class="dcon_data2">鎌倉時代 </td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【模写者】</td>
+<td class="dcon_data2">宮本尚彦</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【材質】</td>
+<td class="dcon_data2">紙本</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl2">【著色】</td>
+<td class="dcon_data2">墨書</td>
+</tr>
+</tbody></table>
+</td>
+<td class="dcon_img" width="360">
+<a href="javascript:jsDispImage('https://clioimg.hi.u-tokyo.ac.jp/IMG/0M0/_101i_/341-1/n0000001.png','650','650')" onclick="return jsCheckClick();"><img alt="" border="0" src="https://clioimg.hi.u-tokyo.ac.jp/IMG/0M0/_101i_/341-1/n0000001.png" width="310"/></a>
+</td>
+</tr></tbody></table>
+</td></tr>
+<tr><td><input name="datakubun" type="hidden" value="以-341-1"/></td></tr>
+</tbody></table></form></div></div>
+<div id="footer"><table class="footer_table">
+<tbody><tr class="main"><td class="main"><hr class="main"/></td></tr>
+<tr class="footer_height"><td class="footer">© 2011 東京大学史料編纂所</td></tr>
+</tbody></table>
+</div>
+</body></html>

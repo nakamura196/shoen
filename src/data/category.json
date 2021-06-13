@@ -1,0 +1,2477 @@
+[
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/鐘楼",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鐘楼"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/守護",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "守護"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/竹",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "竹"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/砂丘",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "砂丘"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/霞",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然現象"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "霞"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/塔",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "塔"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/里",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "里"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/下地中分",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "下地中分"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/湖",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "湖"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/境内",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "境内"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/榜示",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "榜示"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/森",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "森"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/動物",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "動物"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/方位",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "方位"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/地頭",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "地頭"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/松",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "松"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/異筆",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "異筆"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/結界",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      },
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "結界"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/白緑",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "白緑"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/萱",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "萱"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/近景",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "近景"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/枝",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "枝"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/在家",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "在家"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/葉",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "葉"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/塀",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "塀"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/海",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "海"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/荒野",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "荒野"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/長地",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "長地"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/道具・乗物",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "道具・乗物"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/馬",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/動物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "馬"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/墨",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "墨"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/葦",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "葦"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/市",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/集落"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "市"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/自然現象",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "自然現象"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/東",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/方位"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "東"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/自然地形",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "自然地形"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/紙背",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "紙背"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/櫂",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/道具・乗物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "櫂"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/神社",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "神社"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/二本線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "二本線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/追筆",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "追筆"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/峰",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "峰"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/黒丸",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "黒丸"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/朱",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "朱"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/未開地",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/耕地"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "未開地"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/藍",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藍"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/石垣",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "石垣"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/縁",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "縁"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/礎石",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "礎石"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/端裏書",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "端裏書"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/天",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/方位"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "天"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/舟",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/道具・乗物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "舟"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/堂",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "堂"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/鳥居",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "鳥居"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/池",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "池"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/中分線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "中分線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/耕地",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "耕地"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/黄土",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "黄土"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/見返し",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "見返し"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/段丘",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "段丘"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/寄棟",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "寄棟"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/灰",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "灰"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/縁起",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "縁起"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/宮",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宮"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/河",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "河"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/山",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "山"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/宿",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/集落"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宿"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/表題",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "表題"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/墨点",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "墨点"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/集落",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "集落"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/絵師",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "絵師"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/擦り消し",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "擦り消し"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/薗",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/耕地"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "薗"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/岩",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "岩"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/班田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "班田"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/茶",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "茶"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/人・服飾",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "人・服飾"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/切妻",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "切妻"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/野畠",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/耕地"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "野畠"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/北",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/方位"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "北"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/×印",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "×印"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/開田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "開田"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/板葺",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "板葺"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/欠損",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "欠損"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/条里",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      },
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "条里"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/溝",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "溝"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/瓦",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瓦"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/櫨",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/道具・乗物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "櫨"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/畠",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/耕地"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "畠"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/井桁",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "井桁"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/西",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/方位"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "西"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/宝形",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宝形"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/坪",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "坪"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/波線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "波線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/杉",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "杉"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/海岸",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "海岸"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/寺",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "寺"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/朱線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "朱線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/耕地"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "田"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/四至傍示",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "四至傍示"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/表現",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "表現"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/林",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "林"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/草叢",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "草叢"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/遠景",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "遠景"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/後筆",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "後筆"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/橋",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "橋"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/緑青",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "緑青"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/角筆",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "角筆"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/丘陵",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "丘陵"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/滝",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "滝"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/波",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然現象"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "波"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/焼畑",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/耕地"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "焼畑"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/里界線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "里界線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/島",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "島"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/領家",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "領家"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/草葺",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "草葺"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/河原",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "河原"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/屋根",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "屋根"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/青",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/色彩"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "青"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/署判",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "署判"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/幹",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "幹"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/檜皮葺",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "檜皮葺"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/門",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "門"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/花押",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "花押"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/村",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/集落"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "村"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/稲",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "稲"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/半折",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "半折"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/境界",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "境界"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/入母屋",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "入母屋"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/堺相論",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "堺相論"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/植生",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "植生"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/崖",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "崖"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/道",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "道"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/漁民",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "漁民"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/書誌",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "書誌"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/常緑樹",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "常緑樹"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/分類",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "分類"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/帆",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/道具・乗物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "帆"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/針葉樹",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "針葉樹"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/広葉樹",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/植生"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "広葉樹"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/一本線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "一本線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/色彩",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "色彩"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/墓",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "墓"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/掘立",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "掘立"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/谷",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "谷"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/紅葉",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然現象"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "紅葉"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/南",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/方位"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "南"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/構築物",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "構築物"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/裏書",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/書誌"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "裏書"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/墾田",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "墾田"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/方格線",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/表現"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "方格線"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/堀",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/構築物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "堀"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/烏帽子",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "烏帽子"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/尾根",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/自然地形"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "尾根"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/笠",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "笠"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/領主",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/人・服飾"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "領主"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/標木",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "標木"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/立券",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/分類"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "立券"
+      }
+    ]
+  },
+  {
+    "@id": "https://jpsearch.go.jp/term/keyword/杭",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://jpsearch.go.jp/term/keyword/境界"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "杭"
+      }
+    ]
+  }
+]

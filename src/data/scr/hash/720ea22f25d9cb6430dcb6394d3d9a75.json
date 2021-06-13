@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/r00000001.tif",
+    "height": 15434,
+    "profile": [
+        "http://iiif.io/api/image/2/level1.json",
+        {
+            "formats": [
+                "jpg"
+            ],
+            "maxHeight": 5000,
+            "maxWidth": 5000,
+            "qualities": [
+                "native",
+                "color",
+                "gray",
+                "bitonal"
+            ],
+            "supports": [
+                "regionByPct",
+                "regionSquare",
+                "sizeByForcedWh",
+                "sizeByWh",
+                "sizeAboveFull",
+                "rotationBy90s",
+                "mirroring"
+            ]
+        }
+    ],
+    "protocol": "http://iiif.io/api/image",
+    "sizes": [
+        {
+            "height": 60,
+            "width": 84
+        },
+        {
+            "height": 120,
+            "width": 169
+        },
+        {
+            "height": 241,
+            "width": 338
+        },
+        {
+            "height": 482,
+            "width": 676
+        },
+        {
+            "height": 964,
+            "width": 1352
+        },
+        {
+            "height": 1929,
+            "width": 2705
+        }
+    ],
+    "tiles": [
+        {
+            "height": 256,
+            "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16,
+                32,
+                64,
+                128,
+                256
+            ],
+            "width": 256
+        }
+    ],
+    "width": 21646
+}

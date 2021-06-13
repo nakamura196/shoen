@@ -1,0 +1,626 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://jpsearch.go.jp/term/keyword/×印> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "×印" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/一本線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "一本線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/下地中分> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "下地中分" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/丘陵> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "丘陵" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/中分線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "中分線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/二本線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "二本線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/井桁> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "井桁" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/入母屋> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "入母屋" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/切妻> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "切妻" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/北> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "北" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/方位> .
+
+<https://jpsearch.go.jp/term/keyword/半折> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "半折" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/南> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "南" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/方位> .
+
+<https://jpsearch.go.jp/term/keyword/四至傍示> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "四至傍示" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/在家> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "在家" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/地頭> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "地頭" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/坪> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "坪" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/堀> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "堀" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/堂> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "堂" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/堺相論> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "堺相論" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/塀> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "塀" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/塔> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "塔" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/境内> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "境内" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/墓> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "墓" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/墨> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "墨" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/墨点> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "墨点" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/墾田> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "墾田" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/天> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "天" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/方位> .
+
+<https://jpsearch.go.jp/term/keyword/守護> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "守護" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/宝形> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "宝形" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/宮> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "宮" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/宿> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "宿" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/集落> .
+
+<https://jpsearch.go.jp/term/keyword/寄棟> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "寄棟" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/寺> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "寺" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/尾根> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "尾根" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/屋根> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "屋根" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/山> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "山" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/岩> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "岩" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/峰> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "峰" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/島> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "島" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/崖> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "崖" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/市> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "市" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/集落> .
+
+<https://jpsearch.go.jp/term/keyword/帆> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "帆" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/道具・乗物> .
+
+<https://jpsearch.go.jp/term/keyword/常緑樹> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "常緑樹" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/幹> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "幹" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/広葉樹> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "広葉樹" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/後筆> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "後筆" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/掘立> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "掘立" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/擦り消し> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "擦り消し" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/方格線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "方格線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/未開地> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "未開地" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/耕地> .
+
+<https://jpsearch.go.jp/term/keyword/朱> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "朱" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/朱線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "朱線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/杉> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "杉" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/村> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "村" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/集落> .
+
+<https://jpsearch.go.jp/term/keyword/条里> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "条里" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類>,
+        <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/杭> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "杭" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/東> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "東" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/方位> .
+
+<https://jpsearch.go.jp/term/keyword/松> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "松" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/板葺> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "板葺" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/林> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "林" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/枝> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "枝" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/森> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "森" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/榜示> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "榜示" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/標木> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "標木" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/橋> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "橋" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/檜皮葺> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "檜皮葺" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/櫂> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "櫂" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/道具・乗物> .
+
+<https://jpsearch.go.jp/term/keyword/櫨> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "櫨" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/道具・乗物> .
+
+<https://jpsearch.go.jp/term/keyword/欠損> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "欠損" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/段丘> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "段丘" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/池> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "池" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/河> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "河" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/河原> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "河原" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/波> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "波" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然現象> .
+
+<https://jpsearch.go.jp/term/keyword/波線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "波線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/海> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "海" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/海岸> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "海岸" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/湖> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "湖" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/溝> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "溝" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/滝> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "滝" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/漁民> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "漁民" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/灰> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "灰" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/烏帽子> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "烏帽子" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/焼畑> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "焼畑" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/耕地> .
+
+<https://jpsearch.go.jp/term/keyword/班田> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "班田" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/瓦> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "瓦" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/田> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "田" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/耕地> .
+
+<https://jpsearch.go.jp/term/keyword/畠> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "畠" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/耕地> .
+
+<https://jpsearch.go.jp/term/keyword/異筆> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "異筆" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/白緑> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "白緑" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/石垣> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "石垣" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/砂丘> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "砂丘" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/礎石> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "礎石" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/神社> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "神社" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/稲> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "稲" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/立券> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "立券" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/端裏書> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "端裏書" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/竹> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "竹" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/笠> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "笠" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/紅葉> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "紅葉" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然現象> .
+
+<https://jpsearch.go.jp/term/keyword/紙背> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "紙背" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/結界> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "結界" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類>,
+        <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/絵師> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "絵師" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/緑青> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "緑青" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/縁> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "縁" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/縁起> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "縁起" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/署判> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "署判" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/舟> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "舟" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/道具・乗物> .
+
+<https://jpsearch.go.jp/term/keyword/花押> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "花押" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/茶> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "茶" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/草叢> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "草叢" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/草葺> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "草葺" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/荒野> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "荒野" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/萱> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "萱" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/葉> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "葉" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/葦> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "葦" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/薗> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "薗" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/耕地> .
+
+<https://jpsearch.go.jp/term/keyword/藍> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "藍" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/表題> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "表題" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/裏書> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "裏書" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/西> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "西" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/方位> .
+
+<https://jpsearch.go.jp/term/keyword/見返し> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "見返し" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/角筆> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "角筆" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/谷> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "谷" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然地形> .
+
+<https://jpsearch.go.jp/term/keyword/近景> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "近景" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/追筆> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "追筆" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/書誌> .
+
+<https://jpsearch.go.jp/term/keyword/道> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "道" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/遠景> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "遠景" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/里> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "里" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/里界線> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "里界線" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/野畠> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "野畠" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/耕地> .
+
+<https://jpsearch.go.jp/term/keyword/針葉樹> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "針葉樹" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/植生> .
+
+<https://jpsearch.go.jp/term/keyword/鐘楼> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "鐘楼" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/長地> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "長地" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/表現> .
+
+<https://jpsearch.go.jp/term/keyword/門> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "門" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/開田> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "開田" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/分類> .
+
+<https://jpsearch.go.jp/term/keyword/霞> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "霞" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/自然現象> .
+
+<https://jpsearch.go.jp/term/keyword/青> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "青" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/領主> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "領主" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/領家> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "領家" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/人・服飾> .
+
+<https://jpsearch.go.jp/term/keyword/馬> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "馬" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/動物> .
+
+<https://jpsearch.go.jp/term/keyword/鳥居> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "鳥居" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/構築物> .
+
+<https://jpsearch.go.jp/term/keyword/黄土> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "黄土" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/色彩> .
+
+<https://jpsearch.go.jp/term/keyword/黒丸> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "黒丸" ;
+    ns1:isPartOf <https://jpsearch.go.jp/term/keyword/境界> .
+
+<https://jpsearch.go.jp/term/keyword/動物> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "動物" .
+
+<https://jpsearch.go.jp/term/keyword/自然現象> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "自然現象" .
+
+<https://jpsearch.go.jp/term/keyword/集落> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "集落" .
+
+<https://jpsearch.go.jp/term/keyword/道具・乗物> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "道具・乗物" .
+
+<https://jpsearch.go.jp/term/keyword/方位> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "方位" .
+
+<https://jpsearch.go.jp/term/keyword/耕地> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "耕地" .
+
+<https://jpsearch.go.jp/term/keyword/境界> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "境界" .
+
+<https://jpsearch.go.jp/term/keyword/人・服飾> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "人・服飾" .
+
+<https://jpsearch.go.jp/term/keyword/色彩> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "色彩" .
+
+<https://jpsearch.go.jp/term/keyword/分類> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "分類" .
+
+<https://jpsearch.go.jp/term/keyword/書誌> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "書誌" .
+
+<https://jpsearch.go.jp/term/keyword/植生> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "植生" .
+
+<https://jpsearch.go.jp/term/keyword/表現> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "表現" .
+
+<https://jpsearch.go.jp/term/keyword/自然地形> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "自然地形" .
+
+<https://jpsearch.go.jp/term/keyword/構築物> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "構築物" .
+

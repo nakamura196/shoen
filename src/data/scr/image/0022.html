@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html lang="ja" xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt3">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<title>画像表示 - SHIPS Image Viewer</title>
+<!-- Favicon -->
+<link href="/viewer/images/favicon.ico" rel="shortcut icon"/>
+<!-- default -->
+<link href="/viewer/css/default.css?20200302" media="screen" rel="stylesheet"/>
+<!-- jquery -->
+<script src="/viewer/libs/jquery/jquery-1.11.3.min.js?20200302" type="text/javascript"></script>
+<!-- jquery-ui -->
+<link href="/viewer/libs/jquery-ui/jquery-ui.min.css?20200302" rel="stylesheet"/>
+<script src="/viewer/libs/jquery-ui/jquery-ui.min.js?20200302" type="text/javascript"></script>
+<!-- bootstrap -->
+<link href="/viewer/libs/bootstrap/css/bootstrap.min.css?20200302" rel="stylesheet"/>
+<link href="/viewer/css/bootstrap-custom.css?20200302" rel="stylesheet"/>
+<script src="/viewer/libs/bootstrap/js/bootstrap.min.js?20200302" type="text/javascript"></script>
+<!-- bootstrap switch -->
+<link href="/viewer/libs/bootstrap-switch/css/bootstrap-switch.min.css?20200302" rel="stylesheet"/>
+<script src="/viewer/libs/bootstrap-switch/js/bootstrap-switch.min.js?20200302" type="text/javascript"></script>
+<!-- font awesome -->
+<link href="/viewer/libs/awesome/css/font-awesome.min.css?20200302" rel="stylesheet"/>
+<!-- material-design -->
+<link href="/viewer/libs/material-design/css/material-icons.css?20200302" rel="stylesheet"/>
+<!-- openseadragon -->
+<script src="/viewer/libs/openseadragon/js/openseadragon.min.js?20200302" type="text/javascript"></script>
+<link href="/viewer/css/common.css?20200302" rel="stylesheet"/>
+<link href="/viewer/css/layout.css?20200302" rel="stylesheet"/>
+<link href="/viewer/css/print.css?20200302" media="print" rel="stylesheet"/>
+<script src="/viewer/js/ships.common.js?20200302" type="text/javascript"></script>
+<script src="/viewer/js/ships.image.view.js?20200302" type="text/javascript"></script>
+<script src="/viewer/js/ships.image.view.define.js?20200302" type="text/javascript"></script>
+<script>
+
+				// ページング情報
+				var infoUrlRoot = 'https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/0M0/_101i_/328/';
+				var infoMetaUrlRoot = 'https://clioimg.hi.u-tokyo.ac.jp/viewer/rs/imageMetaInfo/idata/0M0/_101i_/328/';
+
+				var viewUrlRoot = 'https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_101i_/328/';
+				var viewQueryRoot = '?m=all&n=20';
+
+				// 画像リスト
+				var jsonUrls = ["00000001"];
+				var scopeUrls = [];
+
+				// ビューアオブジェクト生成
+				var _view = new ShipsImage.view();
+
+				//<![CDATA[
+
+				$(function() {
+
+					$(document).bind('keydown', function(e) {
+						var keyCode = e.keyCode;
+						var ctrlClick = e.ctrlKey;
+
+						if(ctrlClick && keyCode == 80){
+							// Ctrl + P押下時
+							location.href = $('#print').attr('href');
+							return false;
+						}
+					});
+
+					$('#currentPage').bind('keydown', function(e) {
+						var keyCode = e.keyCode;
+
+						if(keyCode == 13){
+							// Enter押下時
+							_view.movePage($('#currentPage').val());
+							return false;
+						}
+					});
+
+					$('#print').bind('click', function(e) {
+						window.open(this.href);
+						return false;
+					});
+
+					// 履歴遷移
+					$(window).on('popstate', function(e){
+
+						var pageName = sc.replaceAll(window.location.href, viewUrlRoot, '');
+						pageName = sc.replaceAll(pageName, window.location.search, '');
+
+						_view.historyBack(pageName);
+
+						return;
+
+				    });
+
+					// 表示更新
+					_view.updateInfo();
+
+				});
+
+				//]]>
+
+			</script></head><body>
+<!-- &#12467;&#12531;&#12486;&#12490; -->
+<div class="container-fluid h100 no-margin no-padding" id="base-container">
+<script>
+			//<![CDATA[
+
+			$(function() {
+
+				$('#sidemenu-currentPage').bind('keydown', function(e) {
+					var keyCode = e.keyCode;
+
+					if (keyCode == 13) {
+						// Enter押下時
+						_view.movePage($('#sidemenu-currentPage').val());
+						return false;
+					}
+				});
+
+
+				$('[id^=sidemenu-file-]').bind('click', function(e) {
+					var ctrlClick = e.ctrlKey;
+
+					if(ctrlClick){
+						window.open(this.href);
+						return false;
+					}
+
+					_view.movePageName(this.name);
+					return false;
+				});
+
+				$('#container').css('width', 'calc(100% - 250px)');
+				$('#view-top').css('min-width', 'calc(960px - 250px)');
+				$('.view-line').css('min-width', 'calc(960px - 250px)');
+				$('#toolbar').css('min-width', 'calc(960px - 250px)');
+
+				$('#previous').css('display', 'none');
+				$('[id^=currentPage]').css('display', 'none');
+				$('#next').css('display', 'none');
+				$('#open').css('display', 'none');
+
+				// 開くボタン
+				$('#open').click(function() {
+					$('#open').css('display', 'none');
+					$('#sidemenu').css('display', 'block');
+
+					$('#container').css('width', 'calc(100% - 250px)');
+					$('#view-top').css('min-width', 'calc(960px - 250px)');
+					$('.view-line').css('min-width', 'calc(960px - 250px)');
+					$('#toolbar').css('min-width', 'calc(960px - 250px)');
+
+					$('#previous').css('display', 'none');
+					$('[id^=currentPage]').css('display', 'none');
+					$('#next').css('display', 'none');
+
+					return false;
+				});
+
+				// 隠すボタン
+				$('#close').click(function() {
+					$('#open').css('display', '');
+					$('#sidemenu').css('display', 'none');
+
+					$('#container').css('width', '100%');
+					$('#view-top').css('min-width', '960px');
+					$('.view-line').css('min-width', '960px');
+					$('#toolbar').css('min-width', '960px');
+
+					$('#previous').css('display', '');
+					$('[id^=currentPage]').css('display', '');
+					$('#next').css('display', '');
+
+					return false;
+				});
+
+			});
+
+			//]]>
+		</script>
+<div class="sidemenu h100" id="sidemenu">
+<div class="buttons">
+<div class="row no-margin">
+<div class="col-xs-12 btn-grp no-pad">
+<button class="btn btn-primary pull-right" id="close" title="リスト非表示">
+<i class="glyphicon glyphicon-th-list"></i><span class="btn-name">隠す</span>
+</button>
+</div>
+</div>
+<div class="row no-margin">
+<div class="col-xs-12 btn-grp no-pad text-center">
+<button class="btn btn-default space-right" id="sidemenu-previous" title="前へ">
+<i class="glyphicon glyphicon-triangle-left"></i>
+</button><input class="form-control current-page text-right" id="sidemenu-currentPage" maxlength="5" name="sidemenu-currentPage" type="text" value=""/><span class="space-left space-right current-page">/</span><span class="space-left space-right current-page">1</span><!--
+--><button class="btn btn-default" id="sidemenu-next" title="次へ">
+<i class="glyphicon glyphicon-triangle-right"></i>
+</button>
+</div>
+<div class="col-xs-12 btn-grp no-pad text-center">
+<button class="btn btn-default space-right" id="sidemenu-first" title="先頭">
+<i class="glyphicon glyphicon-fast-backward"></i>
+</button><!--
+--><button class="btn btn-default space-right" id="sidemenu-ten-previous" title="１０件前へ">
+<i class="glyphicon glyphicon-backward"></i> - 10
+							</button><!--
+--><button class="btn btn-default space-right" id="sidemenu-ten-next" title="１０件次へ"> + 10
+								<i class="glyphicon glyphicon-forward"></i>
+</button><!--
+--><button class="btn btn-default" id="sidemenu-final" title="最終">
+<i class="glyphicon glyphicon-fast-forward"></i>
+</button>
+</div>
+</div>
+</div>
+<div class="filelist">
+<div class="list-group" id="filelist"></div>
+</div>
+<script>
+					// ファイルリスト生成
+					_view.setFileList("filelist", jsonUrls, viewQueryRoot);
+
+					// ファイルリスト背景色変更
+					_view.setFileListDesign("filelist", scopeUrls);
+
+					$('#sidemenu-previous').click(function() {
+						_view.previous();
+					});
+
+					$('#sidemenu-next').click(function() {
+						_view.next();
+					});
+
+					$('#sidemenu-currentPage').change(function() {
+						_view.movePage($(this).val());
+					});
+
+					$('#sidemenu-first').click(function() {
+						_view.movePage(1);
+					});
+
+					$('#sidemenu-ten-previous').click(function() {
+						_view.movePageCalc(-10);
+					});
+
+					$('#sidemenu-ten-next').click(function() {
+						_view.movePageCalc(10);
+					});
+
+					$('#sidemenu-final').click(function() {
+							_view.movePage(1);
+					});
+
+				</script>
+</div>
+<div class="main-contents" id="container">
+<div id="view-top">
+<div class="row h100 no-margin">
+<div class="col-xs-12">
+<div class="center-block" id="header"><a class="pull-left" href="https://www.hi.u-tokyo.ac.jp/index-j.html" target="_top"><img alt="東京大学" height="30" src="/viewer/images/utokyo-logo.gif"/></a><span class="pull-left" id="system-name">SHIPS Image Viewer</span><a class="pull-right login-link" href="/viewer/login?continue=" id="login-link" name="login-link">
+<strong>所員用ログイン </strong></a>
+</div>
+</div>
+</div>
+</div>
+<div class="view-line"></div>
+<div id="view-content">
+<div class="row h100 no-margin">
+<div class="col-xs-12 center-block space-top space-bottom text-center" id="toolbar"><a class="btn btn-primary btn-xs no-line space-right" href="" id="open" name="open" title="画像リスト表示">
+<i class="glyphicon glyphicon-th-list"></i><span class="btn-name">リスト</span></a><a class="btn btn-primary btn-xs no-line space-right" href="#fullPage" id="fullPage" name="fullPage">
+<i class="glyphicon glyphicon-fullscreen"></i><span class="btn-name">全画面</span></a><a class="btn btn-primary btn-xs no-line space-right" href="#home" id="home" name="home">
+<i class="material-icons" style="width: 11px;">center_focus_weak</i><span class="btn-name">ホーム</span></a>
+<button class="btn btn-default btn-xs space-right" id="previous" title="前へ">
+<i class="glyphicon glyphicon-triangle-left"></i><span class="btn-name">前へ</span>
+</button><input class="form-control input-xs current-page text-right" id="currentPage" maxlength="5" name="currentPage" type="text" value=""/><span class="space-left space-right current-page" id="currentPageSlash">/</span><span class="space-left space-right current-page" id="currentPageMaxCount">1</span>
+<button class="btn btn-default btn-xs space-right" id="next" title="次へ"><span class="btn-name">次へ</span>
+<i class="glyphicon glyphicon-triangle-right"></i>
+</button><a class="btn btn-primary btn-xs no-line space-right" href="#zoomIn" id="zoomIn" name="zoomIn">
+<i class="glyphicon glyphicon-zoom-in"></i><span class="btn-name">拡大</span></a><a class="btn btn-primary btn-xs no-line space-right" href="#zoomOut" id="zoomOut" name="zoomOut">
+<i class="glyphicon glyphicon-zoom-out"></i><span class="btn-name">縮小</span></a><a class="btn btn-primary btn-xs no-line space-right" href="#rotateLeft" id="rotateLeft" name="rotateLeft">
+<i class="fa fa-undo"></i><span class="btn-name">左回転</span></a><a class="btn btn-primary btn-xs no-line space-right" href="#rotateRight" id="rotateRight" name="rotateRight">
+<i class="fa fa-repeat"></i><span class="btn-name">右回転</span></a><input autocomplete="off" data-label-text="ナビ表示" data-size="mini" id="naviSwitch" name="naviSwitch" style="display:none;" title="ナビ表示を切替える" type="checkbox"/><a class="btn btn-primary btn-xs no-line space-left" href="" id="print" name="print" title="印刷プレビュー">
+<i class="glyphicon glyphicon-print"></i><span class="btn-name">印刷プレビュー</span></a>
+<!-- &#20837;&#21147;&#26657;&#27491;&#20197;&#22806;&#12363;&#12425;&#36983;&#31227;&#12375;&#12383;&#22580;&#21512;&#12289;&#12508;&#12479;&#12531;&#12398;&#24038;&#12395;&#20313;&#30333;&#12434;&#20184;&#19982; --><a class="btn btn-primary btn-xs no-line space-left" href="" id="back" name="back" title="画像一覧へ">
+<i class="glyphicon glyphicon-th"></i><span class="btn-name">一覧へ</span></a>
+<!-- &#20837;&#21147;&#26657;&#27491;&#12363;&#12425;&#36983;&#31227;&#12375;&#12383;&#22580;&#21512;&#12289;&#12508;&#12479;&#12531;&#12398;&#21491;&#12395;&#20313;&#30333;&#12434;&#20184;&#19982; -->
+</div>
+<div class="col-xs-12 center-block" id="viewer">
+<div class="center-block" id="view">
+</div>
+<script>
+						// 初期化処理
+						_view.initialize('view', '/viewer');
+						_view.setTileSources(infoUrlRoot, infoMetaUrlRoot, jsonUrls, scopeUrls);
+
+						_view.setDispInfo(viewUrlRoot, viewQueryRoot);
+
+						
+
+						_view.setScopeMode(false, true, '?m=limit&n=20');
+
+						
+
+						_view.setUrl('https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/0M0/_101i_/328?m=all&n=20&');
+
+						_view.setReportInfo('https://clioimg.hi.u-tokyo.ac.jp/viewer/report/view/idata/0M0/_101i_/328/');
+
+ 						_view.setCutImageInfo('', '');
+
+						_view.genView(1);
+
+						$('#previous').click(function() {
+							_view.previous();
+						});
+
+						$('#next').click(function() {
+							_view.next();
+						});
+
+						$('#currentPage').change(function() {
+							_view.movePage($(this).val());
+						});
+
+						// スイッチ表示
+						$("#naviSwitch").bootstrapSwitch();
+
+						$('#naviSwitch').on('switchChange.bootstrapSwitch', function(event, state) {
+
+							if (state) {
+								// ON
+								_view.switchNavigator(true);
+								return;
+							}
+
+							_view.switchNavigator(false);
+						});
+
+					</script>
+</div>
+</div>
+</div>
+<div id="bottom">
+<div class="col-xs-12 text-center" id="permaLink">
+<b><span class="space-right">PermaLink</span></b><span id="permaLink-text"></span>
+</div>
+</div>
+</div>
+</div>
+<!-- &#12467;&#12531;&#12486;&#12490; --></body>
+</html>

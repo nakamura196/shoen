@@ -36,7 +36,7 @@ collection = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": prefix + "/collection/top.json",
     "@type": "sc:Collection",
-    "label": "aaa",
+    "label": "史料編纂所所蔵荘園絵図摸本データベース",
     "vhint": "use-thumb",
     "manifests": manifests
 }

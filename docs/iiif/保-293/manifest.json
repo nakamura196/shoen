@@ -5,6 +5,48 @@
     "attribution": "東京大学史料編纂所",
     "label": "菅浦与大浦下庄堺絵図",
     "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "metadata": [
+        {
+            "label": "模写時所蔵",
+            "value": "（菅浦文書附図菅浦区長保管）"
+        },
+        {
+            "label": "縦",
+            "value": "90"
+        },
+        {
+            "label": "横",
+            "value": "61.4"
+        },
+        {
+            "label": "聚影巻数",
+            "value": "東日本二"
+        },
+        {
+            "label": "絵図番号",
+            "value": "9"
+        },
+        {
+            "label": "国名",
+            "value": "近江(滋賀県)"
+        },
+        {
+            "label": "模写年代",
+            "value": "1918年3月"
+        },
+        {
+            "label": "原本制作年代",
+            "value": "南北朝時代 「乾元元年八月十七日」"
+        },
+        {
+            "label": "材質",
+            "value": "紙本"
+        },
+        {
+            "label": "著色",
+            "value": "着色"
+        }
+    ],
     "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/保-293/manifest.json",
     "sequences": [
         {
@@ -40,6 +82,36 @@
                         "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"
                     },
                     "width": 9713
+                },
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 14028,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/r00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 14028,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/r00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9717
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/r00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 9717
                 }
             ],
             "label": "Current Page Order",
