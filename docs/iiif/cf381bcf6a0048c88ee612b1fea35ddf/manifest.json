@@ -1,0 +1,99 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "薩摩国日置北郷下地中分絵図(表)",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "metadata": [
+        {
+            "label": "模写時所蔵",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "縦",
+            "value": "126.2"
+        },
+        {
+            "label": "横",
+            "value": "64.1"
+        },
+        {
+            "label": "聚影巻数",
+            "value": "西日本二"
+        },
+        {
+            "label": "絵図番号",
+            "value": "14"
+        },
+        {
+            "label": "国名",
+            "value": "薩摩(鹿児島県)"
+        },
+        {
+            "label": "模写年代",
+            "value": "1944年"
+        },
+        {
+            "label": "原本制作年代",
+            "value": "鎌倉時代 （元亨四年）"
+        },
+        {
+            "label": "模写者",
+            "value": "護城鳳山"
+        },
+        {
+            "label": "材質",
+            "value": "紙本"
+        },
+        {
+            "label": "著色",
+            "value": "着色"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 16311,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 16311,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 10386
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 10386
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/full/200,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "高雄山神護寺領地紀伊国〓(かせ)田庄図",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "metadata": [
+        {
+            "label": "模写時所蔵",
+            "value": "神護寺"
+        },
+        {
+            "label": "縦",
+            "value": "95.7"
+        },
+        {
+            "label": "横",
+            "value": "115"
+        },
+        {
+            "label": "聚影巻数",
+            "value": "近畿三"
+        },
+        {
+            "label": "絵図番号",
+            "value": "28"
+        },
+        {
+            "label": "国名",
+            "value": "紀伊(和歌山県)"
+        },
+        {
+            "label": "模写年代",
+            "value": "1905年"
+        },
+        {
+            "label": "原本制作年代",
+            "value": "鎌倉時代"
+        },
+        {
+            "label": "材質",
+            "value": "紙本"
+        },
+        {
+            "label": "著色",
+            "value": "着色"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 15500,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 15500,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 19152
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 19152
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/full/200,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

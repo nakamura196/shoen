@@ -5,167 +5,7 @@
     "label": "史料編纂所所蔵荘園絵図摸本データベース",
     "manifests": [
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-172/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "舎那院御領之絵図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-119/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "称名寺古図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "菅浦与大浦下庄堺絵図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-67/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "明月院古図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "陸奥国骨寺絵図（詳細図）　[表]",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-69/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "尾張国富田庄知行古図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-313-1/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "薩摩国日置北郷下地中分絵図(表)",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-56/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "膳夫庄差図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-68/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "円覚寺境内古図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-57/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "百済庄屋敷田畠差図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-66/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "紀伊国神野真国御庄絵図　康治二年",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/仁-126/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "大和国西大寺与秋篠寺堺相論絵図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/波-305/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "井上庄絵図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-167-2/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "長門二宮絵図2",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-39/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "主殿寮御領小野山与神護寺領堺相論指図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/仁-124/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "但馬国神戸郷絵図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-237/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "乙木庄条里坪付図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/以-341-2/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "陸奥国骨寺絵図（詳細図）　[裏]",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-2/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-55/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "箸喰庄差図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/以-335/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "紀伊国井上本庄絵図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-38/manifest.json",
+            "@id": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
             "@type": "sc:Manifest",
             "label": "足守庄図",
             "thumbnail": {
@@ -173,7 +13,31 @@
             }
         },
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json",
+            "@id": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明月院古図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "舎那院御領之絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "主殿寮御領小野山与神護寺領堺相論指図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
             "@type": "sc:Manifest",
             "label": "陸奥国骨寺絵図（簡略図）",
             "thumbnail": {
@@ -181,15 +45,7 @@
             }
         },
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-49/manifest.json",
-            "@type": "sc:Manifest",
-            "label": "高雄山神護寺領地紀伊国〓(かせ)田庄図",
-            "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/full/200,/0/default.jpg"
-            }
-        },
-        {
-            "@id": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+            "@id": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
             "@type": "sc:Manifest",
             "label": "揖保川筋堰図",
             "thumbnail": {
@@ -197,15 +53,63 @@
             }
         },
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-167-1/manifest.json",
+            "@id": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
             "@type": "sc:Manifest",
-            "label": "長門二宮絵図1",
+            "label": "尾張国富田庄知行古図",
             "thumbnail": {
-                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/full/200,/0/default.jpg"
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/full/200,/0/default.jpg"
             }
         },
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json",
+            "@id": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "但馬国神戸郷絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大和国西大寺与秋篠寺堺相論絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "膳夫庄差図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乙木庄条里坪付図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "箸喰庄差図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "陸奥国骨寺絵図（詳細図）　[裏]",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-2/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
             "@type": "sc:Manifest",
             "label": "伯耆国河村郡東郷庄之図",
             "thumbnail": {
@@ -213,11 +117,107 @@
             }
         },
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/保-162/manifest.json",
+            "@id": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "紀伊国神野真国御庄絵図　康治二年",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "長門二宮絵図1",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "薩摩国日置北郷下地中分絵図(表)",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "紀伊国井上本庄絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "長門二宮絵図2",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "菅浦与大浦下庄堺絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "井上庄絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
             "@type": "sc:Manifest",
             "label": "神護寺領高雄山絵図",
             "thumbnail": {
                 "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高雄山神護寺領地紀伊国〓(かせ)田庄図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "円覚寺境内古図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "称名寺古図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "百済庄屋敷田畠差図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/fe8a1ee96488d525108a960d38fb1e75/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "陸奥国骨寺絵図（詳細図）　[表]",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/200,/0/default.jpg"
             }
         }
     ],

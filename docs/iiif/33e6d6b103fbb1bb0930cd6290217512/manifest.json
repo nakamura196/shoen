@@ -1,0 +1,125 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "主殿寮御領小野山与神護寺領堺相論指図",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "metadata": [
+        {
+            "label": "模写時所蔵",
+            "value": "神護寺"
+        },
+        {
+            "label": "縦",
+            "value": "62.5"
+        },
+        {
+            "label": "横",
+            "value": "101.2"
+        },
+        {
+            "label": "聚影巻数",
+            "value": "近畿一"
+        },
+        {
+            "label": "絵図番号",
+            "value": "13"
+        },
+        {
+            "label": "国名",
+            "value": "山城(京都府)"
+        },
+        {
+            "label": "模写年代",
+            "value": "1904年"
+        },
+        {
+            "label": "原本制作年代",
+            "value": "鎌倉時代 「寛喜二年九月廿日」"
+        },
+        {
+            "label": "材質",
+            "value": "紙本"
+        },
+        {
+            "label": "著色",
+            "value": "着色"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 17020,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 17020,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 11713
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 11713
+                },
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 11786,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p2",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/r00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 11786,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/r00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 17172
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/r00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 17172
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/full/200,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

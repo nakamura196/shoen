@@ -17,6 +17,8 @@ import bs4
 
 files = glob.glob("data/scr/html/*.html")
 
+files = sorted(files)
+
 pages = "https://nakamura196.github.io/shoen"
 
 for file in files:
@@ -80,6 +82,8 @@ for file in files:
 
   index = 0
 
+  cn_hash = hashlib.md5(cn.encode()).hexdigest()
+
   for i in range(len(list2)):
 
     id = list2[i]
@@ -110,17 +114,18 @@ for file in files:
 
     width = df["width"]
     height = df["height"]
+    
 
     canvases.append({
-        "@id": "{pages}/iiif/{cn}/manifest.json/canvas/p{index}".format(pages=pages, cn=cn, index=index),
+        "@id": "{pages}/iiif/{cn}/canvas/p{index}".format(pages=pages, cn=cn_hash, index=index),
         "@type": "sc:Canvas",
         "height": height,
         "images": [
             {
-                "@id": "{pages}/iiif/{cn}/manifest.json/annotation/p{index}-image".format(pages=pages, cn=cn, index=index),
+                "@id": "{pages}/iiif/{cn}/annotation/p{index}-image".format(pages=pages, cn=cn_hash, index=index),
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
-                "on": "{pages}/iiif/{cn}/manifest.json/canvas/p{index}".format(pages=pages, cn=cn, index=index),
+                "on": "{pages}/iiif/{cn}/canvas/p{index}".format(pages=pages, cn=cn_hash, index=index),
                 "resource": {
                     "@id": "{image}/full/full/0/default.jpg".format(image=image),
                     "@type": "dctypes:Image",
@@ -141,19 +146,21 @@ for file in files:
         },
         "width": width
     })
+
+  
   
   manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "{pages}/iiif/{cn}/manifest.json".format(pages=pages, cn=cn),
+    "@id": "{pages}/iiif/{cn}/manifest.json".format(pages=pages, cn=cn_hash),
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
     "metadata": ms,
     "label": label,
     "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
-    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest={pages}/iiif/{cn}/manifest.json".format(pages=pages, cn=cn),
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest={pages}/iiif/{cn}/manifest.json".format(pages=pages, cn=cn_hash),
     "sequences": [
         {
-            "@id": "{pages}/iiif/{cn}/manifest.json/sequence/normal".format(pages=pages, cn=cn),
+            "@id": "{pages}/iiif/{cn}/sequence/normal".format(pages=pages, cn=cn_hash),
             "@type": "sc:Sequence",
             "canvases": canvases,
             "label": "Current Page Order",
@@ -166,7 +173,7 @@ for file in files:
     "viewingDirection": "left-to-right"
   }
 
-  opath = "../docs/iiif/" + cn + "/manifest.json"
+  opath = "../docs/iiif/" + cn_hash + "/manifest.json"
   os.makedirs(os.path.dirname(opath), exist_ok=True)
 
   f2 = open(opath, 'w')

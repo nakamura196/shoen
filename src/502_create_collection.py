@@ -16,12 +16,17 @@ import glob
 
 files = glob.glob("../docs/iiif/*/manifest.json")
 
+files = sorted(files)
+
 f = open("../settings.yml", "r+")
 prefix = yaml.load(f, Loader=yaml.SafeLoader)["prefix"]
 
 manifests = []
 
 for file in files:
+
+    print(file)
+
     json_open = open(file, 'r')
     manifest = json.load(json_open)
 
