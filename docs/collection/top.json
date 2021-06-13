@@ -1,0 +1,73 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/shoen/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "aaa",
+    "manifests": [
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/保-119/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "称名寺古図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "菅浦与大浦下庄堺絵図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/保-67/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明月院古図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "陸奥国骨寺絵図（詳細図）　[表]",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/97,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/shoen/iiif/保-68/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "円覚寺境内古図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/full/200,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "足守庄図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/97,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "陸奥国骨寺絵図（簡略図）",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/97,/0/default.jpg"
+            }
+        },
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伯耆国河村郡東郷庄之図",
+            "thumbnail": {
+                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/full/97,/0/default.jpg"
+            }
+        }
+    ],
+    "vhint": "use-thumb"
+}
