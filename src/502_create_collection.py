@@ -27,6 +27,9 @@ for file in files:
 
     print(file)
 
+    if "-" in file:
+      continue
+
     json_open = open(file, 'r')
     manifest = json.load(json_open)
 
