@@ -265,7 +265,7 @@
                 "schema:image": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/full/200,/0/default.jpg",
                 "schema:spatial": "",
                 "schema:temporal": "",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "temporal:label": "",
                 "uri": "http://example.org/data/以-328"
             }
@@ -3535,7 +3535,7 @@
                 "schema:latitude": "34.898589",
                 "schema:longitude": "134.551699",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5092,4867,400,453",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/b964be3d1b6d42730872a53356838cf4",
                 "xywh": "5092,4867,400,453"
             },
@@ -3555,7 +3555,7 @@
                 "schema:latitude": "34.890472",
                 "schema:longitude": "134.541965",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2415,8117,1329,1734",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/10e631adccbd7e791356944f7f852d02",
                 "xywh": "2415,8117,1329,1734"
             },
@@ -3575,7 +3575,7 @@
                 "schema:latitude": "34.887337",
                 "schema:longitude": "134.547517",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3833,8927,367,660",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/32ea447de3339a00b4b4fbedc84c115c",
                 "xywh": "3833,8927,367,660"
             },
@@ -3595,7 +3595,7 @@
                 "schema:latitude": "34.871102",
                 "schema:longitude": "134.548609",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3026,11863,365,643",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/e250d9e602b8cf2becb0e4d015544001",
                 "xywh": "3026,11863,365,643"
             },
@@ -3615,7 +3615,7 @@
                 "schema:latitude": "34.878855",
                 "schema:longitude": "134.548101",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3793,10737,1015,2129",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/e7349a1e420c35a9c0d1af681947e42d",
                 "xywh": "3793,10737,1015,2129"
             },
@@ -3635,7 +3635,7 @@
                 "schema:latitude": "34.872729",
                 "schema:longitude": "134.544883",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1615,13005,1005,437",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/598e46c2a4cf16dfa5cb5481795c069f",
                 "xywh": "1615,13005,1005,437"
             },
@@ -3655,7 +3655,7 @@
                 "schema:latitude": "34.865673",
                 "schema:longitude": "134.553731",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4862,12645,536,635",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/1309e586eb7295ae74cadc7bdd90f04f",
                 "xywh": "4862,12645,536,635"
             },
@@ -3675,7 +3675,7 @@
                 "schema:latitude": "34.866609",
                 "schema:longitude": "134.545098",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2584,14284,432,759",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/2a35ac2df8d19f19aadb517a00bb1bd1",
                 "xywh": "2584,14284,432,759"
             },
@@ -3695,7 +3695,7 @@
                 "schema:latitude": "34.861104",
                 "schema:longitude": "134.537447",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1724,15361,525,361",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/6060d282f4e64d45a2c42a3229cf2195",
                 "xywh": "1724,15361,525,361"
             },
@@ -3715,7 +3715,7 @@
                 "schema:latitude": "34.860379",
                 "schema:longitude": "134.533031",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=683,15810,629,417",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/67d7da6d050cd764144be387d7017377",
                 "xywh": "683,15810,629,417"
             },
@@ -3735,7 +3735,7 @@
                 "schema:latitude": "34.846711",
                 "schema:longitude": "134.543058",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3682,16071,474,492",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/0ab0d691a725aadf092aa0ab77fb74f9",
                 "xywh": "3682,16071,474,492"
             },
@@ -3755,7 +3755,7 @@
                 "schema:latitude": "34.850605",
                 "schema:longitude": "134.537777",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=816,17162,394,566",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/7472facc401c2594ac9f0d1ffa7f8e4a",
                 "xywh": "816,17162,394,566"
             },
@@ -3775,7 +3775,7 @@
                 "schema:latitude": "34.84117",
                 "schema:longitude": "134.545571",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4130,17133,500,623",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/2b94a783839c85f8428f60f7e82ac5ce",
                 "xywh": "4130,17133,500,623"
             },
@@ -3795,7 +3795,7 @@
                 "schema:latitude": "34.836849",
                 "schema:longitude": "134.544396",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4848,18394,296,557",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/11d56487332dd9942a2e5e10158f5d62",
                 "xywh": "4848,18394,296,557"
             },
@@ -3815,7 +3815,7 @@
                 "schema:latitude": "34.842476",
                 "schema:longitude": "134.532511",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1981,18727,407,564",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/537ccac2332686acb48961527a28430e",
                 "xywh": "1981,18727,407,564"
             },
@@ -3835,7 +3835,7 @@
                 "schema:latitude": "34.834887",
                 "schema:longitude": "134.526773",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2197,19448,410,759",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/467d440cdcede59905040ad5a491a628",
                 "xywh": "2197,19448,410,759"
             },
@@ -3855,7 +3855,7 @@
                 "schema:latitude": "34.825272",
                 "schema:longitude": "134.52929",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1911,20634,367,661",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/4f5c60bfcb5350b43cfb69305d432bfa",
                 "xywh": "1911,20634,367,661"
             },
@@ -3875,7 +3875,7 @@
                 "schema:latitude": "34.824925",
                 "schema:longitude": "134.521735",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=463,21432,386,715",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/6f53259bba98c2d9fe3f1ce64c2ea35a",
                 "xywh": "463,21432,386,715"
             },
@@ -3895,7 +3895,7 @@
                 "schema:latitude": "34.824166",
                 "schema:longitude": "134.524568",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1255,21980,770,394",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/08a85c7b3129efa6bd83fb5bb94d2e00",
                 "xywh": "1255,21980,770,394"
             },
@@ -3915,7 +3915,7 @@
                 "schema:latitude": "34.890959",
                 "schema:longitude": "134.551472",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5236,6197,433,809",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/38825f2b1cf6794df70079c1533adf00",
                 "xywh": "5236,6197,433,809"
             },
@@ -3935,7 +3935,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=520,9022,626,743",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/a76140d21dfbef2893f0863f07d88170",
                 "xywh": "520,9022,626,743"
             },
@@ -3955,7 +3955,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8477,9412,919,899",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/67357b5a77c86bc6f7a424b8f34fcdd6",
                 "xywh": "8477,9412,919,899"
             },
@@ -3975,7 +3975,7 @@
                 "schema:latitude": "34.847595",
                 "schema:longitude": "134.552129",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5696,15854,399,486",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/953b61b51ce140056ddf384aca796a1c",
                 "xywh": "5696,15854,399,486"
             },
@@ -3995,7 +3995,7 @@
                 "schema:latitude": "34.860148",
                 "schema:longitude": "134.553278",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6786,15300,371,567",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/ba87e4ec9ad6c8b7561537902bfbe8bf",
                 "xywh": "6786,15300,371,567"
             },
@@ -4015,7 +4015,7 @@
                 "schema:latitude": "34.851039",
                 "schema:longitude": "134.554799",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6988,15937,329,469",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/3a6aa58681ffc80a734ac74e64ffb09c",
                 "xywh": "6988,15937,329,469"
             },
@@ -4035,7 +4035,7 @@
                 "schema:latitude": "34.845884",
                 "schema:longitude": "134.557287",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7094,16555,383,477",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/ed60b9e64e83296e08d5243e8ddc9441",
                 "xywh": "7094,16555,383,477"
             },
@@ -4055,7 +4055,7 @@
                 "schema:latitude": "34.839543",
                 "schema:longitude": "134.558959",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6722,17543,298,449",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/0d944ddd6acde2fb9638fdf01ee5592d",
                 "xywh": "6722,17543,298,449"
             },
@@ -4075,7 +4075,7 @@
                 "schema:latitude": "34.831636",
                 "schema:longitude": "134.557179",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6003,18728,388,519",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/6eca40e971bef95ab2e89cbcfb205126",
                 "xywh": "6003,18728,388,519"
             },
@@ -4095,7 +4095,7 @@
                 "schema:latitude": "34.828531",
                 "schema:longitude": "134.562467",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7125,19621,442,448",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/c12228bc9981e6a80bae77a8deb4cf59",
                 "xywh": "7125,19621,442,448"
             },
@@ -4115,7 +4115,7 @@
                 "schema:latitude": "34.82715",
                 "schema:longitude": "134.571066",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7627,19960,239,453",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/6ca9cf3280f083ece15d7e9b6aa003c1",
                 "xywh": "7627,19960,239,453"
             },
@@ -4135,7 +4135,7 @@
                 "schema:latitude": "34.823678",
                 "schema:longitude": "134.56052",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6810,20332,376,546",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/bb184ac6f5b3eee5efbc276c8ab9e749",
                 "xywh": "6810,20332,376,546"
             },
@@ -4155,7 +4155,7 @@
                 "schema:latitude": "34.81649",
                 "schema:longitude": "134.562103",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7091,20988,447,809",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/7171b8879ad76d55226812ae81eee1bf",
                 "xywh": "7091,20988,447,809"
             },
@@ -4175,7 +4175,7 @@
                 "schema:latitude": "34.822587",
                 "schema:longitude": "134.572222",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8196,20695,616,376",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/570ada69445aed20d3e7d08dcda6b0a3",
                 "xywh": "8196,20695,616,376"
             },
@@ -4195,7 +4195,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6693,21122,306,622",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/897f5dfe59982049c4b3a6df64f7bf86",
                 "xywh": "6693,21122,306,622"
             },
@@ -4215,7 +4215,7 @@
                 "schema:latitude": "34.819598",
                 "schema:longitude": "134.570047",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7600,21034,277,581",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/102b8957233cbeff9538d92388ae1510",
                 "xywh": "7600,21034,277,581"
             },
@@ -4235,7 +4235,7 @@
                 "schema:latitude": "34.815457",
                 "schema:longitude": "134.554118",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5319,21990,346,662",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/196122fa56cbd73a06e27be0a6b149fa",
                 "xywh": "5319,21990,346,662"
             },
@@ -4255,7 +4255,7 @@
                 "schema:latitude": "34.815143",
                 "schema:longitude": "134.559726",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6807,21878,395,627",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/fd8a3b188efb5e45e582846d812b6678",
                 "xywh": "6807,21878,395,627"
             },
@@ -4275,7 +4275,7 @@
                 "schema:latitude": "34.817601",
                 "schema:longitude": "134.578505",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8345,21505,550,536",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/21e40bd4c73edd9c4078e0aa3fecd736",
                 "xywh": "8345,21505,550,536"
             },
@@ -4295,7 +4295,7 @@
                 "schema:latitude": "34.812149",
                 "schema:longitude": "134.558912",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7151,22425,472,676",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/159d8160de61fb2f3f7d4a0081488a8b",
                 "xywh": "7151,22425,472,676"
             },
@@ -4315,7 +4315,7 @@
                 "schema:latitude": "34.810636",
                 "schema:longitude": "134.571453",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7741,22580,536,809",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/dc0f11a8d0629a3251199df0262e5cb7",
                 "xywh": "7741,22580,536,809"
             },
@@ -4335,7 +4335,7 @@
                 "schema:latitude": "34.805542",
                 "schema:longitude": "134.599256",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9206,21968,491,693",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/27e72df9bf159aeb88538ecd8da6e06a",
                 "xywh": "9206,21968,491,693"
             },
@@ -4355,7 +4355,7 @@
                 "schema:latitude": "34.812685",
                 "schema:longitude": "134.58258",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8810,22161,364,499",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/8420b46f0dcd1dec116fed710977606d",
                 "xywh": "8810,22161,364,499"
             },
@@ -4375,7 +4375,7 @@
                 "schema:latitude": "34.814805",
                 "schema:longitude": "134.587374",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8784,22953,381,625",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/3f30f767dafab81b4dd98eb0ba0f28c2",
                 "xywh": "8784,22953,381,625"
             },
@@ -4395,7 +4395,7 @@
                 "schema:latitude": "34.806906",
                 "schema:longitude": "134.586402",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9248,22717,449,701",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/5439728e22a71224ea18c33259adc5e9",
                 "xywh": "9248,22717,449,701"
             },
@@ -4415,7 +4415,7 @@
                 "schema:latitude": "34.798418",
                 "schema:longitude": "134.585913",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9366,23695,516,600",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/8d19ba2b0a7b4147104e62493f776b9f",
                 "xywh": "9366,23695,516,600"
             },
@@ -4435,7 +4435,7 @@
                 "schema:latitude": "34.797365",
                 "schema:longitude": "134.584522",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8927,23981,432,583",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/4ecee39f0bc7babffd546aae1800d739",
                 "xywh": "8927,23981,432,583"
             },
@@ -4455,7 +4455,7 @@
                 "schema:latitude": "34.807603",
                 "schema:longitude": "134.560498",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6294,23735,609,499",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/be29dda56a6cd10289fc08bfb02d7e1d",
                 "xywh": "6294,23735,609,499"
             },
@@ -4475,7 +4475,7 @@
                 "schema:latitude": "34.806083",
                 "schema:longitude": "134.573775",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7246,23977,681,639",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/b4445d56e73346697fb1b3d08a21433b",
                 "xywh": "7246,23977,681,639"
             },
@@ -4495,7 +4495,7 @@
                 "schema:latitude": "34.784149",
                 "schema:longitude": "134.586834",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9617,26243,431,621",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/f925e1143386a4d1cbd2b962051a1127",
                 "xywh": "9617,26243,431,621"
             },
@@ -4515,7 +4515,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7067,25821,415,556",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/62c77f5f5d2f9e24aac8460865eb3820",
                 "xywh": "7067,25821,415,556"
             },
@@ -4535,7 +4535,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6260,25159,622,1087",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/dc3c28cb31c6ca6f36123c4a730e1960",
                 "xywh": "6260,25159,622,1087"
             },
@@ -4555,7 +4555,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1702,17902,507,717",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/fb713adad80791a5e0f215bcefba6d38",
                 "xywh": "1702,17902,507,717"
             },
@@ -4575,7 +4575,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4253,18070,451,885",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/02d078cdd432ab25f5bddda53facd2f5",
                 "xywh": "4253,18070,451,885"
             },
@@ -4595,7 +4595,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4008,18960,338,535",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/bfc2a2c5338883168c0d6a2898fef35a",
                 "xywh": "4008,18960,338,535"
             },
@@ -4615,7 +4615,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5187,26014,674,607",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/4e81448212f78926a20b2c65220809f1",
                 "xywh": "5187,26014,674,607"
             },
@@ -4635,7 +4635,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3750,496,658,391",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/ab041e093324c8498e6fcbd2ec7de7c1",
                 "xywh": "3750,496,658,391"
             },
@@ -4655,7 +4655,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5073,547,565,480",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/34b907a73b38c1f942eccfd69b6f9ecd",
                 "xywh": "5073,547,565,480"
             },
@@ -4675,7 +4675,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6803,1397,600,719",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/f2f2045e728f303e7db1011007e04154",
                 "xywh": "6803,1397,600,719"
             },
@@ -4695,7 +4695,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4706,2119,915,642",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/f90667c0cb86d880d762e33c801a79a6",
                 "xywh": "4706,2119,915,642"
             },
@@ -4715,7 +4715,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6816,3494,831,758",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/cb20a6a188b8e0de71a61a561f5040d3",
                 "xywh": "6816,3494,831,758"
             },
@@ -4735,7 +4735,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5053,4093,758,873",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/1759478aec8c11437f6628b13e53670d",
                 "xywh": "5053,4093,758,873"
             },
@@ -4755,7 +4755,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6837,6024,810,1031",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/91cf127eed339e1645fe2a5f78451e56",
                 "xywh": "6837,6024,810,1031"
             },
@@ -4775,7 +4775,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6298,8024,613,764",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/7c05bb1246f46c682fe5c9cb44fe5aaf",
                 "xywh": "6298,8024,613,764"
             },
@@ -4795,7 +4795,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5656,9646,546,851",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/d4cc50cafbe6d9877802e752106397a0",
                 "xywh": "5656,9646,546,851"
             },
@@ -4815,7 +4815,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4862,13287,648,669",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/ec2ef81008d95e75da878c51d462ef5c",
                 "xywh": "4862,13287,648,669"
             },
@@ -4835,7 +4835,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2735,10739,411,560",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/2cd793385d6dcc094d6baa9be84eb6fa",
                 "xywh": "2735,10739,411,560"
             },
@@ -4855,7 +4855,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=442,12736,750,522",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/21609939560389145a467ec8528e7a16",
                 "xywh": "442,12736,750,522"
             },
@@ -4875,7 +4875,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=655,11358,453,407",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/de86ed7d407662f5c4f575b94edf0f97",
                 "xywh": "655,11358,453,407"
             },
@@ -4895,7 +4895,7 @@
                 "schema:latitude": "34.854445",
                 "schema:longitude": "134.565064",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8629,13453,769,1616",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/47f808ac90b1bc2cb00805c7e2094e03",
                 "xywh": "8629,13453,769,1616"
             },
@@ -4915,7 +4915,7 @@
                 "schema:latitude": "34.84537",
                 "schema:longitude": "134.551896",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5893,16594,394,622",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/2ad32307bb9c36261e4129727c7249e8",
                 "xywh": "5893,16594,394,622"
             },
@@ -4935,7 +4935,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1699,22518,592,777",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/9c4c6dbbbc7c1e4811c0dc7e06e56495",
                 "xywh": "1699,22518,592,777"
             },
@@ -4955,7 +4955,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=711,18691,799,461",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/e9f049dc716294a774b02083a2e31412",
                 "xywh": "711,18691,799,461"
             },
@@ -4975,7 +4975,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4406,14738,565,758",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/0d03c2353117d8764f9637b986280b6c",
                 "xywh": "4406,14738,565,758"
             },
@@ -4995,7 +4995,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6132,6258,707,1241",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/973a48a17d576bf0557f2605798649c1",
                 "xywh": "6132,6258,707,1241"
             },
@@ -5015,7 +5015,7 @@
                 "schema:latitude": "",
                 "schema:longitude": "",
                 "schema:relatedLink": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8633,24419,614,553",
-                "schema:url": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "schema:url": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "uri": "http://example.org/data/b8c3647915d026deb2fa6a3b3a044007",
                 "xywh": "8633,24419,614,553"
             }

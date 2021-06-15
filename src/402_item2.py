@@ -132,6 +132,10 @@ for i in range(1, r_count):
         "value": df
     }
 
+hash_id = hashlib.md5(cn.encode()).hexdigest()
+
+manifest = prefix + "/iiif/" + hash_id + "/manifest.json"
+
 for anno in annos:
 
     label = anno["label"]
@@ -167,6 +171,7 @@ for anno in annos:
         geohash = ""
 
     id = hashlib.md5((cn + member).encode('utf-8')).hexdigest()
+    
 
     cn2 = cn
 
@@ -174,7 +179,7 @@ for anno in annos:
 
     thumbnail = image + "/" + xywh + "/200,/0/default.jpg"
     
-    rows.append(["http://example.org/data/"+id, id, "", cn2, key, desc, category, assume, exp, long, lat, geohash, xywh, prefix + "/iiif/" + cn + "/manifest.json", canvas, member, thumbnail, "http://example.org/data/"+cn])
+    rows.append(["http://example.org/data/"+id, id, "", cn2, key, desc, category, assume, exp, long, lat, geohash, xywh, manifest, canvas, member, thumbnail, "http://example.org/data/"+cn])
 
 with open("item/{}/data.csv".format(cn), 'w') as f:
     writer = csv.writer(f)

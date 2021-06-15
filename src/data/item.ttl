@@ -74,7 +74,7 @@
 <http://example.org/data/以-328> a <https://jpsearch.go.jp/term/type/Item> ;
     rdfs:label "揖保川筋堰図" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/full/200,/0/default.jpg> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceInfo <http://example.org/data/以-328#sourceinfo> .
 
 <http://example.org/data/以-341-1> a <https://jpsearch.go.jp/term/type/Item> ;
@@ -160,9 +160,9 @@
 <http://example.org/data/保-38#sourceinfo> a <https://jpsearch.go.jp/term/type/ソース情報> ;
     ns1:provider <http://example.org/data/W23> .
 
-<https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+<https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
-<https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+<https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
 <https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 

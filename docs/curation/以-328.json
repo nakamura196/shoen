@@ -8,7 +8,7 @@
     "label": "",
     "selections": [
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json/range",
+            "@id": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json/range",
             "@type": "sc:Range",
             "label": "",
             "members": [
@@ -2039,7 +2039,7 @@
                 }
             ],
             "within": {
-                "@id": "https://nakamura196.github.io/shoen/iiif/以-328/manifest.json",
+                "@id": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
                 "@type": "sc:Manifest",
                 "label": ""
             }

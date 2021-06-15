@@ -242,7 +242,7 @@
         <http://example.org/data/f925e1143386a4d1cbd2b962051a1127>,
         <http://example.org/data/fb713adad80791a5e0f215bcefba6d38>,
         <http://example.org/data/fd8a3b188efb5e45e582846d812b6678> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceInfo <http://example.org/data/以-328#sourceinfo> .
 
 <http://example.org/data/以-341-1> a <https://jpsearch.go.jp/term/type/Item>,
@@ -1009,7 +1009,7 @@
         "表記: こんけん山" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4253,18070,451,885/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4253,18070,451,885> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/071fb7872519e047d95c84e99ef78717> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1030,7 +1030,7 @@
         "表記: 山津屋村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1255,21980,770,394/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1255,21980,770,394> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保川町山津屋。北山村の南、正条村の西に位置し、村内を馬路川が東流する。南には宝記山がある。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1052,7 +1052,7 @@
         "表記: 大道村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3682,16071,474,492/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3682,16071,474,492> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市龍野町大道。当地を中世山陽道が通っていたとみられる。大川（揖保川）の左岸、浦上井の末流。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1063,7 +1063,7 @@
         "表記: 浦上井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4406,14738,565,758/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4406,14738,565,758> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/0d944ddd6acde2fb9638fdf01ee5592d> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1073,7 +1073,7 @@
         "表記: 井上" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6722,17543,298,449/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6722,17543,298,449> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市誉田町井上。片吹村の北に位置し、揖東郡に属する。北は高駄村、東は林田川を挟んで阿曾村。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1118,7 +1118,7 @@
         "表記: 福地" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7600,21034,277,581/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7600,21034,277,581> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町福地。岩見郷の中心部に位置する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1130,7 +1130,7 @@
         "表記: くろす川" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/2415,8117,1329,1734/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2415,8117,1329,1734> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "栗栖川。揖保川の支流。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1142,7 +1142,7 @@
         "表記: 中陣村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4848,18394,296,557/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4848,18394,296,557> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保町中臣。山下村の南に位置し、揖西郡に属する。東は揖東郡下沖村。村の中心部を揖保川の旧河道に沿って浦上井が蛇行しながら流れる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1167,7 +1167,7 @@
         "表記: 日飼村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4862,12645,536,635/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4862,12645,536,635> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市龍野町日飼。島田村の南に位置し、揖保川の左岸沿いに延びる自然堤防上に立地する。揖東郡に属し、東は片山村。中世は小宅庄に属した。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1195,7 +1195,7 @@
         "表記: 吉福" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7151,22425,472,676/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7151,22425,472,676> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町吉福。岩見構村の南に位置し、西は林田川で限られ、同川と揖保川の合流点に近い。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1220,7 +1220,7 @@
         "表記: はしざきさの井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5053,4093,758,873/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5053,4093,758,873> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/17b1232de839a4608b83623440e91e55> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1251,7 +1251,7 @@
         "表記: 真砂" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5319,21990,346,662/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5319,21990,346,662> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保町真砂。萩原村の東に位置し、村の南部で揖保川と林田川が合流する。揖西郡に属した。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1318,7 +1318,7 @@
         "表記: 大山" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/442,12736,750,522/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=442,12736,750,522> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/21e40bd4c73edd9c4078e0aa3fecd736> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1328,7 +1328,7 @@
         "表記: 竹広" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8345,21505,550,536/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8345,21505,550,536> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町竹広。連常寺村の南に位置する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1393,7 +1393,7 @@
         "表記: 福井庄" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9206,21968,491,693/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9206,21968,491,693> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "揖保川の左岸、現兵庫県姫路市南西部の勝原区・大津区・網干区と太子町糸井を含む一帯に比定され、ほぼ中央部を大津茂川が南流する。一二世紀末以降は山城神護寺領の庄園で、鎌倉時代には東保・西保に分れ、それぞれに地頭が置かれた。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1440,7 +1440,7 @@
         "表記: 龍野" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/2584,14284,432,759/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2584,14284,432,759> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "鶏籠山南麓に築かれた龍野城の城下町。南から西は山に囲まれ、東から南にかけては揖保川が流れる。揖西郡に属する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1451,7 +1451,7 @@
         "表記: 上仲" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5893,16594,394,622/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5893,16594,394,622> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "上沖村。現兵庫県たつの市誉田町上沖。下沖村の北に位置し、揖東郡に属する。西は揖保川の旧流路を隔てて揖西郡山下村、東は高駄村。岩見井に接して上沖とみえる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1463,7 +1463,7 @@
         "表記: 山下村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4130,17133,500,623/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4130,17133,500,623> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保町山下。浦上井を利用する村。大道村の南に位置し、揖西郡に属する。西は揖保川を挟んで野田村、東は揖東郡上沖村。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1484,7 +1484,7 @@
         "表記: 半田井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/2735,10739,411,560/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2735,10739,411,560> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/2dfa0b9b0791cc7bbb22b686b0f6ae8f> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1566,7 +1566,7 @@
         "表記: 佐野" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3833,8927,367,660/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3833,8927,367,660> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市新宮町佐野。觜崎村の南に位置し、揖保川とその支流栗栖川の合流点付近に立地する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1577,7 +1577,7 @@
         "表記: 新宮井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5073,547,565,480/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5073,547,565,480> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/3665e13154672f0d70cf43434714d21a> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1610,7 +1610,7 @@
         "表記: はしざき" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5236,6197,433,809/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5236,6197,433,809> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市新宮町觜崎。下野田村の東、揖保川の右岸に位置する。揖東郡に属した。当地は揖保川と美作道が交接する要衝の地で、中世には越部下庄の庄域にあったと推測される。大川（揖保川）から南の佐野に至る「はしさきの井」が北村付近で分岐し、当地まで延びている。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1631,7 +1631,7 @@
         "表記: 下堂本" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6988,15937,329,469/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6988,15937,329,469> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市龍野町堂本。上堂本村の南に位置し、揖東郡に属する。西は揖西郡四箇村。小宅井の末流。明治に入って下堂本と合併し、堂本村となる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1688,7 +1688,7 @@
         "表記: 和久波多" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8784,22953,381,625/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8784,22953,381,625> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市網干区和久。谷村の南西に位置し、西は糸井村・高田村。揖東郡に属した。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1763,7 +1763,7 @@
         "表記: 新在家村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/2197,19448,410,759/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2197,19448,410,759> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保川町新在家。野田村の南、揖保川右岸に位置する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1797,7 +1797,7 @@
         "表記: 安志川" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8629,13453,769,1616/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8629,13453,769,1616> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現林田川。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1822,7 +1822,7 @@
         "表記: 南" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5187,26014,674,607/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5187,26014,674,607> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/4ecee39f0bc7babffd546aae1800d739> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -1832,7 +1832,7 @@
         "表記: 津市場" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8927,23981,432,583/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8927,23981,432,583> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市網干区津市場。坂上村の西に位置し、村内を宮内川が東流する。揖東郡に属し、西は揖西郡下余部村。姫路城下から室津へ通ずる道が通る。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1844,7 +1844,7 @@
         "表記: 正条村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1911,20634,367,661/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1911,20634,367,661> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保川町正条。新在家村の南に位置し、揖保川右岸に立地する。山陽道の宿駅。中世には山科家領下揖保庄西方に含まれる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1869,7 +1869,7 @@
         "表記: のだ村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1981,18727,407,564/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1981,18727,407,564> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "野田村。現兵庫県たつの市揖保川町野田。中垣内川を挟んで半田村の南に位置し、揖保川右岸に立地する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1880,7 +1880,7 @@
         "表記: 坂上出屋敷" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9248,22717,449,701/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9248,22717,449,701> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市網干区坂出。福井村の東に位置し、揖東郡に属する。南に隣接する坂上村の枝郷。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1911,7 +1911,7 @@
         "表記: 蓮常寺" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8196,20695,616,376/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8196,20695,616,376> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町蓮常寺。福地村の東に位置する。連城寺村・蓮城寺村とも記す。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1923,7 +1923,7 @@
         "表記: 御城山" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1615,13005,1005,437/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1615,13005,1005,437> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "鶏籠山。山頂に龍野城跡が残る。室町時代から織豊期にかけての山城遺構。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1966,7 +1966,7 @@
         "表記: ひ山" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1724,15361,525,361/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1724,15361,525,361> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "樋山。のち日山村。現兵庫県たつの市龍野町日山。揖西郡に属する。東端を揖保川が南流する。西は小神村。粒坐天照神社の参道から台山にかけてには武家屋敷があり、その西に集落が密集する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -1999,7 +1999,7 @@
         "表記: 浜田井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7067,25821,415,556/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7067,25821,415,556> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/63b3e956149d435083c1fba45b65789d> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2044,7 +2044,7 @@
         "表記: 東" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8477,9412,919,899/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8477,9412,919,899> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/67d7da6d050cd764144be387d7017377> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2055,7 +2055,7 @@
         "表記: 小神村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/683,15810,629,417/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=683,15810,629,417> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖西町小神・揖西町芦原台。揖西郡に属する。集落は山間の上楽寺と扇状地先端の出屋敷に分れている。南に開ける谷間には古代の揖保郡衙の推定地があり、古代の山陽道が横断していた。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2079,7 +2079,7 @@
         "表記: せ原" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7627,19960,239,453/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7627,19960,239,453> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "老原村か。現兵庫県揖保郡太子町老原。阿曾出屋敷村の南に位置する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2112,7 +2112,7 @@
         "表記: 片吹" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6003,18728,388,519/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6003,18728,388,519> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市誉田町片吹。下沖村の南東に位置し、揖東郡に属する。東は林田川を挟んで阿曾村。村の南端を山陽道が通る。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2124,7 +2124,7 @@
         "表記: きびた村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/463,21432,386,715/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=463,21432,386,715> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "黍田村。現兵庫県たつの市揖保川町黍田。山津屋村の西に位置し、北は北山村。南部に宝記山が迫り、北部を馬路川が流れる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2158,7 +2158,7 @@
         "表記: 岩見郷" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7091,20988,447,809/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7091,20988,447,809> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町岩見構を遺称地とする。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2204,7 +2204,7 @@
         "表記: 半田村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/816,17162,394,566/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=816,17162,394,566> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市揖保川町半田。揖保川右岸に位置し、村の中央に半田山がある。大川（揖保川）右岸から取水する半田井の末流に位置した。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2302,7 +2302,7 @@
         "表記: しま田井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6298,8024,613,764/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6298,8024,613,764> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/7c9f349cf238aa648b1a796f99c662c1> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2376,7 +2376,7 @@
         "表記: 高田" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8810,22161,364,499/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8810,22161,364,499> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市網干区高田。和久村の西に位置し、西は米田村。揖東郡に属する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2441,7 +2441,7 @@
         "表記: 舟代" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6693,21122,306,622/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6693,21122,306,622> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/8ac5693b2ecb61166ca2c6a96045ab89> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2483,7 +2483,7 @@
         "表記: 坂上" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9366,23695,516,600/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9366,23695,516,600> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市網干区坂上。坂上出屋敷村の南に位置し、揖東郡に属する。東は宮内村。福井庄のうち。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2527,7 +2527,7 @@
         "表記: むかい宿井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6837,6024,810,1031/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6837,6024,810,1031> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/93b8ef472a082849c60ef994026df9dc> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2558,7 +2558,7 @@
         "表記: 長真" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5696,15854,399,486/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5696,15854,399,486> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市誉田町長真。上沖村の北に位置し、揖東郡に属する。浦上井から分岐する井溝の先端に記される。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2593,7 +2593,7 @@
         "表記: ぢざふが瀬" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6132,6258,707,1241/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6132,6258,707,1241> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/97a7cf6b07aa177112299f3a29c3aa74> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2613,7 +2613,7 @@
         "表記: 川内井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1699,22518,592,777/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1699,22518,592,777> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/9e6fff94c94b95d2af219ede85800d60> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2680,7 +2680,7 @@
         "表記: 西" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/520,9022,626,743/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=520,9022,626,743> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/a7b32382071726a45b40ca627bb0823c> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2713,7 +2713,7 @@
         "表記: 下番山" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3750,496,658,391/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3750,496,658,391> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/abd1fef9cb11878c5e45f1cb914c67a3> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2841,7 +2841,7 @@
         "表記: 上余部" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7246,23977,681,639/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7246,23977,681,639> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市余部区上余部。下余部村の北西に位置し、揖保川下流左岸の平地に立地する。揖西郡に属す。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2898,7 +2898,7 @@
         "表記: 網干井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8633,24419,614,553/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8633,24419,614,553> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/b964be3d1b6d42730872a53356838cf4> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -2908,7 +2908,7 @@
         "表記: 北村" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5092,4867,400,453/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5092,4867,400,453> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市新宮町北村。揖保川の右岸、觜崎村の北に位置する。揖東郡に属し、越部北村ともいわれた。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2919,7 +2919,7 @@
         "表記: 上堂本" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6786,15300,371,567/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6786,15300,371,567> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市龍野町堂本。小宅井の末流。明治に入って下堂本と合併し、堂本村となる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2930,7 +2930,7 @@
         "表記: 宮本" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6810,20332,376,546/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6810,20332,376,546> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町宮本。常全村の南に位置し、西は林田川で限られる。村名は岩見郷の産土神石海神社が所在することによる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -2962,7 +2962,7 @@
         "表記: 上川原" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6294,23735,609,499/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6294,23735,609,499> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県姫路市余部区上川原。上余部村の北西に位置し、揖保川と林田川の合流点左岸に立地する。揖西郡に属する。揖保川と林田川の合流点を改修し、中島村側に拡幅された新田に、同村の住民が出村を造成したのが村の始まりという。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3009,7 +3009,7 @@
         "表記: いな井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4008,18960,338,535/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4008,18960,338,535> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/c062b7597a6c588d4a2dc33ddb87987b> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3031,7 +3031,7 @@
         "表記: 常金" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7125,19621,442,448/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7125,19621,442,448> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "常全村。現兵庫県揖保郡太子町常全。阿曾出屋敷村の南に位置し、西端は林田川で限られる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3064,7 +3064,7 @@
         "表記: さふがい井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6816,3494,831,758/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6816,3494,831,758> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/cde189add006db40c92904f587d2f937> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3119,7 +3119,7 @@
         "表記: 小宅井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5656,9646,546,851/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5656,9646,546,851> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/d5ceeb7e31826f3c5f8aa2287c9e3c55> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3206,7 +3206,7 @@
         "表記: 吉福出屋敷" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7741,22580,536,809/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7741,22580,536,809> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保郡太子町沖代。吉福村の東に位置する。明治初年に沖代に改称された。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3217,7 +3217,7 @@
         "表記: 中嶋塩屋井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6260,25159,622,1087/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6260,25159,622,1087> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/dd258f7bb57cdc4f88a4d2ab7fe00de7> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3249,7 +3249,7 @@
         "表記: 八のす" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/655,11358,453,407/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=655,11358,453,407> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/ded684fb9d90810b34f836a2b04afc80> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3272,7 +3272,7 @@
         "表記: 北だつの" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3026,11863,365,643/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3026,11863,365,643> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "北龍野村。龍野町の北に位置し、揖東郡に属する。北は栗栖川を挟んで佐野村。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3306,7 +3306,7 @@
         "表記: 大川" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3793,10737,1015,2129/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3793,10737,1015,2129> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "揖保川。兵庫県西部を北から南に流れる川。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3352,7 +3352,7 @@
         "表記: ひへがはな" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/711,18691,799,461/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=711,18691,799,461> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/ebe102265158cf0de526c7c5d767542c> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3373,7 +3373,7 @@
         "表記: 岩見井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4862,13287,648,669/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4862,13287,648,669> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/ec8b78917c7e2f204de7c5148294f768> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3395,7 +3395,7 @@
         "表記: 高だ" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7094,16555,383,477/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7094,16555,383,477> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県たつの市誉田町高駄。井上村の北に位置し、揖東郡に属する。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3406,7 +3406,7 @@
         "表記: さゝ井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6803,1397,600,719/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6803,1397,600,719> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/f639837a5305007fba7cdf7c68f49640> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3472,7 +3472,7 @@
         "表記: こしべいの原井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4706,2119,915,642/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4706,2119,915,642> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/f925e1143386a4d1cbd2b962051a1127> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3482,7 +3482,7 @@
         "表記: 網干" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9617,26243,431,621/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9617,26243,431,621> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "現兵庫県揖保川と大津茂川に挟まれた両川の河口部に位置する。中世から湊として栄えた。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3514,7 +3514,7 @@
         "表記: 野田井" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1702,17902,507,717/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1702,17902,507,717> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
 <http://example.org/data/fd221d93267ae2f6e5e57e51382c2cd5> a <https://jpsearch.go.jp/term/type/Place> ;
@@ -3534,7 +3534,7 @@
         "表記: かまへ" ;
     ns1:image <https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6807,21878,395,627/200,/0/default.jpg> ;
     ns1:relatedLink <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6807,21878,395,627> ;
-    ns1:url <https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> ;
+    ns1:url <https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> ;
     rdfs:comment "構村、岩見構村。現兵庫県揖保郡太子町岩見構。船代村の南に位置し、西は林田川で限られる。" ;
     ns2:sourceData <https://nakamura196.github.io/shoen/curation/以-328.json> .
 
@@ -3879,5 +3879,5 @@
 
 <https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 
-<https://nakamura196.github.io/shoen/iiif/以-328/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
+<https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json> a <http://iiif.io/api/presentation/2#Manifest> .
 

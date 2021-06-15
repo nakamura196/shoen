@@ -5,217 +5,217 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://datetime.hutime.org/date/1284-04-05">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
-    <rdfs:label>弘安７年３月１１日</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://datetime.hutime.org/date/1315-02-08">
-    <rdfs:label>正和３年１２月２５日</rdfs:label>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
+  <rdf:Description rdf:about="http://example.org/data/保-38">
+    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/200,/0/default.jpg"/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/保-38#sourceinfo"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/保-38/manifest.json"/>
+    <rdfs:label>足守庄図</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/data/以-328">
-    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/以-328/manifest.json"/>
     <ns2:sourceInfo rdf:resource="http://example.org/data/以-328#sourceinfo"/>
+    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json"/>
     <rdfs:label>揖保川筋堰図</rdfs:label>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
     <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/full/200,/0/default.jpg"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/13983">
-    <ns2:sourceInfo rdf:resource="http://example.org/data/13983#sourceinfo"/>
+  <rdf:Description rdf:about="http://example.org/data/25384">
+    <ns1:description>本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段</ns1:description>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
     <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
-    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1280-06-30"/>
-    <ns1:description>本文: 并所々免田畠屋敷等事合岩井郡骨寺村以下免田屋敷等＜麓并瀬原村在</ns1:description>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <rdfs:label>鎌倉遺文フルテキストデータベース[13983]</rdfs:label>
     <ns1:image rdf:resource=""/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/以-328#sourceinfo">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-    <ns1:provider rdf:resource="http://example.org/data/W23"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/保-293">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"/>
-    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/保-293/manifest.json"/>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/保-293#sourceinfo"/>
-    <rdfs:label>菅浦与大浦下庄堺絵図</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/17588">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns1:description>本文: 以下次第証文等事同御堂免田畠骨寺村＜岩井郡内在之、＞出入免田七</ns1:description>
-    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
-    <rdfs:label>鎌倉遺文フルテキストデータベース[17588]</rdfs:label>
-    <ns1:image rdf:resource=""/>
-    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1291-05-11"/>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/17588#sourceinfo"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/25385">
-    <ns2:sourceInfo rdf:resource="http://example.org/data/25385#sourceinfo"/>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns1:image rdf:resource=""/>
-    <rdfs:label>鎌倉遺文フルテキストデータベース[25385]</rdfs:label>
-    <ns1:description>本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田</ns1:description>
-    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/25384#sourceinfo"/>
+    <rdfs:label>鎌倉遺文フルテキストデータベース[25384]</rdfs:label>
     <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1315-02-08"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/13983#sourceinfo">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  <rdf:Description rdf:about="http://datetime.hutime.org/date/1284-04-05">
+    <rdfs:label>弘安７年３月１１日</rdfs:label>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/15112">
-    <ns2:sourceInfo rdf:resource="http://example.org/data/15112#sourceinfo"/>
-    <ns1:description>本文: 奥国中尊寺内所職等事御経蔵領骨寺村同出入免田七段＜瀬原村在畠＞</ns1:description>
-    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1284-04-05"/>
+  <rdf:Description rdf:about="http://example.org/data/17588">
     <ns1:image rdf:resource=""/>
+    <ns1:description>本文: 以下次第証文等事同御堂免田畠骨寺村＜岩井郡内在之、＞出入免田七</ns1:description>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/17588#sourceinfo"/>
+    <rdfs:label>鎌倉遺文フルテキストデータベース[17588]</rdfs:label>
     <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
+    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1291-05-11"/>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <rdfs:label>鎌倉遺文フルテキストデータベース[15112]</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/仁-108">
+    <ns2:sourceInfo rdf:resource="http://example.org/data/仁-108#sourceinfo"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/full/200,/0/default.jpg"/>
+    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"/>
+    <rdfs:label>伯耆国河村郡東郷庄之図</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/以-341-1">
+    <ns2:sourceInfo rdf:resource="http://example.org/data/以-341-1#sourceinfo"/>
+    <ns1:description>curation: https://nakamura196.github.io/soen/curation/以-341-1.json</ns1:description>
+    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json"/>
+    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/,200/0/default.jpg"/>
+    <rdfs:label>陸奥国骨寺絵図（詳細図）　[表]</rdfs:label>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/12890">
+    <rdfs:label>鎌倉遺文フルテキストデータベース[12890]</rdfs:label>
+    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_六所宮"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:description>本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘</ns1:description>
+    <ns1:image rdf:resource=""/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/12890#sourceinfo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/仁-108#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W23"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/data/25385#sourceinfo">
     <ns1:provider rdf:resource="http://example.org/data/W11"/>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/30284">
-    <ns1:description>本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの</ns1:description>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/30284#sourceinfo"/>
-    <ns1:image rdf:resource=""/>
-    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
-    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1328-07-30"/>
-    <rdfs:label>鎌倉遺文フルテキストデータベース[30284]</rdfs:label>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json">
+    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://datetime.hutime.org/date/1328-07-30">
-    <rdfs:label>嘉暦３年６月１５日</rdfs:label>
+  <rdf:Description rdf:about="http://example.org/data/26625">
+    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
+    <ns1:description>本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八</ns1:description>
+    <rdfs:label>鎌倉遺文フルテキストデータベース[26625]</rdfs:label>
+    <ns1:image rdf:resource=""/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1318-04-10"/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/26625#sourceinfo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/保-293">
+    <ns2:sourceInfo rdf:resource="http://example.org/data/保-293#sourceinfo"/>
+    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/保-293/manifest.json"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/full/200,/0/default.jpg"/>
+    <rdfs:label>菅浦与大浦下庄堺絵図</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/15112">
+    <ns1:description>本文: 奥国中尊寺内所職等事御経蔵領骨寺村同出入免田七段＜瀬原村在畠＞</ns1:description>
+    <rdfs:label>鎌倉遺文フルテキストデータベース[15112]</rdfs:label>
+    <ns1:image rdf:resource=""/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/15112#sourceinfo"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1284-04-05"/>
+    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/12890#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/13983#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/以-341-1#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/25385">
+    <rdfs:label>鎌倉遺文フルテキストデータベース[25385]</rdfs:label>
+    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1315-02-08"/>
+    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/25385#sourceinfo"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
+    <ns1:image rdf:resource=""/>
+    <ns1:description>本文: 奥国平泉中尊寺御経蔵別当職・骨寺村＜在岩井郡＞灯油畠・出入免田</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://datetime.hutime.org/date/1315-02-08">
+    <rdfs:label>正和３年１２月２５日</rdfs:label>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/data/以-341-3#sourceinfo">
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
     <ns1:provider rdf:resource="http://example.org/data/W23"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/26625#sourceinfo">
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+  <rdf:Description rdf:about="http://example.org/data/以-341-3">
+    <rdfs:label>陸奥国骨寺絵図（簡略図）</rdfs:label>
+    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json"/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/以-341-3#sourceinfo"/>
+    <ns1:description>curation: https://nakamura196.github.io/soen/curation/以-341-3.json</ns1:description>
+    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/,200/0/default.jpg"/>
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/data/保-38#sourceinfo">
     <ns1:provider rdf:resource="http://example.org/data/W23"/>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/以-341-3">
-    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json"/>
-    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/full/,200/0/default.jpg"/>
-    <ns1:description>curation: https://nakamura196.github.io/soen/curation/以-341-3.json</ns1:description>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/以-341-3#sourceinfo"/>
-    <rdfs:label>陸奥国骨寺絵図（簡略図）</rdfs:label>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/17588#sourceinfo">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/12890">
-    <ns1:description>本文: 　　　＃１２８９０〇五石同日六所宮神主〇一石三升同十月日国掌弘</ns1:description>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/12890#sourceinfo"/>
-    <ns1:image rdf:resource=""/>
-    <rdfs:label>鎌倉遺文フルテキストデータベース[12890]</rdfs:label>
-    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_六所宮"/>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/26625">
-    <rdfs:label>鎌倉遺文フルテキストデータベース[26625]</rdfs:label>
-    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1318-04-10"/>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/26625#sourceinfo"/>
-    <ns1:description>本文: ＃２６６２５骨寺村所出物日記事合四郎五郎田屋敷分所当籾一石八</ns1:description>
-    <ns1:image rdf:resource=""/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/30284#sourceinfo">
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/以-341-1">
-    <ns1:description>curation: https://nakamura196.github.io/soen/curation/以-341-1.json</ns1:description>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/以-341-1#sourceinfo"/>
-    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/full/,200/0/default.jpg"/>
-    <rdfs:label>陸奥国骨寺絵図（詳細図）　[表]</rdfs:label>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/12890#sourceinfo">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/15112#sourceinfo">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://datetime.hutime.org/date/1280-06-30">
+  <rdf:Description rdf:about="http://datetime.hutime.org/date/1328-07-30">
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
-    <rdfs:label>弘安３年５月２５日</rdfs:label>
+    <rdfs:label>嘉暦３年６月１５日</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/25384#sourceinfo">
-    <ns1:provider rdf:resource="http://example.org/data/W11"/>
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/仁-108">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/仁-108#sourceinfo"/>
-    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json"/>
-    <rdfs:label>伯耆国河村郡東郷庄之図</rdfs:label>
-    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/full/200,/0/default.jpg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/25384">
-    <rdfs:label>鎌倉遺文フルテキストデータベース[25384]</rdfs:label>
-    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
-    <ns2:sourceInfo rdf:resource="http://example.org/data/25384#sourceinfo"/>
-    <ns1:description>本文: 平泉中尊寺御経蔵別当職所領、骨寺村同坊地、并当堂内出入免田参段</ns1:description>
-    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1315-02-08"/>
+  <rdf:Description rdf:about="http://example.org/data/30284">
+    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1328-07-30"/>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
     <ns1:image rdf:resource=""/>
+    <ns2:sourceInfo rdf:resource="http://example.org/data/30284#sourceinfo"/>
+    <rdfs:label>鎌倉遺文フルテキストデータベース[30284]</rdfs:label>
+    <ns1:description>本文: ＃３０２８４さりわたす、ほねてらのむらのうちのたやしきいけの</ns1:description>
+    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json">
-    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/以-328/manifest.json">
-    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/仁-108#sourceinfo">
-    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
-    <ns1:provider rdf:resource="http://example.org/data/W23"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/保-293/manifest.json">
-    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json">
-    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/仁-108/manifest.json">
-    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/保-38">
-    <ns2:sourceInfo rdf:resource="http://example.org/data/保-38#sourceinfo"/>
-    <ns1:image rdf:resource="https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/full/200,/0/default.jpg"/>
-    <rdfs:label>足守庄図</rdfs:label>
+  <rdf:Description rdf:about="http://example.org/data/13983">
+    <ns2:sourceInfo rdf:resource="http://example.org/data/13983#sourceinfo"/>
+    <ns1:spatial rdf:resource="http://example.org/data/以-341-3_骨寺村"/>
+    <rdfs:label>鎌倉遺文フルテキストデータベース[13983]</rdfs:label>
+    <ns1:temporal rdf:resource="http://datetime.hutime.org/date/1280-06-30"/>
+    <ns1:description>本文: 并所々免田畠屋敷等事合岩井郡骨寺村以下免田屋敷等＜麓并瀬原村在</ns1:description>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Item"/>
-    <ns1:url rdf:resource="https://nakamura196.github.io/shoen/iiif/保-38/manifest.json"/>
+    <ns1:image rdf:resource=""/>
   </rdf:Description>
   <rdf:Description rdf:about="http://datetime.hutime.org/date/1291-05-11">
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
     <rdfs:label>正応４年４月５日</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/data/以-341-1#sourceinfo">
-    <ns1:provider rdf:resource="http://example.org/data/W23"/>
+  <rdf:Description rdf:about="http://example.org/data/15112#sourceinfo">
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/以-328#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W23"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/data/保-293#sourceinfo">
-    <ns1:provider rdf:resource="http://example.org/data/W23"/>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W23"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://datetime.hutime.org/date/1318-04-10">
-    <rdfs:label>文保２年３月 日</rdfs:label>
     <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
+    <rdfs:label>文保２年３月 日</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/26625#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/25384#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/30284#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/以-341-3/manifest.json">
+    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json">
+    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/保-293/manifest.json">
+    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/保-38/manifest.json">
     <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/17588#sourceinfo">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/ソース情報"/>
+    <ns1:provider rdf:resource="http://example.org/data/W11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/shoen/iiif/以-341-1/manifest.json">
+    <rdf:type rdf:resource="http://iiif.io/api/presentation/2#Manifest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://datetime.hutime.org/date/1280-06-30">
+    <rdf:type rdf:resource="https://jpsearch.go.jp/term/type/Time"/>
+    <rdfs:label>弘安３年５月２５日</rdfs:label>
   </rdf:Description>
 </rdf:RDF>
