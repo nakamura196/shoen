@@ -106,3 +106,4 @@ for sheet in geo:
 path = "data/all.json"
 all.serialize(destination=path, format='json-ld')
 all.serialize(destination=path.replace(".json", ".ttl"), format='turtle')
+all.serialize(destination=path.replace(".json", ".rdf"), format='xml')
