@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/保-293,保-293,竹生嶋,"https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/4954,10336,324,489/200,/0/default.jpg",https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json,https://nakamura196.github.io/soen/curation/保-293.json,,,,,http://example.org/data/W23

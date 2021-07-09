@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/保-56,保-56,吉備領　石ハシアリ,"https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/5722,7530,920,2151/200,/0/default.jpg",https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json,https://nakamura196.github.io/soen/curation/保-56.json,,,,,http://example.org/data/W23

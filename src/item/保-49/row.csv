@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/保-49,保-49,牓示,"https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/11932,10877,847,965/200,/0/default.jpg",https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/manifest.json,https://nakamura196.github.io/soen/curation/保-49.json,,,,,http://example.org/data/W23

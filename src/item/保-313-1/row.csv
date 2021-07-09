@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/保-313-1,保-313-1,吉利,"https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/6542,1583,462,658/200,/0/default.jpg",https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json,https://nakamura196.github.io/soen/curation/保-313-1.json,,,,,http://example.org/data/W23

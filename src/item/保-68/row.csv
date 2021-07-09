@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/保-68,保-68,花押・上杉重能,"https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/1899,9665,731,935/200,/0/default.jpg",https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json,https://nakamura196.github.io/soen/curation/保-68.json,,,,,http://example.org/data/W23

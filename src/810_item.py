@@ -44,6 +44,12 @@ def handleManifest(cn, manifest):
 
     if not os.path.exists(opath):
 
+        
+
+        print(manifest)
+        print(requests.get(manifest))
+        print(requests.get(manifest).content)
+
         m = requests.get(manifest).json()
 
         f2 = open(opath, 'w')
@@ -58,18 +64,33 @@ def handleManifest(cn, manifest):
 
     image = ""
 
+    resources = []
+
     for c in canvases:
         anno = c["otherContent"][0]["@id"]
         
         if image == "":
             image = c["images"][0]["resource"]["service"]["@id"]
+        
+        a = requests.get(anno).json()
 
+        print(a)
+
+        '''
         a = requests.get(anno).json()
         f2 = open(opath_anno, 'w')
         json.dump(a, f2, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))
         f2.close()
-    
+        '''
+
+        for r in a["resources"]:
+            resources.append(r)
+
+    f2 = open(opath_anno, 'w')
+    json.dump({"resources": resources}, f2, ensure_ascii=False, indent=4,
+        sort_keys=True, separators=(',', ': '))
+    f2.close()
 
     json_open = open(opath_anno, 'r')
     annolist = json.load(json_open)
@@ -111,7 +132,10 @@ manifest = settings2["manifest"]
 
 annos, image = handleManifest(cn, manifest)
 
-df = pd.read_excel("item/{}/place.xlsx".format(cn), sheet_name=0, header=None, index_col=None, engine='openpyxl')
+print(image)
+
+### 要修正
+df = pd.read_excel("data/place.xlsx".format(cn), sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
 r_count = len(df.index)
 c_count = len(df.columns)
@@ -123,7 +147,13 @@ map_ = {}
 
 for i in range(1, r_count):
 
-    cn2 = df.iloc[i, 12] + "-" + df.iloc[i, 13]
+    cn2 = "{}-{}".format(df.iloc[i, 12],df.iloc[i, 13])
+
+    if not pd.isnull(df.iloc[i, 14]):
+        cn2  = "{}-{}".format(cn2, df.iloc[i, 14])
+
+    if cn2 != cn:
+        continue
 
     label = df.iloc[i, 17]
 
@@ -135,6 +165,8 @@ for i in range(1, r_count):
 hash_id = hashlib.md5(cn.encode()).hexdigest()
 
 manifest = prefix + "/iiif/" + hash_id + "/manifest.json"
+
+print("len(annos)", len(annos))
 
 for anno in annos:
 

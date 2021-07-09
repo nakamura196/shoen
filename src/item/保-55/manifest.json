@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://diyhistory.org/hi/omekac/oa/collections/24/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "箸喰庄差図",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "metadata": [
+        {
+            "label": "模写時所蔵",
+            "value": "談山神社"
+        },
+        {
+            "label": "縦",
+            "value": "48.5"
+        },
+        {
+            "label": "横",
+            "value": "68.1"
+        },
+        {
+            "label": "聚影巻数",
+            "value": "近畿二"
+        },
+        {
+            "label": "絵図番号",
+            "value": "43"
+        },
+        {
+            "label": "国名",
+            "value": "大和(奈良県)"
+        },
+        {
+            "label": "模写年代",
+            "value": "不明"
+        },
+        {
+            "label": "原本制作年代",
+            "value": "戦国時代 「明応六年丁巳十二月」"
+        },
+        {
+            "label": "材質",
+            "value": "紙本"
+        },
+        {
+            "label": "著色",
+            "value": "墨書"
+        },
+        {
+            "label": "Source",
+            "value": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/hi/omekac/oa/collections/24/sequence.json",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 10623,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 10623,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 7620
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://diyhistory.org/hi/omekac/oa/items/250/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/full/200,/0/default.jpg"
+                    },
+                    "width": 7620
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/collections/24/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/full/200,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

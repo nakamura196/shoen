@@ -1,1 +1,737 @@
-{"@id":"https://diyhistory.org/hi/omekac/oa/items/217/annolist.json","@context":"http://www.shared-canvas.org/ns/context.json","@type":"sc:AnnotationList","resources":[{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">峯堂</span></p>"},{"@type":"oa:Tag","chars":"loc:峯堂"},{"@type":"oa:Tag","chars":"堂"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=753,4401,628,833"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1381.02701,4400.92988h-313.87542v0h-313.87542v416.63556v416.63556h313.87542h313.87542v-416.63556z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_60485966-951a-40f1-a61c-00284d32981f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"151.60289\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/218/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">〔大〕崎</span></p>"},{"@type":"oa:Tag","chars":"loc:大崎"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=1713,5903,262,199"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1713.10528,5902.76311h131.10478v0h131.10478v99.39857v99.39857h-131.10478h-131.10478v-99.39857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6e2d16b7-6313-4e88-b008-3f7bbcd398a6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.1543\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/219/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:tagging","oa:commenting"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">西</span></p>"},{"@type":"oa:Tag","chars":"方角"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=248,6942,427,449"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M674.95334,7391.27135h-213.36856v0h-213.36856v-224.65111v-224.65111h213.36856h213.36856v224.65111z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f839a8d-6839-4c1a-a7bb-9594dde43c05\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/220/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:tagging","oa:commenting"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p>南</p>"},{"@type":"oa:Tag","chars":"方角"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=4446,13384,437,516"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4445.62139,13383.88218h218.26404v0h218.26404v257.93834v257.93834h-218.26404h-218.26404v-257.93834z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a7d7e7b7-62f3-4169-a03b-b0734651485b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/221/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:tagging","oa:commenting"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p>北</p>"},{"@type":"oa:Tag","chars":"方角"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=4948,73,442,411"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5390.6578,483.16005h-221.1761v0h-221.1761v-205.30638v-205.30638h221.1761h221.1761v205.30638z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2b2f32c0-9a94-4efb-bb7b-9da9966c0a7c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/222/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">大浦下庄</span></p>"},{"@type":"oa:Tag","chars":"loc:大浦下庄"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=5373,1373,428,1104"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5372.52097,1372.60254h214.10769v0h214.10769v551.90604v551.90604h-214.10769h-214.10769v-551.90604z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9fedd96b-b324-4a69-bc8e-7f4be369a0b3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"60.9258\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/223/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":"oa:commenting","resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">神楊</span></p>"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=5355,2796,197,334"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5551.86889,2796.42464h-98.49189v0h-98.49189v167.18425v167.18425h98.49189h98.49189v-167.18425z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9a85f89e-0ff8-4fab-9c8f-9ecd8dd90e97\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/224/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":"oa:commenting","resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">谷尾</span></p>"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=5561,3378,243,284"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5560.61543,3378.06951h121.26492v0h121.26492v142.03795v142.03795h-121.26492h-121.26492v-142.03795z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4b6d6e5c-334c-422e-9fe3-042c498c024d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/225/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">山田峯</span></p>"},{"@type":"oa:Tag","chars":"loc:山田峯"},{"@type":"oa:Tag","chars":"峯"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=8962,2669,484,285"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8961.5965,2669.34856h241.8797v0h241.8797v142.69394v142.69394h-241.8797h-241.8797v-142.69394z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cadd22bb-d267-4a43-b257-7d318b740e40\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"73.11096\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/226/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":"oa:commenting","resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">菅浦与大浦下庄堺</span></p>"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=6442,3631,1226,347"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6441.72976,3631.23361h613.11782v0h613.11782v173.29983v173.29983h-613.11782h-613.11782v-173.29983z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_16a1fa89-9ccd-4af0-b662-27c6ec2208c7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/227/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">赤崎</span></p>"},{"@type":"oa:Tag","chars":"loc:赤崎"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=5234,4169,467,406"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5233.96216,4168.60837h233.37806v0h233.37806v203.15002v203.15002h-233.37806h-233.37806v-203.15002z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f106df5d-4b5e-4430-8220-167bcf108b69\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"50.7715\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/228/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">菅浦</span></p>"},{"@type":"oa:Tag","chars":"loc:菅浦"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=6537,4281,325,506"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6536.76472,4280.68303h162.37365v0h162.37365v252.90034v252.90034h-162.37365h-162.37365v-252.90034z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_386d07e6-7917-4cbf-a5b7-8f091416deac\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"50.7715\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/229/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">諸河</span></p>"},{"@type":"oa:Tag","chars":"loc:諸河"},{"@type":"oa:Tag","chars":"河"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=6562,4794,365,247"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6927.73503,5041.63197h-182.67733v0h-182.67733v-123.63819v-123.63819h182.67733h182.67733v123.63819z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1c6b8ddd-21dd-459f-a20d-a7aba5b24965\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.87633\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/230/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">日差</span></p>"},{"@type":"oa:Tag","chars":"loc:日差"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=6530,5229,370,274"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6900.19393,5229.34863h-184.90245v0h-184.90245v137.02618v137.02618h184.90245h184.90245v-137.02618z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b92b3cad-21db-48fb-9437-5a572170c2f7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.25799\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/231/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">鉢伏山</span></p>"},{"@type":"oa:Tag","chars":"loc:鉢伏山"},{"@type":"oa:Tag","chars":"山"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=7485,3538,1136,2076"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8620.35295,5614.36577h-567.82885v0h-567.82885v-1037.93533v-1037.93533h567.82885h567.82885v1037.93533z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_face7758-cc9f-477a-a8f7-07a41e1ba56d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"50.7715\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/232/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:tagging","oa:commenting"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">東</span></p>"},{"@type":"oa:Tag","chars":"方角"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=9024,7031,467,391"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M9024.15435,7030.52283h233.37806v0h233.37806v195.59301v195.59301h-233.37806h-233.37806v-195.59301z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9fcc2ce7-8b4d-4fce-bea6-926dd30d7990\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/233/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">□□〔津吹〕羅尾崎</span></p>"},{"@type":"oa:Tag","chars":"loc:津吹羅尾崎"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=7183,7191,416,524"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7599.67783,7190.97097h-208.19739v0h-208.19739v261.9091v261.9091h208.19739h208.19739v-261.9091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d0fd1c37-b9a2-4cb8-a6e7-d3ebde3a35ba\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"151.60289\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/234/anno.json"},{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting","oa:tagging"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">竹生嶋</span></p>"},{"@type":"oa:Tag","chars":"loc:竹生嶋"}],"on":[{"@type":"oa:SpecificResource","full":"https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=4954,10336,324,489"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4953.62207,10336.12344h161.96432v0h161.96432v244.71358v244.71358h-161.96432h-161.96432v-244.71358z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_018583da-85d7-4610-8f03-925c6eb757bb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"151.60289\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json","@type":"sc:Manifest"}}],"@id":"https://diyhistory.org/hi/omekac/oa/items/235/anno.json"}]}
+{
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/218/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=753,4401,628,833"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1381.02701,4400.92988h-313.87542v0h-313.87542v416.63556v416.63556h313.87542h313.87542v-416.63556z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_60485966-951a-40f1-a61c-00284d32981f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"151.60289\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">峯堂</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:峯堂"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "堂"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/219/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1713,5903,262,199"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1713.10528,5902.76311h131.10478v0h131.10478v99.39857v99.39857h-131.10478h-131.10478v-99.39857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6e2d16b7-6313-4e88-b008-3f7bbcd398a6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.1543\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">〔大〕崎</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:大崎"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/220/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:tagging",
+                "oa:commenting"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=248,6942,427,449"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M674.95334,7391.27135h-213.36856v0h-213.36856v-224.65111v-224.65111h213.36856h213.36856v224.65111z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f839a8d-6839-4c1a-a7bb-9594dde43c05\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">西</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "方角"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/221/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:tagging",
+                "oa:commenting"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4446,13384,437,516"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4445.62139,13383.88218h218.26404v0h218.26404v257.93834v257.93834h-218.26404h-218.26404v-257.93834z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a7d7e7b7-62f3-4169-a03b-b0734651485b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>南</p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "方角"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/222/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:tagging",
+                "oa:commenting"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4948,73,442,411"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5390.6578,483.16005h-221.1761v0h-221.1761v-205.30638v-205.30638h221.1761h221.1761v205.30638z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2b2f32c0-9a94-4efb-bb7b-9da9966c0a7c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>北</p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "方角"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/223/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5373,1373,428,1104"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5372.52097,1372.60254h214.10769v0h214.10769v551.90604v551.90604h-214.10769h-214.10769v-551.90604z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9fedd96b-b324-4a69-bc8e-7f4be369a0b3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"60.9258\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">大浦下庄</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:大浦下庄"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/224/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5355,2796,197,334"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5551.86889,2796.42464h-98.49189v0h-98.49189v167.18425v167.18425h98.49189h98.49189v-167.18425z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9a85f89e-0ff8-4fab-9c8f-9ecd8dd90e97\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">神楊</span></p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/225/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5561,3378,243,284"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5560.61543,3378.06951h121.26492v0h121.26492v142.03795v142.03795h-121.26492h-121.26492v-142.03795z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4b6d6e5c-334c-422e-9fe3-042c498c024d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">谷尾</span></p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/226/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=8962,2669,484,285"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8961.5965,2669.34856h241.8797v0h241.8797v142.69394v142.69394h-241.8797h-241.8797v-142.69394z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cadd22bb-d267-4a43-b257-7d318b740e40\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"73.11096\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">山田峯</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:山田峯"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "峯"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/227/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6442,3631,1226,347"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6441.72976,3631.23361h613.11782v0h613.11782v173.29983v173.29983h-613.11782h-613.11782v-173.29983z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_16a1fa89-9ccd-4af0-b662-27c6ec2208c7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">菅浦与大浦下庄堺</span></p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/228/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5234,4169,467,406"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5233.96216,4168.60837h233.37806v0h233.37806v203.15002v203.15002h-233.37806h-233.37806v-203.15002z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f106df5d-4b5e-4430-8220-167bcf108b69\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"50.7715\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">赤崎</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:赤崎"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/229/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6537,4281,325,506"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6536.76472,4280.68303h162.37365v0h162.37365v252.90034v252.90034h-162.37365h-162.37365v-252.90034z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_386d07e6-7917-4cbf-a5b7-8f091416deac\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"50.7715\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">菅浦</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:菅浦"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/230/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6562,4794,365,247"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6927.73503,5041.63197h-182.67733v0h-182.67733v-123.63819v-123.63819h182.67733h182.67733v123.63819z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1c6b8ddd-21dd-459f-a20d-a7aba5b24965\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.87633\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">諸河</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:諸河"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "河"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/231/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6530,5229,370,274"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6900.19393,5229.34863h-184.90245v0h-184.90245v137.02618v137.02618h184.90245h184.90245v-137.02618z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b92b3cad-21db-48fb-9437-5a572170c2f7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.25799\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">日差</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:日差"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/232/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=7485,3538,1136,2076"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8620.35295,5614.36577h-567.82885v0h-567.82885v-1037.93533v-1037.93533h567.82885h567.82885v1037.93533z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_face7758-cc9f-477a-a8f7-07a41e1ba56d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"50.7715\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">鉢伏山</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:鉢伏山"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "山"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/233/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:tagging",
+                "oa:commenting"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=9024,7031,467,391"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M9024.15435,7030.52283h233.37806v0h233.37806v195.59301v195.59301h-233.37806h-233.37806v-195.59301z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9fcc2ce7-8b4d-4fce-bea6-926dd30d7990\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">東</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "方角"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/234/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=7183,7191,416,524"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7599.67783,7190.97097h-208.19739v0h-208.19739v261.9091v261.9091h208.19739h208.19739v-261.9091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d0fd1c37-b9a2-4cb8-a6e7-d3ebde3a35ba\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"151.60289\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">□□〔津吹〕羅尾崎</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:津吹羅尾崎"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/hi/omekac/oa/items/235/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4954,10336,324,489"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4953.62207,10336.12344h161.96432v0h161.96432v244.71358v244.71358h-161.96432h-161.96432v-244.71358z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_018583da-85d7-4610-8f03-925c6eb757bb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"151.60289\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/hi/omekac/oa/collections/8/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-family: arial, sans-serif; font-size: 12px;\">竹生嶋</span></p>",
+                    "format": "text/html"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "loc:竹生嶋"
+                }
+            ]
+        }
+    ]
+}

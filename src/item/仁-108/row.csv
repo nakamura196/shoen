@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/仁-108,仁-108,北,"https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3043,5534,147,139/200,/0/default.jpg",https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json,https://nakamura196.github.io/soen/curation/仁-108.json,,,,,http://example.org/data/W23
