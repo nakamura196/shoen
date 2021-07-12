@@ -46,35 +46,32 @@ def handleManifest(cn, manifest):
 
     canvases = m["sequences"][0]["canvases"]
 
-    image = ""
-
-    resources = []
+    image = "" 
 
     for c in canvases:
         anno = c["otherContent"][0]["@id"]
         
         if image == "":
             image = c["images"][0]["resource"]["service"]["@id"]
-        
-        a = requests.get(anno).json()
 
-        # print(a)
+    if not os.path.exists(opath_anno):
 
-        '''
-        a = requests.get(anno).json()
+        resources = []
+
+        canvases = m["sequences"][0]["canvases"]
+
+        for c in canvases:
+            anno = c["otherContent"][0]["@id"]
+            
+            a = requests.get(anno).json()
+
+            for r in a["resources"]:
+                resources.append(r)
+
         f2 = open(opath_anno, 'w')
-        json.dump(a, f2, ensure_ascii=False, indent=4,
+        json.dump({"resources": resources}, f2, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))
         f2.close()
-        '''
-
-        for r in a["resources"]:
-            resources.append(r)
-
-    f2 = open(opath_anno, 'w')
-    json.dump({"resources": resources}, f2, ensure_ascii=False, indent=4,
-        sort_keys=True, separators=(',', ': '))
-    f2.close()
 
     json_open = open(opath_anno, 'r')
     annolist = json.load(json_open)
@@ -116,10 +113,9 @@ for file in files:
 
     # image = settings2["image"]
 
+    print("cn", cn)
 
     annos, image, m_label = handleManifest(cn, manifest)
-
-    print(image)
 
     ### 要修正
     df = pd.read_excel("data/place.xlsx".format(cn), sheet_name=0, header=None, index_col=None, engine='openpyxl')

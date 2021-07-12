@@ -34,15 +34,9 @@ for item in m:
     if label in ["セット"]:
         pass
     elif label in ["まとめ"]:
-
         for value in values:
-
             map[value["dcterms:identifier"]] = value["rdfs:label"]
-
-        print(map)
     else:
-        
-
         for value in values:
 
             obj = {

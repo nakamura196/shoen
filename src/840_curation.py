@@ -47,7 +47,7 @@ for sheet in geo:
         if "uri" not in row and row["uri"] == "":
             continue
 
-        print(row["uri"])
+        # print(row["uri"])
 
         manifest = row["schema:url"]
 
@@ -62,7 +62,7 @@ for sheet in geo:
         id = row["dcterms:identifier"]
         url = app + "/item/" + id
 
-        print(id)
+        # print(id)
 
         label = row["rdfs:label"]
 
@@ -110,15 +110,9 @@ for sheet in geo:
 
         map[manifest]["members"].append(member)
 
-
-
 for manifest in map:
     selections = []
-    
-    print(manifest)
     item = map[manifest]
-
-    print(len(item["members"]))
 
     label = item["label"]
     selections.append({
