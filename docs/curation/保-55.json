@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5045,2273,805,907",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dee399ccbad1076baf86ddd6cdc00295\">dee399ccbad1076baf86ddd6cdc00295</a> ]<br/>一ツホ　一町アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dee399ccbad1076baf86ddd6cdc00295\">一ツホ　一町アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5038,3204,805,843",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d0866c9cc3553fa5de15cd65dd407bdf\">d0866c9cc3553fa5de15cd65dd407bdf</a> ]<br/>六ノツホ　一町アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d0866c9cc3553fa5de15cd65dd407bdf\">六ノツホ　一町アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5198,4070,327,123",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/207b46fb2e4b0bbc8f13322cfb74db35\">207b46fb2e4b0bbc8f13322cfb74db35</a> ]<br/>大道",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/207b46fb2e4b0bbc8f13322cfb74db35\">大道</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5038,4211,799,863",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6477758ef819ac68389f35bc77818844\">6477758ef819ac68389f35bc77818844</a> ]<br/>コシハ　一町アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6477758ef819ac68389f35bc77818844\">コシハ　一町アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=4178,2267,824,894",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d1032cb18663e45f216d0a0ead15ccc3\">d1032cb18663e45f216d0a0ead15ccc3</a> ]<br/>シヤウキウ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d1032cb18663e45f216d0a0ead15ccc3\">シヤウキウ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=4165,3197,805,875",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e80383902a00fe6d28212ac95631bda3\">e80383902a00fe6d28212ac95631bda3</a> ]<br/>タヰノカ井ト　一町アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e80383902a00fe6d28212ac95631bda3\">タヰノカ井ト　一町アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3030,2088,1041,219",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/199d0b36abf969b6029f5b7c97efec75\">199d0b36abf969b6029f5b7c97efec75</a> ]<br/>ミチサ井メ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/199d0b36abf969b6029f5b7c97efec75\">ミチサ井メ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3572,2553,289,486",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e10247ede5be152059c94e7cb5bee73f\">e10247ede5be152059c94e7cb5bee73f</a> ]<br/>アレ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e10247ede5be152059c94e7cb5bee73f\">アレ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=4528,4459,225,429",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cd26b0e7430738d0157cfd9df2955989\">cd26b0e7430738d0157cfd9df2955989</a> ]<br/>アレ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/cd26b0e7430738d0157cfd9df2955989\">アレ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5127,5301,321,448",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e55335496f626688f0ff50e753c0f76a\">e55335496f626688f0ff50e753c0f76a</a> ]<br/>アレ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e55335496f626688f0ff50e753c0f76a\">アレ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5130,6185,296,406",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d2715403fa4cfc054b8dfbaf213da1d9\">d2715403fa4cfc054b8dfbaf213da1d9</a> ]<br/>アレ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d2715403fa4cfc054b8dfbaf213da1d9\">アレ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5127,7292,219,359",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/648dbc07a72c6bab0935c05c7b7ecb22\">648dbc07a72c6bab0935c05c7b7ecb22</a> ]<br/>アレ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/648dbc07a72c6bab0935c05c7b7ecb22\">アレ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5229,8018,231,448",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/325f04d86bac6df21d2be4797bb32df0\">325f04d86bac6df21d2be4797bb32df0</a> ]<br/>アレ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/325f04d86bac6df21d2be4797bb32df0\">アレ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1513,3098,639,634",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b11e8a42fedda6b0eed19bf9e48a79a4\">b11e8a42fedda6b0eed19bf9e48a79a4</a> ]<br/>ミノウタシユク",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b11e8a42fedda6b0eed19bf9e48a79a4\">ミノウタシユク</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2557,3503,878,498",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/70fbde032973e23ab79c05854b0ab982\">70fbde032973e23ab79c05854b0ab982</a> ]<br/>シミツカクホ　七反アリ　此内神田二反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/70fbde032973e23ab79c05854b0ab982\">シミツカクホ　七反アリ　此内神田二反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2561,4008,436,166",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7e7b540ec5464a864361a43001562b07\">7e7b540ec5464a864361a43001562b07</a> ]<br/>大道",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7e7b540ec5464a864361a43001562b07\">大道</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=742,4086,346,901",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f8717077efa86eff06c84786a5b06822\">f8717077efa86eff06c84786a5b06822</a> ]<br/>ワキタ三反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f8717077efa86eff06c84786a5b06822\">ワキタ三反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1469,4201,493,461",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/38e7ccbe46232619f5cafe3305c730de\">38e7ccbe46232619f5cafe3305c730de</a> ]<br/>山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/38e7ccbe46232619f5cafe3305c730de\">山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -513,7 +657,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=952,2697,448,461",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c66f94bcbf7c756523d853467b749eb0\">c66f94bcbf7c756523d853467b749eb0</a> ]<br/>山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c66f94bcbf7c756523d853467b749eb0\">山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -522,6 +666,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -540,7 +692,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2629,4252,302,391",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/73dad19217d3eb6ac2c997537914c9b0\">73dad19217d3eb6ac2c997537914c9b0</a> ]<br/>里",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/73dad19217d3eb6ac2c997537914c9b0\">里</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -549,6 +701,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -567,7 +727,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3317,4112,302,646",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ad03fa2c65e14960538b0f87d3d859fb\">ad03fa2c65e14960538b0f87d3d859fb</a> ]<br/>二反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ad03fa2c65e14960538b0f87d3d859fb\">二反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -576,6 +736,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -594,7 +762,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2651,2531,509,365",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/678f7255414bfcb3575562155d9a7b77\">678f7255414bfcb3575562155d9a7b77</a> ]<br/>河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/678f7255414bfcb3575562155d9a7b77\">河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -603,6 +771,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -621,7 +797,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3852,4525,432,410",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dc0e1a5865a31c1d0f598f956cb52e2a\">dc0e1a5865a31c1d0f598f956cb52e2a</a> ]<br/>河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dc0e1a5865a31c1d0f598f956cb52e2a\">河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -630,6 +806,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -648,7 +832,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2304,5733,1028,1105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e04b332792808af08c99b8e5b8ab53ca\">e04b332792808af08c99b8e5b8ab53ca</a> ]<br/>箸喰山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e04b332792808af08c99b8e5b8ab53ca\">箸喰山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -657,6 +841,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -675,7 +867,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2093,4790,225,448",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/be4c12f257da0e82137995b616ec8c03\">be4c12f257da0e82137995b616ec8c03</a> ]<br/>ミチ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/be4c12f257da0e82137995b616ec8c03\">ミチ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -684,6 +876,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -702,7 +902,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1660,5255,544,639",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9817ad9d4bc63158e6bc053b1c72d50e\">9817ad9d4bc63158e6bc053b1c72d50e</a> ]<br/>七反田　七反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9817ad9d4bc63158e6bc053b1c72d50e\">七反田　七反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -711,6 +911,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -729,7 +937,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=908,5217,697,684",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ce8f9f31883425fa723b2685b21bd04f\">ce8f9f31883425fa723b2685b21bd04f</a> ]<br/>アミタフ　一町アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ce8f9f31883425fa723b2685b21bd04f\">アミタフ　一町アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -738,6 +946,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -756,7 +972,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=978,5995,608,850",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d3b8dc20fc0e6fa9d99c5349963625a3\">d3b8dc20fc0e6fa9d99c5349963625a3</a> ]<br/>ミカウタ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d3b8dc20fc0e6fa9d99c5349963625a3\">ミカウタ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -765,6 +981,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -783,7 +1007,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1698,5988,308,901",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2d068b76b7dc20e8eef7b79e5b0358a6\">2d068b76b7dc20e8eef7b79e5b0358a6</a> ]<br/>五反田　五反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2d068b76b7dc20e8eef7b79e5b0358a6\">五反田　五反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -792,6 +1016,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -810,7 +1042,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2639,4992,491,358",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8d23a8a0eacaf80137ffb95b4d0f54c7\">8d23a8a0eacaf80137ffb95b4d0f54c7</a> ]<br/>ソウホリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8d23a8a0eacaf80137ffb95b4d0f54c7\">ソウホリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -819,6 +1051,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -837,7 +1077,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1597,7562,530,790",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b64b54153b951cc81041ed9a32a872d0\">b64b54153b951cc81041ed9a32a872d0</a> ]<br/>外領入",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b64b54153b951cc81041ed9a32a872d0\">外領入</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -846,6 +1086,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -864,7 +1112,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2997,7493,599,820",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/21189924c930d8b6d6c96ea3ff02fc2b\">21189924c930d8b6d6c96ea3ff02fc2b</a> ]<br/>外領入",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/21189924c930d8b6d6c96ea3ff02fc2b\">外領入</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -873,6 +1121,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -891,7 +1147,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2679,6875,1069,219",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3355ae64a821057578ac0020bb4b858d\">3355ae64a821057578ac0020bb4b858d</a> ]<br/>サイメ　ホリカキリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3355ae64a821057578ac0020bb4b858d\">サイメ　ホリカキリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -900,6 +1156,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -918,7 +1182,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2967,7110,294,192",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/20a9ecdee09688d634e70d0869d98847\">20a9ecdee09688d634e70d0869d98847</a> ]<br/>山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/20a9ecdee09688d634e70d0869d98847\">山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -927,6 +1191,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -945,7 +1217,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=634,5310,251,812",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1945833fa49325be8ce99d7de5f8d075\">1945833fa49325be8ce99d7de5f8d075</a> ]<br/>ミチサイメ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1945833fa49325be8ce99d7de5f8d075\">ミチサイメ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -954,6 +1226,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -972,7 +1252,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=500,4934,308,391",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4f5a0d9b9dbd659de6ad1adca517d545\">4f5a0d9b9dbd659de6ad1adca517d545</a> ]<br/>東",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4f5a0d9b9dbd659de6ad1adca517d545\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -981,6 +1261,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -999,7 +1287,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=6109,5342,384,435",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ecd60826c15f4db218195ef659549cba\">ecd60826c15f4db218195ef659549cba</a> ]<br/>西",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ecd60826c15f4db218195ef659549cba\">西</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1008,6 +1296,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1026,7 +1322,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3345,8925,491,451",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/748ee8c815c351594d80e832056f778c\">748ee8c815c351594d80e832056f778c</a> ]<br/>北",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/748ee8c815c351594d80e832056f778c\">北</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1035,6 +1331,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1053,7 +1357,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3676,1258,412,584",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8b4b8d4f23e54e63fdcdefdf2992fd7f\">8b4b8d4f23e54e63fdcdefdf2992fd7f</a> ]<br/>南",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8b4b8d4f23e54e63fdcdefdf2992fd7f\">南</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1062,6 +1366,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1080,7 +1392,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=4739,4124,302,435",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/510639a7cffc215a8491cc818d026180\">510639a7cffc215a8491cc818d026180</a> ]<br/>田半アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/510639a7cffc215a8491cc818d026180\">田半アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1089,6 +1401,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1107,7 +1427,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5595,5116,225,893",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e698166f648af0d2777ae6be4b1b498d\">e698166f648af0d2777ae6be4b1b498d</a> ]<br/>ヒロヲサ　三反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e698166f648af0d2777ae6be4b1b498d\">ヒロヲサ　三反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1116,6 +1436,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1134,7 +1462,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5518,6061,314,816",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f354583d88cc98f15dd37eec18311897\">f354583d88cc98f15dd37eec18311897</a> ]<br/>南浦　三反畠　四反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f354583d88cc98f15dd37eec18311897\">南浦　三反畠　四反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1143,6 +1471,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1161,7 +1497,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5420,6982,364,791",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/199d9739f88432f296e2934e021d45d7\">199d9739f88432f296e2934e021d45d7</a> ]<br/>北浦　三反畠　五反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/199d9739f88432f296e2934e021d45d7\">北浦　三反畠　五反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1170,6 +1506,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1188,7 +1532,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5477,7968,397,767",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d31bc7ebde077b5c5c4533dff79e3556\">d31bc7ebde077b5c5c4533dff79e3556</a> ]<br/>ウエノツホ　四反アリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d31bc7ebde077b5c5c4533dff79e3556\">ウエノツホ　四反アリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1197,6 +1541,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1215,7 +1567,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=4803,7549,314,298",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9ae512be4f3e41565672846fc1bdf7be\">9ae512be4f3e41565672846fc1bdf7be</a> ]<br/>河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9ae512be4f3e41565672846fc1bdf7be\">河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1224,6 +1576,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -1242,7 +1602,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=6086,6468,750,2913",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0f55a2052a6934d8ec480a8568b74f83\">0f55a2052a6934d8ec480a8568b74f83</a> ]<br/>（端裏書）「端喰庄差図」",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0f55a2052a6934d8ec480a8568b74f83\">（端裏書）「端喰庄差図」</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1251,6 +1611,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "端裏書"
                         }
                     ]
                 },
@@ -1269,7 +1637,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1997,9057,4047,729",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4d747ed50b9d69116cebdd156db5a948\">4d747ed50b9d69116cebdd156db5a948</a> ]<br/>箸喰庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4d747ed50b9d69116cebdd156db5a948\">箸喰庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1278,6 +1646,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1296,7 +1672,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5827,5525,178,384",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c26d0db5153f28b8d96c9eb951844e37\">c26d0db5153f28b8d96c9eb951844e37</a> ]<br/>大道",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c26d0db5153f28b8d96c9eb951844e37\">大道</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1305,6 +1681,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "箸喰庄差図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 }

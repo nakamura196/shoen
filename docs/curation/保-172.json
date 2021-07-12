@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5320,11631,986,4935",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e1c58fd3ae14f4962c7ba3deb43b0a55\">e1c58fd3ae14f4962c7ba3deb43b0a55</a> ]<br/>西自大井河流、東至于五條尼公領参町也（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e1c58fd3ae14f4962c7ba3deb43b0a55\">西自大井河流、東至于五條尼公領参町也（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5399,19469,3974,1454",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ed266fbdf251e42c092b809924237a07\">ed266fbdf251e42c092b809924237a07</a> ]<br/>限辰巳角\n南前大膳大夫業忠朝臣領堺\n東五條尼公領",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ed266fbdf251e42c092b809924237a07\">限辰巳角\n南前大膳大夫業忠朝臣領堺\n東五條尼公領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=9651,19504,5234,1419",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5115fd6bb1eb0229dc7730bf21731521\">5115fd6bb1eb0229dc7730bf21731521</a> ]<br/>南北壱町捌反（花押）自南前大膳大夫業忠朝臣領堺至于北大道",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5115fd6bb1eb0229dc7730bf21731521\">南北壱町捌反（花押）自南前大膳大夫業忠朝臣領堺至于北大道</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16005,17099,1047,3720",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/225cbe6fdcb066fe6962b8cd7c21fc61\">225cbe6fdcb066fe6962b8cd7c21fc61</a> ]<br/>東西参段伍杖（花押）\n東五條尼公領堺\n西検非違使康信妹領堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/225cbe6fdcb066fe6962b8cd7c21fc61\">東西参段伍杖（花押）\n東五條尼公領堺\n西検非違使康信妹領堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5214,6484,1186,4436",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/639988127ca6446bdbcd36d7fc6313f1\">639988127ca6446bdbcd36d7fc6313f1</a> ]<br/>限未申角\n西大井河流（花押）　\n南前大膳大夫業忠朝臣領堺（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/639988127ca6446bdbcd36d7fc6313f1\">限未申角\n西大井河流（花押）　\n南前大膳大夫業忠朝臣領堺（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12567,16371,1230,1020",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2d89802fc74b9dffd9481d965fa3efea\">2d89802fc74b9dffd9481d965fa3efea</a> ]<br/>(花押)",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2d89802fc74b9dffd9481d965fa3efea\">(花押)</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15259,16528,1813,877",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2bfd6dfd1b8912104f353484915d64fe\">2bfd6dfd1b8912104f353484915d64fe</a> ]<br/>□〔南〕北 伍段壱杖（以上４文字、朱抹消）　参段壱杖（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2bfd6dfd1b8912104f353484915d64fe\">□〔南〕北 伍段壱杖（以上４文字、朱抹消）　参段壱杖（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=14349,14594,1113,1988",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d657f0460dea0560592b7b8d8a47d671\">d657f0460dea0560592b7b8d8a47d671</a> ]<br/>東西　参段壱杖（以上４文字、朱抹消）　\n伍段壱杖（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d657f0460dea0560592b7b8d8a47d671\">東西　参段壱杖（以上４文字、朱抹消）　\n伍段壱杖（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16143,15653,1384,597",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/740f82802a785604f511a12ce2e724ca\">740f82802a785604f511a12ce2e724ca</a> ]<br/>検非違使康信妹領",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/740f82802a785604f511a12ce2e724ca\">検非違使康信妹領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15250,13851,1463,614",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7d136eccf815b9edbf5377b3b1ebc04d\">7d136eccf815b9edbf5377b3b1ebc04d</a> ]<br/>南北漆段伍杖（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7d136eccf815b9edbf5377b3b1ebc04d\">南北漆段伍杖（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16571,12731,641,2250",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ad805e6e7aa8810de646763bf4e697a7\">ad805e6e7aa8810de646763bf4e697a7</a> ]<br/>東西壱段壱杖参尺（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ad805e6e7aa8810de646763bf4e697a7\">東西壱段壱杖参尺（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16449,14577,1769,606",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f226d05de853678720d5f023de793e56\">f226d05de853678720d5f023de793e56</a> ]<br/>南北漆段伍杖（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f226d05de853678720d5f023de793e56\">南北漆段伍杖（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17555,11880,774,2754",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4445e81263743e347771cc6cab00b25b\">4445e81263743e347771cc6cab00b25b</a> ]<br/>東西壱町伍杖（花押）\n西坊門大納言家領堺\n東検非違使康信妹領堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4445e81263743e347771cc6cab00b25b\">東西壱町伍杖（花押）\n西坊門大納言家領堺\n東検非違使康信妹領堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16352,11437,2104,707",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/aaf00af2848174b8c9446fcfaa5ba939\">aaf00af2848174b8c9446fcfaa5ba939</a> ]<br/>南北参段\n至于北大道\n山本坊跡（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/aaf00af2848174b8c9446fcfaa5ba939\">南北参段\n至于北大道\n山本坊跡（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15842,9635,2333,1917",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b1698386d32fd82e5d80bb309d8fb97a\">b1698386d32fd82e5d80bb309d8fb97a</a> ]<br/>東西陸段至于卿二位殿領堺（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b1698386d32fd82e5d80bb309d8fb97a\">東西陸段至于卿二位殿領堺（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17509,7353,954,2463",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4715d59b6245ada078c4d53febd1f4c1\">4715d59b6245ada078c4d53febd1f4c1</a> ]<br/>東西壱町肆段弐杖（花押）　□□〔至于〕峯杭所",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4715d59b6245ada078c4d53febd1f4c1\">東西壱町肆段弐杖（花押）　□□〔至于〕峯杭所</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=18149,6474,3261,1263",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bfa609c90f387315ce3268f9efcee280\">bfa609c90f387315ce3268f9efcee280</a> ]<br/>南北弐町肆段〈至于西小谷〉（花押）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/bfa609c90f387315ce3268f9efcee280\">南北弐町肆段〈至于西小谷〉（花押）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=20350,4530,1052,2301",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7f23c38ca19d7598bcfbdecd2eff38ce\">7f23c38ca19d7598bcfbdecd2eff38ce</a> ]<br/>東西壱町\n自小谷于\n至大井河流",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7f23c38ca19d7598bcfbdecd2eff38ce\">東西壱町\n自小谷于\n至大井河流</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -513,7 +657,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12236,12662,6786,2949",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0698712156c8639e8267612959cc5b52\">0698712156c8639e8267612959cc5b52</a> ]<br/>嵯峨舎那院御領絵図\n建永二年八月十六日",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0698712156c8639e8267612959cc5b52\">嵯峨舎那院御領絵図\n建永二年八月十六日</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -522,6 +666,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "裏書"
                         }
                     ]
                 },
@@ -540,7 +692,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=9224,15839,1304,1430",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fafd0253786493db6b9ac67910dfd17c\">fafd0253786493db6b9ac67910dfd17c</a> ]<br/>紙継目裏花押八顆あり",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fafd0253786493db6b9ac67910dfd17c\">紙継目裏花押八顆あり</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -549,6 +701,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "舎那院御領之絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 }

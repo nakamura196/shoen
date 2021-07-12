@@ -38,6 +38,9 @@ for sheet in geo:
     rows = sheet["value"]
 
     print(sheet["label"])
+
+    m_label = sheet["label"]
+
     for row in rows:
         
 
@@ -63,33 +66,45 @@ for sheet in geo:
 
         label = row["rdfs:label"]
 
+        metadata = [
+            {
+                "label": "Annotation",
+                "value": [
+                    {
+                        "@id": url,
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": member_id,
+                        "resource": {
+                            "@type": "cnt:ContentAsText",
+                            "chars": '''<a href=\"{}\">{}</a>'''.format(url, label),
+                            "format": "text/html",
+                            "marker": {
+                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                            "@type": "dctypes:Image"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+
+        metadata.append({
+            "label" : "図",
+            "value" : m_label
+        })
+
+        metadata.append({
+            "label" : "category",
+            "value" : row["schema:category"]
+        })
+
         member = {
 
             "@id": member_id,
             "@type": "sc:Canvas",
             "label": label,
-            "metadata": [
-                {
-                    "label": "Annotation",
-                    "value": [
-                        {
-                            "@id": url,
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "on": member_id,
-                            "resource": {
-                                "@type": "cnt:ContentAsText",
-                                "chars": '''[ <a href=\"{}\">{}</a> ]<br/>{}'''.format(url, id, label),
-                                "format": "text/html",
-                                "marker": {
-                                "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
-                                "@type": "dctypes:Image"
-                                }
-                            }
-                        }
-                    ]
-                }
-            ]
+            "metadata": metadata
 
         }
 

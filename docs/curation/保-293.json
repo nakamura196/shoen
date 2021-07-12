@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=753,4401,628,833",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/accae3f8c86a6749ac872f1c113b7a78\">accae3f8c86a6749ac872f1c113b7a78</a> ]<br/>峯堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/accae3f8c86a6749ac872f1c113b7a78\">峯堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=1713,5903,262,199",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/36fd2f68a1c6978a0360e53214f80eba\">36fd2f68a1c6978a0360e53214f80eba</a> ]<br/>大崎",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/36fd2f68a1c6978a0360e53214f80eba\">大崎</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=248,6942,427,449",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a7b32382071726a45b40ca627bb0823c\">a7b32382071726a45b40ca627bb0823c</a> ]<br/>西",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a7b32382071726a45b40ca627bb0823c\">西</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方角"
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4446,13384,437,516",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7abe386d4ed8d782baf6003b7f0e09a3\">7abe386d4ed8d782baf6003b7f0e09a3</a> ]<br/>南",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7abe386d4ed8d782baf6003b7f0e09a3\">南</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方角"
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4948,73,442,411",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d616ddc6c89cbc0a54e90773e8f1230d\">d616ddc6c89cbc0a54e90773e8f1230d</a> ]<br/>北",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d616ddc6c89cbc0a54e90773e8f1230d\">北</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方角"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5373,1373,428,1104",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a33fb89aa679929ef5e41e71a4efb6fa\">a33fb89aa679929ef5e41e71a4efb6fa</a> ]<br/>大浦下庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a33fb89aa679929ef5e41e71a4efb6fa\">大浦下庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5355,2796,197,334",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f64da048a44e09603c5268dc1dbc2e99\">f64da048a44e09603c5268dc1dbc2e99</a> ]<br/>神楊",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f64da048a44e09603c5268dc1dbc2e99\">神楊</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5561,3378,243,284",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/071fb7872519e047d95c84e99ef78717\">071fb7872519e047d95c84e99ef78717</a> ]<br/>谷尾",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/071fb7872519e047d95c84e99ef78717\">谷尾</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=8962,2669,484,285",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/abd1fef9cb11878c5e45f1cb914c67a3\">abd1fef9cb11878c5e45f1cb914c67a3</a> ]<br/>山田峯",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/abd1fef9cb11878c5e45f1cb914c67a3\">山田峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "峯"
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6442,3631,1226,347",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dd258f7bb57cdc4f88a4d2ab7fe00de7\">dd258f7bb57cdc4f88a4d2ab7fe00de7</a> ]<br/>菅浦与大浦下庄堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dd258f7bb57cdc4f88a4d2ab7fe00de7\">菅浦与大浦下庄堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5234,4169,467,406",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3ab96260b505c3c676bb6ee7c2e631b9\">3ab96260b505c3c676bb6ee7c2e631b9</a> ]<br/>赤崎",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3ab96260b505c3c676bb6ee7c2e631b9\">赤崎</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6537,4281,325,506",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/96c8dcb598bc52867a44a2d1ed2867e5\">96c8dcb598bc52867a44a2d1ed2867e5</a> ]<br/>菅浦",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/96c8dcb598bc52867a44a2d1ed2867e5\">菅浦</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6562,4794,365,247",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/be5d8ecf35d8a701fd5ffd1458b47b61\">be5d8ecf35d8a701fd5ffd1458b47b61</a> ]<br/>諸河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/be5d8ecf35d8a701fd5ffd1458b47b61\">諸河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6530,5229,370,274",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9056dc9b78bd58c7449c5ea82c13a328\">9056dc9b78bd58c7449c5ea82c13a328</a> ]<br/>日差",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9056dc9b78bd58c7449c5ea82c13a328\">日差</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7485,3538,1136,2076",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f7961a5dde42a77da5fc9860d1a6b37a\">f7961a5dde42a77da5fc9860d1a6b37a</a> ]<br/>鉢伏山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f7961a5dde42a77da5fc9860d1a6b37a\">鉢伏山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=9024,7031,467,391",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/15d580cb4b99ad4e510873391b3ee0eb\">15d580cb4b99ad4e510873391b3ee0eb</a> ]<br/>東",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/15d580cb4b99ad4e510873391b3ee0eb\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方角"
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7183,7191,416,524",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c49ec939d979aea828c626555a72a5ba\">c49ec939d979aea828c626555a72a5ba</a> ]<br/>津吹羅尾崎",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c49ec939d979aea828c626555a72a5ba\">津吹羅尾崎</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4954,10336,324,489",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c062b7597a6c588d4a2dc33ddb87987b\">c062b7597a6c588d4a2dc33ddb87987b</a> ]<br/>竹生嶋",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c062b7597a6c588d4a2dc33ddb87987b\">竹生嶋</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "菅浦与大浦下庄堺絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 }

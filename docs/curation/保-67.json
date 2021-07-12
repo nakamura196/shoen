@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=5648,4264,326,284",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/92ef6f14c84189142d0fafb069309780\">92ef6f14c84189142d0fafb069309780</a> ]<br/>谷",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/92ef6f14c84189142d0fafb069309780\">谷</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "谷"
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=3634,6625,2724,2599",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d654b3c8f25dfa806aacbb8133e1ab3a\">d654b3c8f25dfa806aacbb8133e1ab3a</a> ]<br/>明月庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d654b3c8f25dfa806aacbb8133e1ab3a\">明月庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=18888,3081,836,410",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a5aa205fcae9b192af4b19f76888f3cd\">a5aa205fcae9b192af4b19f76888f3cd</a> ]<br/>天源庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a5aa205fcae9b192af4b19f76888f3cd\">天源庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=19990,9820,985,523",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3779b2469763c2e82b63e8307408de97\">3779b2469763c2e82b63e8307408de97</a> ]<br/>龍峰庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3779b2469763c2e82b63e8307408de97\">龍峰庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=758,9328,386,905",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5da2e30e5f6b3c31299790acd5b530bb\">5da2e30e5f6b3c31299790acd5b530bb</a> ]<br/>禅興寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5da2e30e5f6b3c31299790acd5b530bb\">禅興寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=4859,15569,457,891",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ea32c1ac722de0577960e3fd5aae822b\">ea32c1ac722de0577960e3fd5aae822b</a> ]<br/>伝宗庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ea32c1ac722de0577960e3fd5aae822b\">伝宗庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=9451,5778,2467,2398",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f81d14648fabd3d655f1ff40b70f70d3\">f81d14648fabd3d655f1ff40b70f70d3</a> ]<br/>宗猷庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f81d14648fabd3d655f1ff40b70f70d3\">宗猷庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=8965,15575,366,792",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cbfa2e93fe5b8deda97ec40a7ab7a615\">cbfa2e93fe5b8deda97ec40a7ab7a615</a> ]<br/>正法寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/cbfa2e93fe5b8deda97ec40a7ab7a615\">正法寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=10872,15550,416,805",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a67ba7344f190b4b588651b48a3a36ac\">a67ba7344f190b4b588651b48a3a36ac</a> ]<br/>徳泉寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a67ba7344f190b4b588651b48a3a36ac\">徳泉寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=13205,15650,454,755",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9b081e99ad12bc3659436eb13b34577a\">9b081e99ad12bc3659436eb13b34577a</a> ]<br/>安国寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9b081e99ad12bc3659436eb13b34577a\">安国寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=16167,3013,350,734",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bdf56775a4c79aed4f31a1b477e85815\">bdf56775a4c79aed4f31a1b477e85815</a> ]<br/>長之界",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/bdf56775a4c79aed4f31a1b477e85815\">長之界</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "界"
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=20044,7432,807,399",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9056b36a94274b87485a02200453f52b\">9056b36a94274b87485a02200453f52b</a> ]<br/>伝燈庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9056b36a94274b87485a02200453f52b\">伝燈庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=14740,10128,1251,1056",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3f3e477802f8fc11455580bfa7ad41d6\">3f3e477802f8fc11455580bfa7ad41d6</a> ]<br/>花押・足利氏満",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3f3e477802f8fc11455580bfa7ad41d6\">花押・足利氏満</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=19934,11998,847,455",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1709754f2f6940df4a0484e2db965863\">1709754f2f6940df4a0484e2db965863</a> ]<br/>宝珠庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1709754f2f6940df4a0484e2db965863\">宝珠庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=20029,14308,717,441",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5e2d6b0b00b717da465564b79d94f649\">5e2d6b0b00b717da465564b79d94f649</a> ]<br/>玉雲",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5e2d6b0b00b717da465564b79d94f649\">玉雲</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=17493,15381,514,891",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f9eec24afff406502a77db8400e3e5b9\">f9eec24afff406502a77db8400e3e5b9</a> ]<br/>龍興院",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f9eec24afff406502a77db8400e3e5b9\">龍興院</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=15570,15506,431,859",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/154ea2898e17185d44ba5dc820d05c5b\">154ea2898e17185d44ba5dc820d05c5b</a> ]<br/>保寧寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/154ea2898e17185d44ba5dc820d05c5b\">保寧寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=530,13154,333,1281",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8a8d72dd6d39064ac72de12c05a1bd84\">8a8d72dd6d39064ac72de12c05a1bd84</a> ]<br/>明月院",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8a8d72dd6d39064ac72de12c05a1bd84\">明月院</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "明月院古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 }

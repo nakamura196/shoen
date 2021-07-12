@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12563,886,1167,735",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ae9dfa2010ed413392f6d74add162fcc\">ae9dfa2010ed413392f6d74add162fcc</a> ]<br/>山ニソウ　一反　モツタ　□段　ツネミツ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ae9dfa2010ed413392f6d74add162fcc\">山ニソウ　一反　モツタ　□段　ツネミツ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13698,1654,345,871",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6e8e686d8c549088128a4a44039af816\">6e8e686d8c549088128a4a44039af816</a> ]<br/>一反　トモヨリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6e8e686d8c549088128a4a44039af816\">一反　トモヨリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11248,777,1173,915",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bd6bf4d9c2c84862a9ee8e07ef388519\">bd6bf4d9c2c84862a9ee8e07ef388519</a> ]<br/>［　　］□トコノ前",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/bd6bf4d9c2c84862a9ee8e07ef388519\">［　　］□トコノ前</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10237,807,842,756",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0963b3bc72878913dd0eaeef884eadda\">0963b3bc72878913dd0eaeef884eadda</a> ]<br/>　］三方寺之知行",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0963b3bc72878913dd0eaeef884eadda\">　］三方寺之知行</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11291,1739,1161,793",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ef910213adc31305f0864ae5d42ee04d\">ef910213adc31305f0864ae5d42ee04d</a> ]<br/>黒田　一□□〔町内カ〕　神[　　　]",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ef910213adc31305f0864ae5d42ee04d\">黒田　一□□〔町内カ〕　神[　　　]</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12565,1656,1045,864",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c0a46f3fa69bc2fb5335201eaf7af492\">c0a46f3fa69bc2fb5335201eaf7af492</a> ]<br/>一町内　五段　モツタ　五段　ツネミツ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c0a46f3fa69bc2fb5335201eaf7af492\">一町内　五段　モツタ　五段　ツネミツ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10270,1659,1008,875",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/19368009dee3c066eedce5ccfb028707\">19368009dee3c066eedce5ccfb028707</a> ]<br/>ミマヤノ尻　一町　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/19368009dee3c066eedce5ccfb028707\">ミマヤノ尻　一町　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8790,1592,1406,979",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/42db72f7800cc55c3c83f0e0dc7c6553\">42db72f7800cc55c3c83f0e0dc7c6553</a> ]<br/>コマチ　一町内　五段　ヨナマス　［　　　］武則□〔内〕也",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/42db72f7800cc55c3c83f0e0dc7c6553\">コマチ　一町内　五段　ヨナマス　［　　　］武則□〔内〕也</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8177,1566,312,1037",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8722c55201abb16d81102218c9be3cc2\">8722c55201abb16d81102218c9be3cc2</a> ]<br/>コハシリ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8722c55201abb16d81102218c9be3cc2\">コハシリ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12512,2640,1128,803",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8c9a98e1b40650d1ef95bccc04913471\">8c9a98e1b40650d1ef95bccc04913471</a> ]<br/>庭田　一町内　三反　郷分　六段　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8c9a98e1b40650d1ef95bccc04913471\">庭田　一町内　三反　郷分　六段　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11299,2645,1146,794",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/077df3a4342f66a5f7e6fd73f5402150\">077df3a4342f66a5f7e6fd73f5402150</a> ]<br/>柳田　一町　神□〔田カ〕",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/077df3a4342f66a5f7e6fd73f5402150\">柳田　一町　神□〔田カ〕</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10114,2617,1100,931",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ae8b41329cad9ec997905608908b4b77\">ae8b41329cad9ec997905608908b4b77</a> ]<br/>ヒロタ　一町内　二反　郷分　八段　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ae8b41329cad9ec997905608908b4b77\">ヒロタ　一町内　二反　郷分　八段　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8552,2631,1172,911",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/607308e500a0eda3a48816a16968e9e8\">607308e500a0eda3a48816a16968e9e8</a> ]<br/>社御供田　一町",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/607308e500a0eda3a48816a16968e9e8\">社御供田　一町</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8196,2639,279,856",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/556ef8994caf6181cc459d6aa58b200b\">556ef8994caf6181cc459d6aa58b200b</a> ]<br/>サタ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/556ef8994caf6181cc459d6aa58b200b\">サタ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13725,3636,540,837",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/38ce25b22117ac91e9d5bf6239e9f169\">38ce25b22117ac91e9d5bf6239e9f169</a> ]<br/>六段　新シユリ田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/38ce25b22117ac91e9d5bf6239e9f169\">六段　新シユリ田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12534,3614,1111,809",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9480a200c834d896ff05bcaa6cd3ae0f\">9480a200c834d896ff05bcaa6cd3ae0f</a> ]<br/>上大保　一町田　コレハ公文分田也",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9480a200c834d896ff05bcaa6cd3ae0f\">上大保　一町田　コレハ公文分田也</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11348,3608,1073,848",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/39bc72dc49221fab8f67630904623948\">39bc72dc49221fab8f67630904623948</a> ]<br/>ハムロ　一町　□□□（百姓□カ）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/39bc72dc49221fab8f67630904623948\">ハムロ　一町　□□□（百姓□カ）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10178,3663,1062,820",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/795fc0426611e58499fe385a47a7851a\">795fc0426611e58499fe385a47a7851a</a> ]<br/>御神宝田　一町",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/795fc0426611e58499fe385a47a7851a\">御神宝田　一町</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -513,7 +657,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8586,3603,1095,925",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2716ccd51ccb8d6645ad8e27320a50c1\">2716ccd51ccb8d6645ad8e27320a50c1</a> ]<br/>一町内　九段小　法師丸　大　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2716ccd51ccb8d6645ad8e27320a50c1\">一町内　九段小　法師丸　大　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -522,6 +666,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -540,7 +692,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13687,4575,749,897",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cf17daafab1b7244eb98c20d49efa504\">cf17daafab1b7244eb98c20d49efa504</a> ]<br/>大□　ウワハ　大　ウワハ　二反　久保垣　糸井畠　二反　同　糸井畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/cf17daafab1b7244eb98c20d49efa504\">大□　ウワハ　大　ウワハ　二反　久保垣　糸井畠　二反　同　糸井畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -549,6 +701,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -567,7 +727,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12501,4569,1117,897",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6f992ff2d722e2949c3e772d0cb9ee5d\">6f992ff2d722e2949c3e772d0cb9ee5d</a> ]<br/>一町内　二反小　新シユリ田　四段大　糸井畠　二反　一宮御油田　一反　 糸井畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6f992ff2d722e2949c3e772d0cb9ee5d\">一町内　二反小　新シユリ田　四段大　糸井畠　二反　一宮御油田　一反　 糸井畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -576,6 +736,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -594,7 +762,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11370,4575,1045,903",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f4e06df29d8abf7070abccbcbe694f76\">f4e06df29d8abf7070abccbcbe694f76</a> ]<br/>中大保　一町　武則[　　]",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f4e06df29d8abf7070abccbcbe694f76\">中大保　一町　武則[　　]</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -603,6 +771,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -621,7 +797,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10145,4597,1117,892",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8965a934aade37d23a1ba00a7dedc30a\">8965a934aade37d23a1ba00a7dedc30a</a> ]<br/>下大保　一町　武則之内　雑免也",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8965a934aade37d23a1ba00a7dedc30a\">下大保　一町　武則之内　雑免也</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -630,6 +806,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -648,7 +832,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8942,4575,710,919",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4423f691ea73e9d04483ef2f7ff3babc\">4423f691ea73e9d04483ef2f7ff3babc</a> ]<br/>小橋　一町内　□□□",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4423f691ea73e9d04483ef2f7ff3babc\">小橋　一町内　□□□</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -657,6 +841,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -675,7 +867,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13664,5558,524,733",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a4203280c729b6ac9d92d5ec0b313239\">a4203280c729b6ac9d92d5ec0b313239</a> ]<br/>[　　　]　大　武□（則カ）　大　武則　一反　武則",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a4203280c729b6ac9d92d5ec0b313239\">[　　　]　大　武□（則カ）　大　武則　一反　武則</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -684,6 +876,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -702,7 +902,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12574,5537,1065,699",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5ff24215174067863500889235801ccf\">5ff24215174067863500889235801ccf</a> ]<br/>八段　一反小　三反　一反",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5ff24215174067863500889235801ccf\">八段　一反小　三反　一反</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -711,6 +911,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -729,7 +937,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11795,5537,640,663",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c2fecfe08f0d6d1e40efccec4f9d2516\">c2fecfe08f0d6d1e40efccec4f9d2516</a> ]<br/>椙□　[　　　]",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c2fecfe08f0d6d1e40efccec4f9d2516\">椙□　[　　　]</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -738,6 +946,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -756,7 +972,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10202,5548,1112,687",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6eb3d30dadbc4c2ea47713e92d3b33fe\">6eb3d30dadbc4c2ea47713e92d3b33fe</a> ]<br/>下椙□　一町内　二反　トモサ□　大　郷分　七段小　神□（田カ）",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6eb3d30dadbc4c2ea47713e92d3b33fe\">下椙□　一町内　二反　トモサ□　大　郷分　七段小　神□（田カ）</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -765,6 +981,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -783,7 +1007,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8457,6230,1058,312",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/06fa67fcfee7ff9c1e500eca975dd83c\">06fa67fcfee7ff9c1e500eca975dd83c</a> ]<br/>［　　　］名内",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/06fa67fcfee7ff9c1e500eca975dd83c\">［　　　］名内</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -792,6 +1016,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -810,7 +1042,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8991,5537,655,563",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8074c8fc93885b4f0fbfeb535c0e11f3\">8074c8fc93885b4f0fbfeb535c0e11f3</a> ]<br/>[　　　]　一町　[　　　]\n",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8074c8fc93885b4f0fbfeb535c0e11f3\">[　　　]　一町　[　　　]\n</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -819,6 +1051,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -837,7 +1077,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12526,6524,1157,939",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d41d3d2a988123749410099fcdc253db\">d41d3d2a988123749410099fcdc253db</a> ]<br/>一反　御油畠　一反小　武則畠　三反　武則　宗實名内　大　武則畠　大　 武則畠　一反　武則畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d41d3d2a988123749410099fcdc253db\">一反　御油畠　一反小　武則畠　三反　武則　宗實名内　大　武則畠　大　 武則畠　一反　武則畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -846,6 +1086,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -864,7 +1112,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11305,6551,1150,919",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7020c7aa65fd14ed984ee126508bcce8\">7020c7aa65fd14ed984ee126508bcce8</a> ]<br/>二反　御油畠　□□内　御油畠　□反　メウラクシ畠　五反　久長垣　糸井 畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7020c7aa65fd14ed984ee126508bcce8\">二反　御油畠　□□内　御油畠　□反　メウラクシ畠　五反　久長垣　糸井 畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -873,6 +1121,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -891,7 +1147,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10268,6552,964,885",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/34c8fb3e3dbc87e9477d2ae80611adc0\">34c8fb3e3dbc87e9477d2ae80611adc0</a> ]<br/>ミマチ　四段小　図師給　三反　郷分畠　一反小　一宮御油畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/34c8fb3e3dbc87e9477d2ae80611adc0\">ミマチ　四段小　図師給　三反　郷分畠　一反小　一宮御油畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -900,6 +1156,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -918,7 +1182,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8783,6572,695,901",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/59512292e745b9d4fe7dadfe41f70d0a\">59512292e745b9d4fe7dadfe41f70d0a</a> ]<br/>一町　郷分也　",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/59512292e745b9d4fe7dadfe41f70d0a\">一町　郷分也　</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -927,6 +1191,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -945,7 +1217,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11339,7509,635,880",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4daeed48331c020d5d49952a358ffb14\">4daeed48331c020d5d49952a358ffb14</a> ]<br/>二反　□□□",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4daeed48331c020d5d49952a358ffb14\">二反　□□□</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -954,6 +1226,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -972,7 +1252,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10170,7492,1125,869",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/618c12664807b3aaf7262c411e4111f8\">618c12664807b3aaf7262c411e4111f8</a> ]<br/>三反　一宮御油畠　大　郷分畠　二反　郷分畠　一反　キヨトコロ分ニヨス 畠　大　郷分",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/618c12664807b3aaf7262c411e4111f8\">三反　一宮御油畠　大　郷分畠　二反　郷分畠　一反　キヨトコロ分ニヨス 畠　大　郷分</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -981,6 +1261,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -999,7 +1287,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8858,7509,760,743",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c759445b562c4e2bb944846ef455139a\">c759445b562c4e2bb944846ef455139a</a> ]<br/>大　一宮御油畠　大　郷分畠　二反小　糸井畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c759445b562c4e2bb944846ef455139a\">大　一宮御油畠　大　郷分畠　二反小　糸井畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1008,6 +1296,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1026,7 +1322,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13851,9442,1093,909",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/19a498a77d8187ed1e9a0dcba03a936f\">19a498a77d8187ed1e9a0dcba03a936f</a> ]<br/>池内　二反　郷分田　一反　郷分畠　大　サタキヨ名田也",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/19a498a77d8187ed1e9a0dcba03a936f\">池内　二反　郷分田　一反　郷分畠　大　サタキヨ名田也</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1035,6 +1331,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1053,7 +1357,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12601,9455,1167,897",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a34af7d2cd3245bc7e75fc94f520af3c\">a34af7d2cd3245bc7e75fc94f520af3c</a> ]<br/>□（荒もしくは忌）木　一反半　井田　一反半　イマキラ井田　一反　柳井 田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a34af7d2cd3245bc7e75fc94f520af3c\">□（荒もしくは忌）木　一反半　井田　一反半　イマキラ井田　一反　柳井 田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1062,6 +1366,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1080,7 +1392,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11538,9466,988,931",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a7690851ff895d50f6ea5adabc379a79\">a7690851ff895d50f6ea5adabc379a79</a> ]<br/>井尻垣　三反　御油畠&lt;ヲウホノ／名付申&gt;　七段　ホリノ中　御油畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a7690851ff895d50f6ea5adabc379a79\">井尻垣　三反　御油畠&lt;ヲウホノ／名付申&gt;　七段　ホリノ中　御油畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1089,6 +1401,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1107,7 +1427,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11410,10438,1095,889",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f8240d317e4f3507279ed88b5bb0066a\">f8240d317e4f3507279ed88b5bb0066a</a> ]<br/>福井垣　七反半　御油畠　二反小　郷分畠　四反　糸井畠　四反　一宮御油 畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f8240d317e4f3507279ed88b5bb0066a\">福井垣　七反半　御油畠　二反小　郷分畠　四反　糸井畠　四反　一宮御油 畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1116,6 +1436,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1134,7 +1462,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=10147,10395,1173,981",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/eea529b125ee810376f08842ffd7bfcb\">eea529b125ee810376f08842ffd7bfcb</a> ]<br/>四反　ヨナマス畠御油　二反　御油畠　大用ト　四反　御油畠　一反大　ク ルヒ□〔須カ〕　大　ヨナマスノ畠　大　ヨナマスノ屋敷&lt;和／田&gt;",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/eea529b125ee810376f08842ffd7bfcb\">四反　ヨナマス畠御油　二反　御油畠　大用ト　四反　御油畠　一反大　ク ルヒ□〔須カ〕　大　ヨナマスノ畠　大　ヨナマスノ屋敷&lt;和／田&gt;</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1143,6 +1471,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1161,7 +1497,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8509,10374,1258,1031",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/167aa5060cb48bc3e9b3fd70895e0232\">167aa5060cb48bc3e9b3fd70895e0232</a> ]<br/>二反半　兵衛三郎屋敷&lt;御油／畠&gt;　大　ノカセヨナマスノ分　七反半　ヨナ マスノ名田　大　ハラタ畠　大　アフラヤ畠　郷分",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/167aa5060cb48bc3e9b3fd70895e0232\">二反半　兵衛三郎屋敷&lt;御油／畠&gt;　大　ノカセヨナマスノ分　七反半　ヨナ マスノ名田　大　ハラタ畠　大　アフラヤ畠　郷分</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1170,6 +1506,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1188,7 +1532,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8071,10398,351,675",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b44bb0515121b462c65efb4e7427bb81\">b44bb0515121b462c65efb4e7427bb81</a> ]<br/>畠　一町",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b44bb0515121b462c65efb4e7427bb81\">畠　一町</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1197,6 +1541,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1215,7 +1567,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=7231,6500,1118,909",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/eed8bcd0d975d94c6f1b77d555bd9ede\">eed8bcd0d975d94c6f1b77d555bd9ede</a> ]<br/>□町内　□反　□反　一反　御油畠　一反　又御油畠　大　郷分畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/eed8bcd0d975d94c6f1b77d555bd9ede\">□町内　□反　□反　一反　御油畠　一反　又御油畠　大　郷分畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1224,6 +1576,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1242,7 +1602,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=4860,6417,1238,1026",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/022e2446dc9342d3cd5335823700afa2\">022e2446dc9342d3cd5335823700afa2</a> ]<br/>アカノ　一町内　□□（毘沙カ）門堂田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/022e2446dc9342d3cd5335823700afa2\">アカノ　一町内　□□（毘沙カ）門堂田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1251,6 +1611,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1269,7 +1637,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3686,6462,1156,921",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/eeb8e3b5cdc911037176500e94e9a7ae\">eeb8e3b5cdc911037176500e94e9a7ae</a> ]<br/>アカノ　一町内　二反　トモヨリ　一反　次郎丸　一反　郷分　六反　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/eeb8e3b5cdc911037176500e94e9a7ae\">アカノ　一町内　二反　トモヨリ　一反　次郎丸　一反　郷分　六反　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1278,6 +1646,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1296,7 +1672,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=2468,6486,1164,870",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2f1d92275cf03121bfed060aa715e6d6\">2f1d92275cf03121bfed060aa715e6d6</a> ]<br/>クマノ坪　一町内　□反　ワカミヤ田　□□郷分　コノホカ神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2f1d92275cf03121bfed060aa715e6d6\">クマノ坪　一町内　□反　ワカミヤ田　□□郷分　コノホカ神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1305,6 +1681,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1323,7 +1707,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=6117,7502,1150,885",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/32559001f984a9b5052568f90314b71c\">32559001f984a9b5052568f90314b71c</a> ]<br/>一町内　一反小　トモヨリ名　二反　キヨヤス名　一反小　神田　一反　御油畠　二反大　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/32559001f984a9b5052568f90314b71c\">一町内　一反小　トモヨリ名　二反　キヨヤス名　一反小　神田　一反　御油畠　二反大　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1332,6 +1716,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1350,7 +1742,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=4922,7488,1114,889",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/412b35c3da6fce0603bb4587ce3d5aaf\">412b35c3da6fce0603bb4587ce3d5aaf</a> ]<br/>ノラ田　一町内　二反　ムネサネ名　二反　トモヨリ　六反　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/412b35c3da6fce0603bb4587ce3d5aaf\">ノラ田　一町内　二反　ムネサネ名　二反　トモヨリ　六反　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1359,6 +1751,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1377,7 +1777,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3757,7452,1060,918",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/35da2e5644fdef7a26cfdb9f95c5934a\">35da2e5644fdef7a26cfdb9f95c5934a</a> ]<br/>シイノモト　一町内　三反　毘沙門堂田　七反　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/35da2e5644fdef7a26cfdb9f95c5934a\">シイノモト　一町内　三反　毘沙門堂田　七反　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1386,6 +1786,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1404,7 +1812,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=2510,7440,1131,901",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a07123dd49c943ab515c475ed4358ab0\">a07123dd49c943ab515c475ed4358ab0</a> ]<br/>ホイ爪　一町内　四段　ムネサネ　六反　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a07123dd49c943ab515c475ed4358ab0\">ホイ爪　一町内　四段　ムネサネ　六反　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1413,6 +1821,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1431,7 +1847,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=6312,8462,529,934",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4cf8e0f420357e2a67167f1ac5f6d60a\">4cf8e0f420357e2a67167f1ac5f6d60a</a> ]<br/>三反　安良御油畠　河頬　",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4cf8e0f420357e2a67167f1ac5f6d60a\">三反　安良御油畠　河頬　</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1440,6 +1856,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1458,7 +1882,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=4961,8441,1059,882",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/df1a33ac2bf0ceac7c54f9385ce3ab21\">df1a33ac2bf0ceac7c54f9385ce3ab21</a> ]<br/>一反小　神田　大　郷分　五段　御油畠　残　　",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/df1a33ac2bf0ceac7c54f9385ce3ab21\">一反小　神田　大　郷分　五段　御油畠　残　　</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1467,6 +1891,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1485,7 +1917,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3634,8398,1194,917",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d74bea755fc2c3e9bcd9c6530456a4bf\">d74bea755fc2c3e9bcd9c6530456a4bf</a> ]<br/>シハ原　一町内　五反半内&lt;二反流失　サタキヨ&gt;　半　郷分　半　キヨトコ ロメン　小　次郎丸　小　サタキヨ名　一反小　神田　半　又神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d74bea755fc2c3e9bcd9c6530456a4bf\">シハ原　一町内　五反半内&lt;二反流失　サタキヨ&gt;　半　郷分　半　キヨトコ ロメン　小　次郎丸　小　サタキヨ名　一反小　神田　半　又神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1494,6 +1926,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1512,7 +1952,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=2527,8381,1066,913",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3f97a96cae536a70ed848e3d6b29f10a\">3f97a96cae536a70ed848e3d6b29f10a</a> ]<br/>八坪　一町内　二反　郷分　八段　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3f97a96cae536a70ed848e3d6b29f10a\">八坪　一町内　二反　郷分　八段　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1521,6 +1961,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1539,7 +1987,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=1803,8381,496,896",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d16dc495cfb49ac799988660feb4327d\">d16dc495cfb49ac799988660feb4327d</a> ]<br/>六反　長野",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d16dc495cfb49ac799988660feb4327d\">六反　長野</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1548,6 +1996,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1566,7 +2022,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=5326,9413,555,683",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1dde03aac96b1c66ed9221e964c00c22\">1dde03aac96b1c66ed9221e964c00c22</a> ]<br/>畠五段",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1dde03aac96b1c66ed9221e964c00c22\">畠五段</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1575,6 +2031,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1593,7 +2057,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3714,9414,1156,901",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b128a7e1300cb4073f0187fb125bb417\">b128a7e1300cb4073f0187fb125bb417</a> ]<br/>カイヤ垣　一町内　七反　スエフサ畠　一反大　八山畠　二反　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b128a7e1300cb4073f0187fb125bb417\">カイヤ垣　一町内　七反　スエフサ畠　一反大　八山畠　二反　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1602,6 +2066,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1620,7 +2092,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=2570,9352,1105,942",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/177fde96cb46dd930b66d01f69456644\">177fde96cb46dd930b66d01f69456644</a> ]<br/>池野ヘ　一町内　六反　郷分　四段　神田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/177fde96cb46dd930b66d01f69456644\">池野ヘ　一町内　六反　郷分　四段　神田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1629,6 +2101,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1647,7 +2127,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3821,10373,1047,1007",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d4c86c8083abd4be607beab6d1e563ee\">d4c86c8083abd4be607beab6d1e563ee</a> ]<br/>カイヤ垣　一町二反内　一町　武則分畠　二反　田所ノ畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d4c86c8083abd4be607beab6d1e563ee\">カイヤ垣　一町二反内　一町　武則分畠　二反　田所ノ畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1656,6 +2136,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1674,7 +2162,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=2481,10373,1263,1027",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c65d2c860dea996719c65d5d83672a5e\">c65d2c860dea996719c65d5d83672a5e</a> ]<br/>石坪　一反　一反　タメヤス　郷佃田　半　ノリチカ　郷佃　半　ヨナマス　 同佃　小　トモヨリ　同佃　小　トモヨリ　同佃",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c65d2c860dea996719c65d5d83672a5e\">石坪　一反　一反　タメヤス　郷佃田　半　ノリチカ　郷佃　半　ヨナマス　 同佃　小　トモヨリ　同佃　小　トモヨリ　同佃</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1683,6 +2171,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "但馬国神戸郷絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 }

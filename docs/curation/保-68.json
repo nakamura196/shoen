@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=337,14729,270,1297",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8e51d05a60dfd810a92f303a76579e9d\">8e51d05a60dfd810a92f303a76579e9d</a> ]<br/>円覚寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8e51d05a60dfd810a92f303a76579e9d\">円覚寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=7296,3030,556,574",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f2c3f0edee52af1a49f7577d3d886efe\">f2c3f0edee52af1a49f7577d3d886efe</a> ]<br/>花押・上杉重能",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f2c3f0edee52af1a49f7577d3d886efe\">花押・上杉重能</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=6983,3048,333,583",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/48bcdf154e8a7bb529a22fbf4c85160e\">48bcdf154e8a7bb529a22fbf4c85160e</a> ]<br/>六国見",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/48bcdf154e8a7bb529a22fbf4c85160e\">六国見</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=6760,7157,1065,761",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dc00d178f192d5ec9a45cbb6e1b064bd\">dc00d178f192d5ec9a45cbb6e1b064bd</a> ]<br/>仏日庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dc00d178f192d5ec9a45cbb6e1b064bd\">仏日庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=12027,9754,882,928",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c8308309e20b97cc0422a8cd6545ed80\">c8308309e20b97cc0422a8cd6545ed80</a> ]<br/>花押・上杉重能",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c8308309e20b97cc0422a8cd6545ed80\">花押・上杉重能</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=4965,7781,1149,817",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c4fab47e82cb115d4448a610542131e8\">c4fab47e82cb115d4448a610542131e8</a> ]<br/>舎利殿",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c4fab47e82cb115d4448a610542131e8\">舎利殿</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=2971,11854,602,785",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2002f82dd033f2e30b3e4df279010532\">2002f82dd033f2e30b3e4df279010532</a> ]<br/>白雲庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2002f82dd033f2e30b3e4df279010532\">白雲庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=3451,12337,985,657",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4b700e0638b6834e460138d1e74e0374\">4b700e0638b6834e460138d1e74e0374</a> ]<br/>伝宗庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4b700e0638b6834e460138d1e74e0374\">伝宗庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=4412,11831,903,687",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/461a06a98e8d37fd5c62b26a9a06633b\">461a06a98e8d37fd5c62b26a9a06633b</a> ]<br/>大仙庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/461a06a98e8d37fd5c62b26a9a06633b\">大仙庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=10977,13439,1282,746",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/35038071c89d572b25095a7809abe2d8\">35038071c89d572b25095a7809abe2d8</a> ]<br/>蔵六庵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/35038071c89d572b25095a7809abe2d8\">蔵六庵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=9979,14057,888,598",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3e8ce43e2660e78ed047ed30fe87e8f1\">3e8ce43e2660e78ed047ed30fe87e8f1</a> ]<br/>新寄進",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3e8ce43e2660e78ed047ed30fe87e8f1\">新寄進</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=11312,14317,903,322",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/719c515890723c372961292b134e29c9\">719c515890723c372961292b134e29c9</a> ]<br/>新寄進",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/719c515890723c372961292b134e29c9\">新寄進</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=4553,12783,1583,1083",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/76e8ae1178bccf84afaba61ba71e533e\">76e8ae1178bccf84afaba61ba71e533e</a> ]<br/>正観音",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/76e8ae1178bccf84afaba61ba71e533e\">正観音</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=12184,16613,1558,1484",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c4e0ddd748ea2a2010b38a5d66522519\">c4e0ddd748ea2a2010b38a5d66522519</a> ]<br/>東慶寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c4e0ddd748ea2a2010b38a5d66522519\">東慶寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=6294,17446,873,836",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a2547c2e5ffdaec0f6ebdd5d0c351cb9\">a2547c2e5ffdaec0f6ebdd5d0c351cb9</a> ]<br/>花押・上杉重能",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a2547c2e5ffdaec0f6ebdd5d0c351cb9\">花押・上杉重能</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=10594,15534,1011,806",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d1a764220b1de7ae034beebb27b37b20\">d1a764220b1de7ae034beebb27b37b20</a> ]<br/>中殿跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d1a764220b1de7ae034beebb27b37b20\">中殿跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=437,12800,788,1137",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fc84c612b4c2e0ff04c1837fbab0a52e\">fc84c612b4c2e0ff04c1837fbab0a52e</a> ]<br/>長勝寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fc84c612b4c2e0ff04c1837fbab0a52e\">長勝寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=1027,11791,511,672",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/52bc47bf239630fa0b8ca562b5097908\">52bc47bf239630fa0b8ca562b5097908</a> ]<br/>塔",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/52bc47bf239630fa0b8ca562b5097908\">塔</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "塔"
                         }
                     ]
                 },
@@ -513,7 +657,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=794,14551,654,690",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7de879d1c07b014903f64227a0c1c3b6\">7de879d1c07b014903f64227a0c1c3b6</a> ]<br/>篝屋跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7de879d1c07b014903f64227a0c1c3b6\">篝屋跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -522,6 +666,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -540,7 +692,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=937,15614,520,1128",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a0e5e3d410d2cb48bdce9f5f9dd9f8a0\">a0e5e3d410d2cb48bdce9f5f9dd9f8a0</a> ]<br/>瓜谷路",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a0e5e3d410d2cb48bdce9f5f9dd9f8a0\">瓜谷路</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -549,6 +701,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -567,7 +727,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=3488,17774,1469,456",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f59507de4b2af1b9f0587b9d6a0d26d9\">f59507de4b2af1b9f0587b9d6a0d26d9</a> ]<br/>薩摩掃部大夫入道跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f59507de4b2af1b9f0587b9d6a0d26d9\">薩摩掃部大夫入道跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -576,6 +736,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -594,7 +762,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=1292,17677,1089,553",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8df093345cd013bd959288b9532321a8\">8df093345cd013bd959288b9532321a8</a> ]<br/>飯嶋弥次郎入道跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8df093345cd013bd959288b9532321a8\">飯嶋弥次郎入道跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -603,6 +771,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -621,7 +797,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=14543,9935,496,728",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/92b57e4ecbb6fd1587dfc194ea688777\">92b57e4ecbb6fd1587dfc194ea688777</a> ]<br/>東",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/92b57e4ecbb6fd1587dfc194ea688777\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -630,6 +806,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -648,7 +832,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=13334,12222,886,1056",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8c613e8ebb0121dbe46d290d056b5cac\">8c613e8ebb0121dbe46d290d056b5cac</a> ]<br/>最明寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8c613e8ebb0121dbe46d290d056b5cac\">最明寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -657,6 +841,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -675,7 +867,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=6768,2420,806,752",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/311502c9dcde22ba1064814718113867\">311502c9dcde22ba1064814718113867</a> ]<br/>北",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/311502c9dcde22ba1064814718113867\">北</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -684,6 +876,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -702,7 +902,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=1899,9665,731,935",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f37482de9d8857498c5074f46707b3ec\">f37482de9d8857498c5074f46707b3ec</a> ]<br/>花押・上杉重能",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f37482de9d8857498c5074f46707b3ec\">花押・上杉重能</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -711,6 +911,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "円覚寺境内古図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "花押"
                         }
                     ]
                 }

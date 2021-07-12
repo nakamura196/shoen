@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=17175,18902,1041,2875",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9eacae93527c6f367fadebecbe3ed254\">9eacae93527c6f367fadebecbe3ed254</a> ]<br/>長門二宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9eacae93527c6f367fadebecbe3ed254\">長門二宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2153,1514,2445,1621",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d3cb011ec0a6c7bcabb0a8df06ab7043\">d3cb011ec0a6c7bcabb0a8df06ab7043</a> ]<br/>四天王寺山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d3cb011ec0a6c7bcabb0a8df06ab7043\">四天王寺山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7420,1392,2840,1643",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a01bca304f0162cda2720ceef16a48d8\">a01bca304f0162cda2720ceef16a48d8</a> ]<br/>諏訪社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a01bca304f0162cda2720ceef16a48d8\">諏訪社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=8376,3741,609,609",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1504225849c37cec92929efa02d93600\">1504225849c37cec92929efa02d93600</a> ]<br/>万年橋",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1504225849c37cec92929efa02d93600\">万年橋</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "橋"
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7960,4512,765,688",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e9e4ad69ec119b0c46eea45af0ef50be\">e9e4ad69ec119b0c46eea45af0ef50be</a> ]<br/>貴船社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e9e4ad69ec119b0c46eea45af0ef50be\">貴船社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=8218,5520,733,715",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0fc64b8c13a3f757e4f37487b64ff9f4\">0fc64b8c13a3f757e4f37487b64ff9f4</a> ]<br/>大将軍",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0fc64b8c13a3f757e4f37487b64ff9f4\">大将軍</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=10134,5908,490,394",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ed4548e1a8d7a35ce01cccbf87345313\">ed4548e1a8d7a35ce01cccbf87345313</a> ]<br/>霊社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ed4548e1a8d7a35ce01cccbf87345313\">霊社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=9645,6229,428,477",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/332c12f989a74d1ae058fcab7d3888e3\">332c12f989a74d1ae058fcab7d3888e3</a> ]<br/>北門",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/332c12f989a74d1ae058fcab7d3888e3\">北門</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "門"
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=8882,6339,1338,1361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c909ab9baeed01f423a184e5ee1733e2\">c909ab9baeed01f423a184e5ee1733e2</a> ]<br/>本社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c909ab9baeed01f423a184e5ee1733e2\">本社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=8141,6750,645,630",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b6b907c8834569f213d56a7fc3954155\">b6b907c8834569f213d56a7fc3954155</a> ]<br/>若宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b6b907c8834569f213d56a7fc3954155\">若宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "宮"
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7905,7247,1776,1256",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e7761d0c6eb56859f29e16afe8a0b9d7\">e7761d0c6eb56859f29e16afe8a0b9d7</a> ]<br/>拝殿",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e7761d0c6eb56859f29e16afe8a0b9d7\">拝殿</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=8803,6962,596,622",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2cf097f17ec287875fc625f5de04b75b\">2cf097f17ec287875fc625f5de04b75b</a> ]<br/>幣殿",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2cf097f17ec287875fc625f5de04b75b\">幣殿</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7645,8426,1015,852",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cf1af000cd027e29d675b40078080ab4\">cf1af000cd027e29d675b40078080ab4</a> ]<br/>楼門",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/cf1af000cd027e29d675b40078080ab4\">楼門</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "門"
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6268,8905,1600,408",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ba72ed706eb6c9e59c1aee0a24b7f3fc\">ba72ed706eb6c9e59c1aee0a24b7f3fc</a> ]<br/>廻廊",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ba72ed706eb6c9e59c1aee0a24b7f3fc\">廻廊</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7415,7596,413,259",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3dc9fdc6a88de85cf8d7b8787ea502f8\">3dc9fdc6a88de85cf8d7b8787ea502f8</a> ]<br/>西門",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3dc9fdc6a88de85cf8d7b8787ea502f8\">西門</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "門"
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=10511,8196,480,313",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a339d0598d6618dd3d0822b0803c536f\">a339d0598d6618dd3d0822b0803c536f</a> ]<br/>東門",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a339d0598d6618dd3d0822b0803c536f\">東門</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "門"
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=10694,8558,537,613",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/25f2626da3efa5f951bf6e30cdfd887b\">25f2626da3efa5f951bf6e30cdfd887b</a> ]<br/>頓宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/25f2626da3efa5f951bf6e30cdfd887b\">頓宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "宮"
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=11580,7836,328,425",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/11461aa4ced7a88e394c672a953e6f5c\">11461aa4ced7a88e394c672a953e6f5c</a> ]<br/>松尾",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/11461aa4ced7a88e394c672a953e6f5c\">松尾</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -513,7 +657,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=11416,7641,386,534",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7ffdd70fde97c1835dd8b0859b792edc\">7ffdd70fde97c1835dd8b0859b792edc</a> ]<br/>両所明神",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7ffdd70fde97c1835dd8b0859b792edc\">両所明神</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -522,6 +666,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -540,7 +692,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=11233,7619,274,549",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/84bbd0b1631c169ccccfa8fe523694ef\">84bbd0b1631c169ccccfa8fe523694ef</a> ]<br/>稲荷",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/84bbd0b1631c169ccccfa8fe523694ef\">稲荷</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -549,6 +701,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -567,7 +727,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=12194,7320,1102,919",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/03748b0aff2f33fca16d50b966b6d389\">03748b0aff2f33fca16d50b966b6d389</a> ]<br/>弁財天",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/03748b0aff2f33fca16d50b966b6d389\">弁財天</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -576,6 +736,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -594,7 +762,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6551,9841,687,839",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7cda31a0f0c04758b402a20dcf5908c9\">7cda31a0f0c04758b402a20dcf5908c9</a> ]<br/>鐘楼",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7cda31a0f0c04758b402a20dcf5908c9\">鐘楼</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -603,6 +771,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "鐘楼"
                         }
                     ]
                 },
@@ -621,7 +797,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=11636,9098,535,443",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9eb46b08c60dc0aca0923feea832d893\">9eb46b08c60dc0aca0923feea832d893</a> ]<br/>蛭子社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9eb46b08c60dc0aca0923feea832d893\">蛭子社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -630,6 +806,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -648,7 +832,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=11227,9417,517,294",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9a700a2ac56ff70b5d619dddf13e0c23\">9a700a2ac56ff70b5d619dddf13e0c23</a> ]<br/>浜大夫",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9a700a2ac56ff70b5d619dddf13e0c23\">浜大夫</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -657,6 +841,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -675,7 +867,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=4920,9324,1309,858",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/00be1daf154fb22608bedf381f4a9a12\">00be1daf154fb22608bedf381f4a9a12</a> ]<br/>祇園社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/00be1daf154fb22608bedf381f4a9a12\">祇園社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -684,6 +876,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -702,7 +902,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=8184,9989,856,691",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5509d96cd40f37f78bee241bf4a85203\">5509d96cd40f37f78bee241bf4a85203</a> ]<br/>楽屋",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5509d96cd40f37f78bee241bf4a85203\">楽屋</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -711,6 +911,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -729,7 +937,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=5132,11200,306,419",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/84404cf70e052e43f0c539676245d601\">84404cf70e052e43f0c539676245d601</a> ]<br/>宮司坊",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/84404cf70e052e43f0c539676245d601\">宮司坊</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -738,6 +946,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -756,7 +972,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=5834,11186,351,427",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2fa01d943f45bfa14156e1d60eeb8753\">2fa01d943f45bfa14156e1d60eeb8753</a> ]<br/>長願寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2fa01d943f45bfa14156e1d60eeb8753\">長願寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -765,6 +981,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -783,7 +1007,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6662,11254,454,338",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d5ac5c0239f1e0e5d17c0f2bbdb26fec\">d5ac5c0239f1e0e5d17c0f2bbdb26fec</a> ]<br/>神宮寺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d5ac5c0239f1e0e5d17c0f2bbdb26fec\">神宮寺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -792,6 +1016,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "寺"
                         }
                     ]
                 },
@@ -810,7 +1042,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6137,12169,307,248",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dd8985e9e15da75e8bb59714374971d9\">dd8985e9e15da75e8bb59714374971d9</a> ]<br/>南大夫",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dd8985e9e15da75e8bb59714374971d9\">南大夫</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -819,6 +1051,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -837,7 +1077,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6025,12400,401,282",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c0cd182579dd2806169da5de3844f4f8\">c0cd182579dd2806169da5de3844f4f8</a> ]<br/>池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c0cd182579dd2806169da5de3844f4f8\">池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -846,6 +1086,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -864,7 +1112,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7314,11964,829,213",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5d1fc1775678a24bc8cb0edc50033ae8\">5d1fc1775678a24bc8cb0edc50033ae8</a> ]<br/>鯉川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5d1fc1775678a24bc8cb0edc50033ae8\">鯉川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -873,6 +1121,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "川"
                         }
                     ]
                 },
@@ -891,7 +1147,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6094,12981,395,461",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/be1a175ca62b6d480fbc7c581c7ada35\">be1a175ca62b6d480fbc7c581c7ada35</a> ]<br/>二鳥居跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/be1a175ca62b6d480fbc7c581c7ada35\">二鳥居跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -900,6 +1156,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "鳥居"
                         }
                     ]
                 },
@@ -918,7 +1182,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6626,12791,723,473",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/39efcd422e337b1bed801f10cf7db0d5\">39efcd422e337b1bed801f10cf7db0d5</a> ]<br/>壇具石",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/39efcd422e337b1bed801f10cf7db0d5\">壇具石</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -927,6 +1191,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -945,7 +1217,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=4124,13657,401,350",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0cd10aa05ccb5eae7b5b6fa13b7a5f41\">0cd10aa05ccb5eae7b5b6fa13b7a5f41</a> ]<br/>守宮司社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0cd10aa05ccb5eae7b5b6fa13b7a5f41\">守宮司社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -954,6 +1226,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "社"
                         }
                     ]
                 },
@@ -972,7 +1252,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6159,13785,1215,298",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4ef2420e696335a49d03b953406e7cfc\">4ef2420e696335a49d03b953406e7cfc</a> ]<br/>壇具川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4ef2420e696335a49d03b953406e7cfc\">壇具川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -981,6 +1261,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "川"
                         }
                     ]
                 },
@@ -999,7 +1287,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6748,14461,848,829",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/36131058290cf82547b1d91f0fa0c6f2\">36131058290cf82547b1d91f0fa0c6f2</a> ]<br/>仲哀天皇仮陵",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/36131058290cf82547b1d91f0fa0c6f2\">仲哀天皇仮陵</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1008,6 +1296,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1026,7 +1322,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=1611,14101,805,648",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/916798bfb4f497273907c2d170a20fb4\">916798bfb4f497273907c2d170a20fb4</a> ]<br/>惣社宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/916798bfb4f497273907c2d170a20fb4\">惣社宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1035,6 +1331,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "宮"
                         }
                     ]
                 },
@@ -1053,7 +1357,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2269,15172,710,514",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/123555d948a54d1e00144c1afd7d980c\">123555d948a54d1e00144c1afd7d980c</a> ]<br/>一本松",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/123555d948a54d1e00144c1afd7d980c\">一本松</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1062,6 +1366,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "松"
                         }
                     ]
                 },
@@ -1080,7 +1392,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2181,15518,508,568",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9f1e728289435421ab7a4b36eeb7f253\">9f1e728289435421ab7a4b36eeb7f253</a> ]<br/>大鳥居跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9f1e728289435421ab7a4b36eeb7f253\">大鳥居跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1089,6 +1401,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "鳥居"
                         }
                     ]
                 },
@@ -1107,7 +1427,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2362,13439,726,535",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/aed63bbf27aa91c153c7065f5f4a0239\">aed63bbf27aa91c153c7065f5f4a0239</a> ]<br/>弁才天",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/aed63bbf27aa91c153c7065f5f4a0239\">弁才天</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1116,6 +1436,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1134,7 +1462,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2491,13910,687,474",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5317843560385fc777026718dd728d0c\">5317843560385fc777026718dd728d0c</a> ]<br/>豊浦池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5317843560385fc777026718dd728d0c\">豊浦池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1143,6 +1471,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1161,7 +1497,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=7257,13018,671,451",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bb403a39c17a73fce065d6cca165d458\">bb403a39c17a73fce065d6cca165d458</a> ]<br/>町",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/bb403a39c17a73fce065d6cca165d458\">町</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1170,6 +1506,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "町"
                         }
                     ]
                 },
@@ -1188,7 +1532,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=3634,5358,759,507",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dabc6d80a23c543310d4204f18ba1f02\">dabc6d80a23c543310d4204f18ba1f02</a> ]<br/>社領",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dabc6d80a23c543310d4204f18ba1f02\">社領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1197,6 +1541,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1215,7 +1567,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=13079,4103,1130,624",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1fd67e90c3a2e9b55a9f494b0c1e6e36\">1fd67e90c3a2e9b55a9f494b0c1e6e36</a> ]<br/>放生川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1fd67e90c3a2e9b55a9f494b0c1e6e36\">放生川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1224,6 +1576,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "川"
                         }
                     ]
                 },
@@ -1242,7 +1602,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=12470,5315,1200,896",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f14fc66b67a4e4c680f0f90988804089\">f14fc66b67a4e4c680f0f90988804089</a> ]<br/>大宮司",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f14fc66b67a4e4c680f0f90988804089\">大宮司</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1251,6 +1611,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "宮"
                         }
                     ]
                 },
@@ -1269,7 +1637,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=13418,15064,2030,1390",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/144c9a7d57447e27922af717e3b4e5bc\">144c9a7d57447e27922af717e3b4e5bc</a> ]<br/>松崎八幡宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/144c9a7d57447e27922af717e3b4e5bc\">松崎八幡宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1278,6 +1646,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "宮"
                         }
                     ]
                 },
@@ -1296,7 +1672,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=14362,15134,727,618",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0405213511144d566596464509c87c76\">0405213511144d566596464509c87c76</a> ]<br/>本社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0405213511144d566596464509c87c76\">本社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1305,6 +1681,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1323,7 +1707,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=14128,15368,556,591",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b22270ade04e1cccba1524cd1c0f2ad8\">b22270ade04e1cccba1524cd1c0f2ad8</a> ]<br/>拝殿",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b22270ade04e1cccba1524cd1c0f2ad8\">拝殿</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1332,6 +1716,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1350,7 +1742,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=150,4507,980,1120",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d29e4658ec09b57367429e6bc16c5694\">d29e4658ec09b57367429e6bc16c5694</a> ]<br/>西",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d29e4658ec09b57367429e6bc16c5694\">西</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1359,6 +1751,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1377,7 +1777,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=17560,10543,952,1148",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1c2a3ac2e8045f30e223f4f676faa11a\">1c2a3ac2e8045f30e223f4f676faa11a</a> ]<br/>東",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1c2a3ac2e8045f30e223f4f676faa11a\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1386,6 +1786,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1404,7 +1812,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=765,20827,1288,1260",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/db19580aa62c86a84a7414ca2b6eb004\">db19580aa62c86a84a7414ca2b6eb004</a> ]<br/>南",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/db19580aa62c86a84a7414ca2b6eb004\">南</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1413,6 +1821,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1431,7 +1847,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=14095,595,1260,1315",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ea5609e037015e1c6223bae2e36d584b\">ea5609e037015e1c6223bae2e36d584b</a> ]<br/>北",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ea5609e037015e1c6223bae2e36d584b\">北</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1440,6 +1856,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -1458,7 +1882,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=13314,9141,735,732",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/76350d02bbf157792f2a92469cfc94f3\">76350d02bbf157792f2a92469cfc94f3</a> ]<br/>二鳥居跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/76350d02bbf157792f2a92469cfc94f3\">二鳥居跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1467,6 +1891,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "鳥居"
                         }
                     ]
                 },
@@ -1485,7 +1917,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=14226,9467,707,764",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0415f0765cbae1e36b756bc11b6f8aa3\">0415f0765cbae1e36b756bc11b6f8aa3</a> ]<br/>東一鳥居跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0415f0765cbae1e36b756bc11b6f8aa3\">東一鳥居跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1494,6 +1926,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "鳥居"
                         }
                     ]
                 },
@@ -1512,7 +1952,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=15229,9239,1003,1432",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/315d9b725aa467f363120cd4b7ee2b7d\">315d9b725aa467f363120cd4b7ee2b7d</a> ]<br/>干珠平津",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/315d9b725aa467f363120cd4b7ee2b7d\">干珠平津</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1521,6 +1961,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1539,7 +1987,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=16627,8784,938,1399",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2db1c07d42484e67d5780311c5d9026c\">2db1c07d42484e67d5780311c5d9026c</a> ]<br/>満珠沖津",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2db1c07d42484e67d5780311c5d9026c\">満珠沖津</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1548,6 +1996,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1566,7 +2022,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=16819,3161,507,779",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dfc3aacf8483981064359628539624c1\">dfc3aacf8483981064359628539624c1</a> ]<br/>長浜",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/dfc3aacf8483981064359628539624c1\">長浜</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1575,6 +2031,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1593,7 +2057,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=15633,3014,593,819",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ba03b827435c18ea211f6503d6c6e27e\">ba03b827435c18ea211f6503d6c6e27e</a> ]<br/>宇都宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ba03b827435c18ea211f6503d6c6e27e\">宇都宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1602,6 +2066,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1620,7 +2092,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=16337,2115,593,616",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/410a275c733f1d2188d69691ce8d7a0f\">410a275c733f1d2188d69691ce8d7a0f</a> ]<br/>一之鳥居跡",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/410a275c733f1d2188d69691ce8d7a0f\">一之鳥居跡</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1629,6 +2101,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "鳥居"
                         }
                     ]
                 },
@@ -1647,7 +2127,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=157,20082,844,835",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ed76235c1253ed96f2e321c1236f732c\">ed76235c1253ed96f2e321c1236f732c</a> ]<br/>引嶋",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ed76235c1253ed96f2e321c1236f732c\">引嶋</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1656,6 +2136,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": "島"
                         }
                     ]
                 },
@@ -1674,7 +2162,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2881,20048,1518,1372",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fb2ec10b11809af158a32953762a2bd1\">fb2ec10b11809af158a32953762a2bd1</a> ]<br/>門司関",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fb2ec10b11809af158a32953762a2bd1\">門司関</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1683,6 +2171,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1701,7 +2197,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=15168,4850,863,684",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b356c606f4ce46233cc37f239c8531c7\">b356c606f4ce46233cc37f239c8531c7</a> ]<br/>厳島",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b356c606f4ce46233cc37f239c8531c7\">厳島</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1710,6 +2206,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "長門二宮絵図2"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 }

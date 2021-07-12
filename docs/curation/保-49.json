@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=9989,5815,1234,1274",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/91113bb18b1125570aa1507d3f0b0ae9\">91113bb18b1125570aa1507d3f0b0ae9</a> ]<br/>桛田庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/91113bb18b1125570aa1507d3f0b0ae9\">桛田庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=8288,413,2506,1154",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a750eb5c7a095e6be5199ec57e1f6342\">a750eb5c7a095e6be5199ec57e1f6342</a> ]<br/>葛木山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a750eb5c7a095e6be5199ec57e1f6342\">葛木山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=1671,4399,881,962",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/518dc5bc53932f0dc6d1282c136815de\">518dc5bc53932f0dc6d1282c136815de</a> ]<br/>静川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/518dc5bc53932f0dc6d1282c136815de\">静川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=988,5938,1842,1483",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a0411531e031ccc02ca5a662490ecd90\">a0411531e031ccc02ca5a662490ecd90</a> ]<br/>静川庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a0411531e031ccc02ca5a662490ecd90\">静川庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=14323,5195,1890,1418",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c5944911a1e08bf3df899848979094e0\">c5944911a1e08bf3df899848979094e0</a> ]<br/>八幡宮",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c5944911a1e08bf3df899848979094e0\">八幡宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "宮"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=15203,5342,752,765",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f4e632bfa8e065eb746b1ddd433ed3b0\">f4e632bfa8e065eb746b1ddd433ed3b0</a> ]<br/>堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f4e632bfa8e065eb746b1ddd433ed3b0\">堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=13393,9379,1159,939",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ee7af8c885b4737a964069fa9528d80e\">ee7af8c885b4737a964069fa9528d80e</a> ]<br/>紀伊川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ee7af8c885b4737a964069fa9528d80e\">紀伊川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=1243,8650,777,962",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/680da18641e54377a9ac61f5347473d5\">680da18641e54377a9ac61f5347473d5</a> ]<br/>名手庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/680da18641e54377a9ac61f5347473d5\">名手庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=7260,8465,1379,800",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ae8e1d8a591f01d2a634bd6a408496a7\">ae8e1d8a591f01d2a634bd6a408496a7</a> ]<br/>大道",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ae8e1d8a591f01d2a634bd6a408496a7\">大道</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=7919,11396,2750,1673",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ae6bfe1b6d30807f468d0695618ee4be\">ae6bfe1b6d30807f468d0695618ee4be</a> ]<br/>志富田庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ae6bfe1b6d30807f468d0695618ee4be\">志富田庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=7858,4093,1602,755",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a12a44263576f65b43c149a687e41036\">a12a44263576f65b43c149a687e41036</a> ]<br/>大豆畑中山",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/a12a44263576f65b43c149a687e41036\">大豆畑中山</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "山"
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=18159,8185,886,1207",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/25464d1727e7bbad53e5553bdda875e1\">25464d1727e7bbad53e5553bdda875e1</a> ]<br/>東",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/25464d1727e7bbad53e5553bdda875e1\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=1024,7607,950,886",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9e2f0a657beb0455f16a2f4d1a022b34\">9e2f0a657beb0455f16a2f4d1a022b34</a> ]<br/>西",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9e2f0a657beb0455f16a2f4d1a022b34\">西</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=8012,333,851,851",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/003969ae0f4ceaafdccfe371c2103282\">003969ae0f4ceaafdccfe371c2103282</a> ]<br/>北",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/003969ae0f4ceaafdccfe371c2103282\">北</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=9632,14450,908,928",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1a36dfbdcb9b48d1f3c191b07bad4e81\">1a36dfbdcb9b48d1f3c191b07bad4e81</a> ]<br/>南",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1a36dfbdcb9b48d1f3c191b07bad4e81\">南</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=11932,10877,847,965",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fe1599cdc17ff1d17525e0fc13e6fc4b\">fe1599cdc17ff1d17525e0fc13e6fc4b</a> ]<br/>牓示",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fe1599cdc17ff1d17525e0fc13e6fc4b\">牓示</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "榜示"
                         }
                     ]
                 }

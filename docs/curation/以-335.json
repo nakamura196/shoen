@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4551,9116,419,452",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4aeb3b4bd9980145e308b8c7b47149ab\">4aeb3b4bd9980145e308b8c7b47149ab</a> ]<br/>井上庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/4aeb3b4bd9980145e308b8c7b47149ab\">井上庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -36,6 +36,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -54,7 +62,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=1330,2720,419,892",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bd62e3d90576b8d1aa2b98284165d1ad\">bd62e3d90576b8d1aa2b98284165d1ad</a> ]<br/>志野川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/bd62e3d90576b8d1aa2b98284165d1ad\">志野川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -63,6 +71,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -81,7 +97,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=1730,3783,634,830",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b08f1f9e1ca5f98861c7c970bde71430\">b08f1f9e1ca5f98861c7c970bde71430</a> ]<br/>志野川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b08f1f9e1ca5f98861c7c970bde71430\">志野川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -90,6 +106,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -108,7 +132,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=1676,3077,279,462",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/903cdf80b67bc1aa86d3b39cf7f2b8e5\">903cdf80b67bc1aa86d3b39cf7f2b8e5</a> ]<br/>新庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/903cdf80b67bc1aa86d3b39cf7f2b8e5\">新庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -117,6 +141,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -135,7 +167,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=799,3115,448,546",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/45cb78a923fad4e9751fb23b16d8143e\">45cb78a923fad4e9751fb23b16d8143e</a> ]<br/>新庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/45cb78a923fad4e9751fb23b16d8143e\">新庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -144,6 +176,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -162,7 +202,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2915,2928,1111,464",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/02bdabfabea770c01103ac91d686fb73\">02bdabfabea770c01103ac91d686fb73</a> ]<br/>北村在家",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/02bdabfabea770c01103ac91d686fb73\">北村在家</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -171,6 +211,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -189,7 +237,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4788,7993,1004,741",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c176fb0c3631b419393f41faf13f9c63\">c176fb0c3631b419393f41faf13f9c63</a> ]<br/>嶋村在家",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c176fb0c3631b419393f41faf13f9c63\">嶋村在家</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -198,6 +246,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "在家"
                         }
                     ]
                 },
@@ -216,7 +272,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=7161,5991,391,884",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/62da5e18febb52766967eda26694b71f\">62da5e18febb52766967eda26694b71f</a> ]<br/>粉河寺領",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/62da5e18febb52766967eda26694b71f\">粉河寺領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -225,6 +281,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -243,7 +307,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4267,5292,692,519",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5a1e2f789e786e3c49c2582370b88c41\">5a1e2f789e786e3c49c2582370b88c41</a> ]<br/>荒間在家",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5a1e2f789e786e3c49c2582370b88c41\">荒間在家</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -252,6 +316,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "在家"
                         }
                     ]
                 },
@@ -270,7 +342,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5864,5979,360,497",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7fae65f5bebc84ee9b341ff2cb2f46c0\">7fae65f5bebc84ee9b341ff2cb2f46c0</a> ]<br/>深田河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7fae65f5bebc84ee9b341ff2cb2f46c0\">深田河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -279,6 +351,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -297,7 +377,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5997,7266,534,415",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d74ba4a45f86052c9d69a825ea7268f0\">d74ba4a45f86052c9d69a825ea7268f0</a> ]<br/>深田川",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d74ba4a45f86052c9d69a825ea7268f0\">深田川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -306,6 +386,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -324,7 +412,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4867,7070,382,474",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1fdd367d5d3f45613c881552ab381133\">1fdd367d5d3f45613c881552ab381133</a> ]<br/>帝釈堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1fdd367d5d3f45613c881552ab381133\">帝釈堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -333,6 +421,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -351,7 +447,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5341,4091,660,393",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/66dc55ec6f70362525caca1dc8f5c909\">66dc55ec6f70362525caca1dc8f5c909</a> ]<br/>北村在家",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/66dc55ec6f70362525caca1dc8f5c909\">北村在家</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -360,6 +456,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "在家"
                         }
                     ]
                 },
@@ -378,7 +482,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6226,8384,729,479",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8451edfff097da6b2c7af20d39934487\">8451edfff097da6b2c7af20d39934487</a> ]<br/>風森",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8451edfff097da6b2c7af20d39934487\">風森</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -387,6 +491,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "森"
                         }
                     ]
                 },
@@ -405,7 +517,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=7197,8283,621,441",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/28609a51b6cfa0fa5b5b96ce827d1b98\">28609a51b6cfa0fa5b5b96ce827d1b98</a> ]<br/>門河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/28609a51b6cfa0fa5b5b96ce827d1b98\">門河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -414,6 +526,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -432,7 +552,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2038,2332,377,893",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/496569dd26c2b122e07833e6bc85688c\">496569dd26c2b122e07833e6bc85688c</a> ]<br/>井上本庄西堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/496569dd26c2b122e07833e6bc85688c\">井上本庄西堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,6 +561,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -459,7 +587,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2085,3153,252,643",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/519b251213d47207ddb03c97c6cee025\">519b251213d47207ddb03c97c6cee025</a> ]<br/>新庄東堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/519b251213d47207ddb03c97c6cee025\">新庄東堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -468,6 +596,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -486,7 +622,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2117,6417,284,790",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9d834dd0ef87b4dd5e438c8a3b455db8\">9d834dd0ef87b4dd5e438c8a3b455db8</a> ]<br/>新庄東堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9d834dd0ef87b4dd5e438c8a3b455db8\">新庄東堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -495,6 +631,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -513,7 +657,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2497,3817,346,518",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6762bcb7cea8bf3e95b6d87f0255c3c5\">6762bcb7cea8bf3e95b6d87f0255c3c5</a> ]<br/>大迫畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6762bcb7cea8bf3e95b6d87f0255c3c5\">大迫畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -522,6 +666,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "畠"
                         }
                     ]
                 },
@@ -540,7 +692,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3279,3817,424,510",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3e16e3091e2b33af0c84e1cc1f207393\">3e16e3091e2b33af0c84e1cc1f207393</a> ]<br/>大迫畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3e16e3091e2b33af0c84e1cc1f207393\">大迫畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -549,6 +701,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "畠"
                         }
                     ]
                 },
@@ -567,7 +727,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4327,3793,581,588",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fc9f7806db340a90d7c884b86ff48eb9\">fc9f7806db340a90d7c884b86ff48eb9</a> ]<br/>大迫畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fc9f7806db340a90d7c884b86ff48eb9\">大迫畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -576,6 +736,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "畠"
                         }
                     ]
                 },
@@ -594,7 +762,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2253,1995,554,559",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d9ccd1c96fb80ef10fcd596e0e4d72ea\">d9ccd1c96fb80ef10fcd596e0e4d72ea</a> ]<br/>北山鎮守",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d9ccd1c96fb80ef10fcd596e0e4d72ea\">北山鎮守</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -603,6 +771,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -621,7 +797,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2868,2110,1028,616",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/10d4c987e798a4776d937cc5f5d28263\">10d4c987e798a4776d937cc5f5d28263</a> ]<br/>西谷池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/10d4c987e798a4776d937cc5f5d28263\">西谷池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -630,6 +806,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -648,7 +832,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4394,2154,393,518",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b4a790c44726dc6771ba2bfdd216099f\">b4a790c44726dc6771ba2bfdd216099f</a> ]<br/>宮荒間田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b4a790c44726dc6771ba2bfdd216099f\">宮荒間田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -657,6 +841,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -675,7 +867,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3583,2522,307,477",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/43954b77f80c8e9960c5a0cf640c51eb\">43954b77f80c8e9960c5a0cf640c51eb</a> ]<br/>□〔宮〕荒間田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/43954b77f80c8e9960c5a0cf640c51eb\">□〔宮〕荒間田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -684,6 +876,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -702,7 +902,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=1830,1732,360,491",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/842b2b6a378491595e624ea9b839957c\">842b2b6a378491595e624ea9b839957c</a> ]<br/>志野河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/842b2b6a378491595e624ea9b839957c\">志野河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -711,6 +911,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -729,7 +937,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3676,1740,345,353",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b1e9f082567fe72429ba111de9f83bd2\">b1e9f082567fe72429ba111de9f83bd2</a> ]<br/>山神",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b1e9f082567fe72429ba111de9f83bd2\">山神</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -738,6 +946,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -756,7 +972,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2500,4592,523,595",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c005a3b6ef74fee20e14e0d4fd75f56b\">c005a3b6ef74fee20e14e0d4fd75f56b</a> ]<br/>森東田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c005a3b6ef74fee20e14e0d4fd75f56b\">森東田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -765,6 +981,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -783,7 +1007,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=1195,4837,599,734",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1b196277066c5203fdc74b431702cc0d\">1b196277066c5203fdc74b431702cc0d</a> ]<br/>西",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1b196277066c5203fdc74b431702cc0d\">西</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -792,6 +1016,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -810,7 +1042,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4055,74,813,452",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5dfe3c3462252c1f74225a2c71377780\">5dfe3c3462252c1f74225a2c71377780</a> ]<br/>北",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/5dfe3c3462252c1f74225a2c71377780\">北</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -819,6 +1051,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -837,7 +1077,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=7546,4792,464,666",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0963a6ddbcfbd663beb0dddb6d831c54\">0963a6ddbcfbd663beb0dddb6d831c54</a> ]<br/>東",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0963a6ddbcfbd663beb0dddb6d831c54\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -846,6 +1086,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -864,7 +1112,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4153,9632,545,493",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/52420a8bb431a8a7ca5f1a15ce9e7366\">52420a8bb431a8a7ca5f1a15ce9e7366</a> ]<br/>南",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/52420a8bb431a8a7ca5f1a15ce9e7366\">南</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -873,6 +1121,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "方位"
                         }
                     ]
                 },
@@ -891,7 +1147,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3856,4221,474,630",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c39b3a73eef6399a56a24d242e08b995\">c39b3a73eef6399a56a24d242e08b995</a> ]<br/>号三百余所社",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c39b3a73eef6399a56a24d242e08b995\">号三百余所社</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -900,6 +1156,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -918,7 +1182,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3075,4574,532,418",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6721f3f111c94c9b52a6c00813e1a7d4\">6721f3f111c94c9b52a6c00813e1a7d4</a> ]<br/>大迫",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6721f3f111c94c9b52a6c00813e1a7d4\">大迫</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -927,6 +1191,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -945,7 +1217,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4249,4828,625,423",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b6553a664549895b0c3108a34c229d27\">b6553a664549895b0c3108a34c229d27</a> ]<br/>大迫",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/b6553a664549895b0c3108a34c229d27\">大迫</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -954,6 +1226,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -972,7 +1252,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5402,4994,418,366",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/51776445e1631a7f300ebac64dd2a017\">51776445e1631a7f300ebac64dd2a017</a> ]<br/>大迫",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/51776445e1631a7f300ebac64dd2a017\">大迫</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -981,6 +1261,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -999,7 +1287,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2126,5659,388,835",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/82a1c668980ada6da0c13ca73483f859\">82a1c668980ada6da0c13ca73483f859</a> ]<br/>新庄東堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/82a1c668980ada6da0c13ca73483f859\">新庄東堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1008,6 +1296,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1026,7 +1322,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2090,4946,648,777",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f1fae5a59adc7c163bed7b3d075ac3d9\">f1fae5a59adc7c163bed7b3d075ac3d9</a> ]<br/>道池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/f1fae5a59adc7c163bed7b3d075ac3d9\">道池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1035,6 +1331,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1053,7 +1357,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2846,6444,495,648",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/46e9c2e6013c04b19664a8a61a8bb210\">46e9c2e6013c04b19664a8a61a8bb210</a> ]<br/>蔵人池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/46e9c2e6013c04b19664a8a61a8bb210\">蔵人池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1062,6 +1366,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1080,7 +1392,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3780,5791,476,520",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2200a9e951961b8ec1e122649f66a374\">2200a9e951961b8ec1e122649f66a374</a> ]<br/>小池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2200a9e951961b8ec1e122649f66a374\">小池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1089,6 +1401,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1107,7 +1427,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3729,6450,520,418",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7711efbaf8624cc62a120ebfd9137480\">7711efbaf8624cc62a120ebfd9137480</a> ]<br/>新池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7711efbaf8624cc62a120ebfd9137480\">新池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1116,6 +1436,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1134,7 +1462,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2922,7609,495,424",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/aee2cab6663f6d3a5138735d908c6316\">aee2cab6663f6d3a5138735d908c6316</a> ]<br/>柿谷池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/aee2cab6663f6d3a5138735d908c6316\">柿谷池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1143,6 +1471,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1161,7 +1497,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3646,6980,624,539",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/20edd682dd7886e1c3ead56634d3b117\">20edd682dd7886e1c3ead56634d3b117</a> ]<br/>金剛谷池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/20edd682dd7886e1c3ead56634d3b117\">金剛谷池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1170,6 +1506,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1188,7 +1532,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2567,6121,391,439",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2670f408bf8584be004179b4f0cb7b4f\">2670f408bf8584be004179b4f0cb7b4f</a> ]<br/>荒間田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/2670f408bf8584be004179b4f0cb7b4f\">荒間田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1197,6 +1541,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -1215,7 +1567,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2853,5683,389,473",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3e559c6dd23c71e7fe499344bf6168fc\">3e559c6dd23c71e7fe499344bf6168fc</a> ]<br/>観音堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/3e559c6dd23c71e7fe499344bf6168fc\">観音堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1224,6 +1576,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -1242,7 +1602,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4761,4618,561,372",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/06fc8b5538c384df7b3122a7d0716848\">06fc8b5538c384df7b3122a7d0716848</a> ]<br/>薬師堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/06fc8b5538c384df7b3122a7d0716848\">薬師堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1251,6 +1611,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -1269,7 +1637,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=820,4755,389,599",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9e1aaae178197786ca934b21417c73a3\">9e1aaae178197786ca934b21417c73a3</a> ]<br/>新庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/9e1aaae178197786ca934b21417c73a3\">新庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1278,6 +1646,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1296,7 +1672,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=842,6602,467,644",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/37dcfa8b17a508b27708a8cd9cbe3f19\">37dcfa8b17a508b27708a8cd9cbe3f19</a> ]<br/>新庄",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/37dcfa8b17a508b27708a8cd9cbe3f19\">新庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1305,6 +1681,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1323,7 +1707,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4568,2838,384,571",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e877e6359c1951713fd06a686caae7c6\">e877e6359c1951713fd06a686caae7c6</a> ]<br/>宮荒間田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e877e6359c1951713fd06a686caae7c6\">宮荒間田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1332,6 +1716,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -1350,7 +1742,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5063,3209,535,380",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/280c5c76ee836721d7758376e4a89c06\">280c5c76ee836721d7758376e4a89c06</a> ]<br/>聖池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/280c5c76ee836721d7758376e4a89c06\">聖池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1359,6 +1751,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1377,7 +1777,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5067,2750,498,413",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/40f1b05a8c1ce5f7273f3c09a18a2066\">40f1b05a8c1ce5f7273f3c09a18a2066</a> ]<br/>林池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/40f1b05a8c1ce5f7273f3c09a18a2066\">林池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1386,6 +1786,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1404,7 +1812,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5041,2327,513,402",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d344c6e0ba8cd2bc7b1812c2e060d78f\">d344c6e0ba8cd2bc7b1812c2e060d78f</a> ]<br/>下大池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d344c6e0ba8cd2bc7b1812c2e060d78f\">下大池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1413,6 +1821,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1431,7 +1847,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5042,1973,607,406",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/372510e8bae29f8e1ed3122e7b835d89\">372510e8bae29f8e1ed3122e7b835d89</a> ]<br/>上池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/372510e8bae29f8e1ed3122e7b835d89\">上池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1440,6 +1856,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1458,7 +1882,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5538,2120,528,417",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/6c539ae352ea3afa05dc993c47713a3e\">6c539ae352ea3afa05dc993c47713a3e</a> ]<br/>観音堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/6c539ae352ea3afa05dc993c47713a3e\">観音堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1467,6 +1891,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -1485,7 +1917,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6087,2101,332,398",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1fea8d35cfd079a762a85c58830b002f\">1fea8d35cfd079a762a85c58830b002f</a> ]<br/>観音田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1fea8d35cfd079a762a85c58830b002f\">観音田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1494,6 +1926,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -1512,7 +1952,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5005,3891,484,395",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/66d865ed584ff4dabddcb8b8f637834e\">66d865ed584ff4dabddcb8b8f637834e</a> ]<br/>アミタ堂",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/66d865ed584ff4dabddcb8b8f637834e\">アミタ堂</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1521,6 +1961,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "堂"
                         }
                     ]
                 },
@@ -1539,7 +1987,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6312,2539,417,380",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/11a2002ca6fab2f8049d788269842220\">11a2002ca6fab2f8049d788269842220</a> ]<br/>堺池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/11a2002ca6fab2f8049d788269842220\">堺池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1548,6 +1996,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1566,7 +2022,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6320,2176,361,321",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/055b363188fcff4cf4371cc5c5d03857\">055b363188fcff4cf4371cc5c5d03857</a> ]<br/>堺池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/055b363188fcff4cf4371cc5c5d03857\">堺池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1575,6 +2031,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1593,7 +2057,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6042,3509,554,561",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/13ce85a2837f360726078014c6717940\">13ce85a2837f360726078014c6717940</a> ]<br/>土呂々々池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/13ce85a2837f360726078014c6717940\">土呂々々池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1602,6 +2066,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1620,7 +2092,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6102,3973,382,369",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d4bead5ee1c5845b96cf71a7aae37554\">d4bead5ee1c5845b96cf71a7aae37554</a> ]<br/>井上ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d4bead5ee1c5845b96cf71a7aae37554\">井上ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1629,6 +2101,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1647,7 +2127,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5776,1603,727,540",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/14b835ca0e2c6913a2ce65a68d3c0536\">14b835ca0e2c6913a2ce65a68d3c0536</a> ]<br/>瀧谷池",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/14b835ca0e2c6913a2ce65a68d3c0536\">瀧谷池</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1656,6 +2136,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "池"
                         }
                     ]
                 },
@@ -1674,7 +2162,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6447,1740,215,384",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fcc64bc18dae6d94bd78f6f8ff12c4bc\">fcc64bc18dae6d94bd78f6f8ff12c4bc</a> ]<br/>柳谷",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fcc64bc18dae6d94bd78f6f8ff12c4bc\">柳谷</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1683,6 +2171,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "谷"
                         }
                     ]
                 },
@@ -1701,7 +2197,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6580,1438,313,847",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8958873e86cf795838c21ab0b50759d7\">8958873e86cf795838c21ab0b50759d7</a> ]<br/>井上本庄東堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/8958873e86cf795838c21ab0b50759d7\">井上本庄東堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1710,6 +2206,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1728,7 +2232,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6696,2247,246,731",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d8a43340e0b2829a4be5b1366fc5b7d1\">d8a43340e0b2829a4be5b1366fc5b7d1</a> ]<br/>粉河寺西堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/d8a43340e0b2829a4be5b1366fc5b7d1\">粉河寺西堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1737,6 +2241,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1755,7 +2267,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=7223,2891,367,885",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c4a9906dc982b73da348102699faa716\">c4a9906dc982b73da348102699faa716</a> ]<br/>粉河寺領",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/c4a9906dc982b73da348102699faa716\">粉河寺領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1764,6 +2276,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1782,7 +2302,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6455,3256,623,616",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cfdbfc56dbc674976159c0d2e1940cb5\">cfdbfc56dbc674976159c0d2e1940cb5</a> ]<br/>コ河ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/cfdbfc56dbc674976159c0d2e1940cb5\">コ河ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1791,6 +2311,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1809,7 +2337,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6506,4133,514,591",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cd0d474421967227e90f1648cb37bd19\">cd0d474421967227e90f1648cb37bd19</a> ]<br/>コ河ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/cd0d474421967227e90f1648cb37bd19\">コ河ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1818,6 +2346,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1836,7 +2372,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6462,4607,572,546",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/831a38221573805a69f108b210ae1894\">831a38221573805a69f108b210ae1894</a> ]<br/>コ河ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/831a38221573805a69f108b210ae1894\">コ河ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1845,6 +2381,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1863,7 +2407,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6447,5160,540,670",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1e7293b52a0004f848224971e6dc995f\">1e7293b52a0004f848224971e6dc995f</a> ]<br/>コ河ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1e7293b52a0004f848224971e6dc995f\">コ河ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1872,6 +2416,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -1890,7 +2442,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6047,4519,387,354",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0eaca0997ff5240d37f67652238289df\">0eaca0997ff5240d37f67652238289df</a> ]<br/>井上ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/0eaca0997ff5240d37f67652238289df\">井上ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1899,6 +2451,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1917,7 +2477,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6128,4903,358,371",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/82c40fd43512ae42e44417452e0aa268\">82c40fd43512ae42e44417452e0aa268</a> ]<br/>井上ノ井テ",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/82c40fd43512ae42e44417452e0aa268\">井上ノ井テ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1926,6 +2486,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -1944,7 +2512,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6319,5040,237,283",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/84faa81976ad72ede7cd6ee9a0e704f8\">84faa81976ad72ede7cd6ee9a0e704f8</a> ]<br/>七段田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/84faa81976ad72ede7cd6ee9a0e704f8\">七段田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1953,6 +2521,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -1971,7 +2547,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6347,5349,282,420",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ead05d0aafd29a7d2ca56242e3052e2c\">ead05d0aafd29a7d2ca56242e3052e2c</a> ]<br/>深田河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/ead05d0aafd29a7d2ca56242e3052e2c\">深田河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1980,6 +2556,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -1998,7 +2582,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5516,5394,727,389",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/551d226b5239651fe8923967c6673fb1\">551d226b5239651fe8923967c6673fb1</a> ]<br/>フケ田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/551d226b5239651fe8923967c6673fb1\">フケ田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2007,6 +2591,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -2025,7 +2617,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5124,6221,757,437",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bedd92fac180c76664c5e6284f989776\">bedd92fac180c76664c5e6284f989776</a> ]<br/>フケ田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/bedd92fac180c76664c5e6284f989776\">フケ田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2034,6 +2626,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -2052,7 +2652,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6205,5748,298,472",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/762f7f87c7127854c2a5c5cd5af8a686\">762f7f87c7127854c2a5c5cd5af8a686</a> ]<br/>古垣内",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/762f7f87c7127854c2a5c5cd5af8a686\">古垣内</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2061,6 +2661,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -2079,7 +2687,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6435,5793,287,876",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1e636c3b048418c32775b6c6b6b22ab7\">1e636c3b048418c32775b6c6b6b22ab7</a> ]<br/>井上本庄東堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1e636c3b048418c32775b6c6b6b22ab7\">井上本庄東堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2088,6 +2696,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -2106,7 +2722,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6502,6637,349,877",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/56f7f864d47c284fb1dc0d5b04a91078\">56f7f864d47c284fb1dc0d5b04a91078</a> ]<br/>粉河寺領西堺",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/56f7f864d47c284fb1dc0d5b04a91078\">粉河寺領西堺</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2115,6 +2731,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "朱筆"
                         }
                     ]
                 },
@@ -2133,7 +2757,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6059,6669,445,509",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7d2f58a18f6544b999aba3dd88078f01\">7d2f58a18f6544b999aba3dd88078f01</a> ]<br/>近末作",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/7d2f58a18f6544b999aba3dd88078f01\">近末作</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2142,6 +2766,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -2160,7 +2792,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=5318,7091,704,500",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/65a45e93e76eba985bdf2780d0aa883d\">65a45e93e76eba985bdf2780d0aa883d</a> ]<br/>フケ田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/65a45e93e76eba985bdf2780d0aa883d\">フケ田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2169,6 +2801,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -2187,7 +2827,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4367,6050,380,304",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/244411e4e42e6596f0754e29b2d18fe4\">244411e4e42e6596f0754e29b2d18fe4</a> ]<br/>田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/244411e4e42e6596f0754e29b2d18fe4\">田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2196,6 +2836,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -2214,7 +2862,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3330,7733,341,424",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1d5d2612821ae36eb3a3b27264eb78d7\">1d5d2612821ae36eb3a3b27264eb78d7</a> ]<br/>田畠",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1d5d2612821ae36eb3a3b27264eb78d7\">田畠</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2223,6 +2871,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "畠"
                         }
                     ]
                 },
@@ -2241,7 +2897,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3616,8880,858,475",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/1e1784e187a4ed9ce3727ba17726abdb\">1e1784e187a4ed9ce3727ba17726abdb</a> ]<br/>吉野河",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/1e1784e187a4ed9ce3727ba17726abdb\">吉野河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2250,6 +2906,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "河"
                         }
                     ]
                 },
@@ -2268,7 +2932,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=3057,5508,507,557",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e1f5ea0cf0a7d0808773c1471407d2a9\">e1f5ea0cf0a7d0808773c1471407d2a9</a> ]<br/>森前田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/e1f5ea0cf0a7d0808773c1471407d2a9\">森前田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2277,6 +2941,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": ""
                         }
                     ]
                 },
@@ -2295,7 +2967,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6091,876,478,357",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/07f31e49510d5a733bb75b6a1848ed80\">07f31e49510d5a733bb75b6a1848ed80</a> ]<br/>田",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/07f31e49510d5a733bb75b6a1848ed80\">田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2304,6 +2976,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "田"
                         }
                     ]
                 },
@@ -2322,7 +3002,7 @@
                                     "on": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2636,8147,560,565",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fad84ed8b090a4ca64e0f1f790a35244\">fad84ed8b090a4ca64e0f1f790a35244</a> ]<br/>嶋村在家",
+                                        "chars": "<a href=\"https://shoen.netlify.app/item/fad84ed8b090a4ca64e0f1f790a35244\">嶋村在家</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -2331,6 +3011,14 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "label": "図",
+                            "value": "紀伊国井上本庄絵図"
+                        },
+                        {
+                            "label": "category",
+                            "value": "在家"
                         }
                     ]
                 }
