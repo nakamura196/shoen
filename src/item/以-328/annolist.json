@@ -1,7 +1,4 @@
 {
-    "@context": "http://www.shared-canvas.org/ns/context.json",
-    "@id": "https://diyhistory.org/hi/omekac/oa/items/243/annolist.json",
-    "@type": "sc:AnnotationList",
     "resources": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",

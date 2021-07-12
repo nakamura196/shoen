@@ -3,31 +3,31 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "@id": "https://nakamura196.github.io/shoen/curation/保-172.json",
     "@type": "cr:Curation",
     "label": "",
     "selections": [
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json/range",
+            "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json/range",
             "@type": "sc:Range",
             "label": "",
             "members": [
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=753,4401,628,833",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5320,11631,986,4935",
                     "@type": "sc:Canvas",
-                    "label": "峯堂",
+                    "label": "西自大井河流、東至于五條尼公領参町也（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/accae3f8c86a6749ac872f1c113b7a78",
+                                    "@id": "https://shoen.netlify.app/item/e1c58fd3ae14f4962c7ba3deb43b0a55",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=753,4401,628,833",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5320,11631,986,4935",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/accae3f8c86a6749ac872f1c113b7a78\">accae3f8c86a6749ac872f1c113b7a78</a> ]<br/>峯堂",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e1c58fd3ae14f4962c7ba3deb43b0a55\">e1c58fd3ae14f4962c7ba3deb43b0a55</a> ]<br/>西自大井河流、東至于五條尼公領参町也（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -40,21 +40,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=1713,5903,262,199",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5399,19469,3974,1454",
                     "@type": "sc:Canvas",
-                    "label": "大崎",
+                    "label": "限辰巳角\n南前大膳大夫業忠朝臣領堺\n東五條尼公領",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/36fd2f68a1c6978a0360e53214f80eba",
+                                    "@id": "https://shoen.netlify.app/item/ed266fbdf251e42c092b809924237a07",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=1713,5903,262,199",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5399,19469,3974,1454",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/36fd2f68a1c6978a0360e53214f80eba\">36fd2f68a1c6978a0360e53214f80eba</a> ]<br/>大崎",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ed266fbdf251e42c092b809924237a07\">ed266fbdf251e42c092b809924237a07</a> ]<br/>限辰巳角\n南前大膳大夫業忠朝臣領堺\n東五條尼公領",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -67,21 +67,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=248,6942,427,449",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=9651,19504,5234,1419",
                     "@type": "sc:Canvas",
-                    "label": "西",
+                    "label": "南北壱町捌反（花押）自南前大膳大夫業忠朝臣領堺至于北大道",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a7b32382071726a45b40ca627bb0823c",
+                                    "@id": "https://shoen.netlify.app/item/5115fd6bb1eb0229dc7730bf21731521",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=248,6942,427,449",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=9651,19504,5234,1419",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a7b32382071726a45b40ca627bb0823c\">a7b32382071726a45b40ca627bb0823c</a> ]<br/>西",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/5115fd6bb1eb0229dc7730bf21731521\">5115fd6bb1eb0229dc7730bf21731521</a> ]<br/>南北壱町捌反（花押）自南前大膳大夫業忠朝臣領堺至于北大道",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -94,21 +94,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4446,13384,437,516",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16005,17099,1047,3720",
                     "@type": "sc:Canvas",
-                    "label": "南",
+                    "label": "東西参段伍杖（花押）\n東五條尼公領堺\n西検非違使康信妹領堺",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/7abe386d4ed8d782baf6003b7f0e09a3",
+                                    "@id": "https://shoen.netlify.app/item/225cbe6fdcb066fe6962b8cd7c21fc61",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4446,13384,437,516",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16005,17099,1047,3720",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7abe386d4ed8d782baf6003b7f0e09a3\">7abe386d4ed8d782baf6003b7f0e09a3</a> ]<br/>南",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/225cbe6fdcb066fe6962b8cd7c21fc61\">225cbe6fdcb066fe6962b8cd7c21fc61</a> ]<br/>東西参段伍杖（花押）\n東五條尼公領堺\n西検非違使康信妹領堺",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -121,21 +121,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4948,73,442,411",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5214,6484,1186,4436",
                     "@type": "sc:Canvas",
-                    "label": "北",
+                    "label": "限未申角\n西大井河流（花押）　\n南前大膳大夫業忠朝臣領堺（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/d616ddc6c89cbc0a54e90773e8f1230d",
+                                    "@id": "https://shoen.netlify.app/item/639988127ca6446bdbcd36d7fc6313f1",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4948,73,442,411",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5214,6484,1186,4436",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d616ddc6c89cbc0a54e90773e8f1230d\">d616ddc6c89cbc0a54e90773e8f1230d</a> ]<br/>北",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/639988127ca6446bdbcd36d7fc6313f1\">639988127ca6446bdbcd36d7fc6313f1</a> ]<br/>限未申角\n西大井河流（花押）　\n南前大膳大夫業忠朝臣領堺（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -148,21 +148,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5373,1373,428,1104",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12567,16371,1230,1020",
                     "@type": "sc:Canvas",
-                    "label": "大浦下庄",
+                    "label": "(花押)",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a33fb89aa679929ef5e41e71a4efb6fa",
+                                    "@id": "https://shoen.netlify.app/item/2d89802fc74b9dffd9481d965fa3efea",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5373,1373,428,1104",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12567,16371,1230,1020",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a33fb89aa679929ef5e41e71a4efb6fa\">a33fb89aa679929ef5e41e71a4efb6fa</a> ]<br/>大浦下庄",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2d89802fc74b9dffd9481d965fa3efea\">2d89802fc74b9dffd9481d965fa3efea</a> ]<br/>(花押)",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -175,21 +175,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5355,2796,197,334",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15259,16528,1813,877",
                     "@type": "sc:Canvas",
-                    "label": "神楊",
+                    "label": "□〔南〕北 伍段壱杖（以上４文字、朱抹消）　参段壱杖（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f64da048a44e09603c5268dc1dbc2e99",
+                                    "@id": "https://shoen.netlify.app/item/2bfd6dfd1b8912104f353484915d64fe",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5355,2796,197,334",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15259,16528,1813,877",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f64da048a44e09603c5268dc1dbc2e99\">f64da048a44e09603c5268dc1dbc2e99</a> ]<br/>神楊",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/2bfd6dfd1b8912104f353484915d64fe\">2bfd6dfd1b8912104f353484915d64fe</a> ]<br/>□〔南〕北 伍段壱杖（以上４文字、朱抹消）　参段壱杖（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -202,21 +202,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5561,3378,243,284",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=14349,14594,1113,1988",
                     "@type": "sc:Canvas",
-                    "label": "谷尾",
+                    "label": "東西　参段壱杖（以上４文字、朱抹消）　\n伍段壱杖（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/071fb7872519e047d95c84e99ef78717",
+                                    "@id": "https://shoen.netlify.app/item/d657f0460dea0560592b7b8d8a47d671",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5561,3378,243,284",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=14349,14594,1113,1988",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/071fb7872519e047d95c84e99ef78717\">071fb7872519e047d95c84e99ef78717</a> ]<br/>谷尾",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d657f0460dea0560592b7b8d8a47d671\">d657f0460dea0560592b7b8d8a47d671</a> ]<br/>東西　参段壱杖（以上４文字、朱抹消）　\n伍段壱杖（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -229,21 +229,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=8962,2669,484,285",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16143,15653,1384,597",
                     "@type": "sc:Canvas",
-                    "label": "山田峯",
+                    "label": "検非違使康信妹領",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/abd1fef9cb11878c5e45f1cb914c67a3",
+                                    "@id": "https://shoen.netlify.app/item/740f82802a785604f511a12ce2e724ca",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=8962,2669,484,285",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16143,15653,1384,597",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/abd1fef9cb11878c5e45f1cb914c67a3\">abd1fef9cb11878c5e45f1cb914c67a3</a> ]<br/>山田峯",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/740f82802a785604f511a12ce2e724ca\">740f82802a785604f511a12ce2e724ca</a> ]<br/>検非違使康信妹領",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -256,21 +256,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6442,3631,1226,347",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15250,13851,1463,614",
                     "@type": "sc:Canvas",
-                    "label": "菅浦与大浦下庄堺",
+                    "label": "南北漆段伍杖（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/dd258f7bb57cdc4f88a4d2ab7fe00de7",
+                                    "@id": "https://shoen.netlify.app/item/7d136eccf815b9edbf5377b3b1ebc04d",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6442,3631,1226,347",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15250,13851,1463,614",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dd258f7bb57cdc4f88a4d2ab7fe00de7\">dd258f7bb57cdc4f88a4d2ab7fe00de7</a> ]<br/>菅浦与大浦下庄堺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7d136eccf815b9edbf5377b3b1ebc04d\">7d136eccf815b9edbf5377b3b1ebc04d</a> ]<br/>南北漆段伍杖（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -283,21 +283,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5234,4169,467,406",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16571,12731,641,2250",
                     "@type": "sc:Canvas",
-                    "label": "赤崎",
+                    "label": "東西壱段壱杖参尺（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/3ab96260b505c3c676bb6ee7c2e631b9",
+                                    "@id": "https://shoen.netlify.app/item/ad805e6e7aa8810de646763bf4e697a7",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5234,4169,467,406",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16571,12731,641,2250",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3ab96260b505c3c676bb6ee7c2e631b9\">3ab96260b505c3c676bb6ee7c2e631b9</a> ]<br/>赤崎",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/ad805e6e7aa8810de646763bf4e697a7\">ad805e6e7aa8810de646763bf4e697a7</a> ]<br/>東西壱段壱杖参尺（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -310,21 +310,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6537,4281,325,506",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16449,14577,1769,606",
                     "@type": "sc:Canvas",
-                    "label": "菅浦",
+                    "label": "南北漆段伍杖（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/96c8dcb598bc52867a44a2d1ed2867e5",
+                                    "@id": "https://shoen.netlify.app/item/f226d05de853678720d5f023de793e56",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6537,4281,325,506",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16449,14577,1769,606",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/96c8dcb598bc52867a44a2d1ed2867e5\">96c8dcb598bc52867a44a2d1ed2867e5</a> ]<br/>菅浦",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f226d05de853678720d5f023de793e56\">f226d05de853678720d5f023de793e56</a> ]<br/>南北漆段伍杖（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -337,21 +337,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6562,4794,365,247",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17555,11880,774,2754",
                     "@type": "sc:Canvas",
-                    "label": "諸河",
+                    "label": "東西壱町伍杖（花押）\n西坊門大納言家領堺\n東検非違使康信妹領堺",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/be5d8ecf35d8a701fd5ffd1458b47b61",
+                                    "@id": "https://shoen.netlify.app/item/4445e81263743e347771cc6cab00b25b",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6562,4794,365,247",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17555,11880,774,2754",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/be5d8ecf35d8a701fd5ffd1458b47b61\">be5d8ecf35d8a701fd5ffd1458b47b61</a> ]<br/>諸河",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4445e81263743e347771cc6cab00b25b\">4445e81263743e347771cc6cab00b25b</a> ]<br/>東西壱町伍杖（花押）\n西坊門大納言家領堺\n東検非違使康信妹領堺",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -364,21 +364,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6530,5229,370,274",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16352,11437,2104,707",
                     "@type": "sc:Canvas",
-                    "label": "日差",
+                    "label": "南北参段\n至于北大道\n山本坊跡（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/9056dc9b78bd58c7449c5ea82c13a328",
+                                    "@id": "https://shoen.netlify.app/item/aaf00af2848174b8c9446fcfaa5ba939",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6530,5229,370,274",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16352,11437,2104,707",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9056dc9b78bd58c7449c5ea82c13a328\">9056dc9b78bd58c7449c5ea82c13a328</a> ]<br/>日差",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/aaf00af2848174b8c9446fcfaa5ba939\">aaf00af2848174b8c9446fcfaa5ba939</a> ]<br/>南北参段\n至于北大道\n山本坊跡（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -391,21 +391,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7485,3538,1136,2076",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15842,9635,2333,1917",
                     "@type": "sc:Canvas",
-                    "label": "鉢伏山",
+                    "label": "東西陸段至于卿二位殿領堺（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f7961a5dde42a77da5fc9860d1a6b37a",
+                                    "@id": "https://shoen.netlify.app/item/b1698386d32fd82e5d80bb309d8fb97a",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7485,3538,1136,2076",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15842,9635,2333,1917",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f7961a5dde42a77da5fc9860d1a6b37a\">f7961a5dde42a77da5fc9860d1a6b37a</a> ]<br/>鉢伏山",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b1698386d32fd82e5d80bb309d8fb97a\">b1698386d32fd82e5d80bb309d8fb97a</a> ]<br/>東西陸段至于卿二位殿領堺（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -418,21 +418,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=9024,7031,467,391",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17509,7353,954,2463",
                     "@type": "sc:Canvas",
-                    "label": "東",
+                    "label": "東西壱町肆段弐杖（花押）　□□〔至于〕峯杭所",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/15d580cb4b99ad4e510873391b3ee0eb",
+                                    "@id": "https://shoen.netlify.app/item/4715d59b6245ada078c4d53febd1f4c1",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=9024,7031,467,391",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17509,7353,954,2463",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/15d580cb4b99ad4e510873391b3ee0eb\">15d580cb4b99ad4e510873391b3ee0eb</a> ]<br/>東",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4715d59b6245ada078c4d53febd1f4c1\">4715d59b6245ada078c4d53febd1f4c1</a> ]<br/>東西壱町肆段弐杖（花押）　□□〔至于〕峯杭所",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -445,21 +445,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7183,7191,416,524",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=18149,6474,3261,1263",
                     "@type": "sc:Canvas",
-                    "label": "津吹羅尾崎",
+                    "label": "南北弐町肆段〈至于西小谷〉（花押）",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/c49ec939d979aea828c626555a72a5ba",
+                                    "@id": "https://shoen.netlify.app/item/bfa609c90f387315ce3268f9efcee280",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7183,7191,416,524",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=18149,6474,3261,1263",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c49ec939d979aea828c626555a72a5ba\">c49ec939d979aea828c626555a72a5ba</a> ]<br/>津吹羅尾崎",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/bfa609c90f387315ce3268f9efcee280\">bfa609c90f387315ce3268f9efcee280</a> ]<br/>南北弐町肆段〈至于西小谷〉（花押）",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -472,21 +472,75 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4954,10336,324,489",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=20350,4530,1052,2301",
                     "@type": "sc:Canvas",
-                    "label": "竹生嶋",
+                    "label": "東西壱町\n自小谷于\n至大井河流",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/c062b7597a6c588d4a2dc33ddb87987b",
+                                    "@id": "https://shoen.netlify.app/item/7f23c38ca19d7598bcfbdecd2eff38ce",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4954,10336,324,489",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=20350,4530,1052,2301",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c062b7597a6c588d4a2dc33ddb87987b\">c062b7597a6c588d4a2dc33ddb87987b</a> ]<br/>竹生嶋",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7f23c38ca19d7598bcfbdecd2eff38ce\">7f23c38ca19d7598bcfbdecd2eff38ce</a> ]<br/>東西壱町\n自小谷于\n至大井河流",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12236,12662,6786,2949",
+                    "@type": "sc:Canvas",
+                    "label": "嵯峨舎那院御領絵図\n建永二年八月十六日",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/0698712156c8639e8267612959cc5b52",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12236,12662,6786,2949",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/0698712156c8639e8267612959cc5b52\">0698712156c8639e8267612959cc5b52</a> ]<br/>嵯峨舎那院御領絵図\n建永二年八月十六日",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=9224,15839,1304,1430",
+                    "@type": "sc:Canvas",
+                    "label": "紙継目裏花押八顆あり",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://shoen.netlify.app/item/fafd0253786493db6b9ac67910dfd17c",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=9224,15839,1304,1430",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/fafd0253786493db6b9ac67910dfd17c\">fafd0253786493db6b9ac67910dfd17c</a> ]<br/>紙継目裏花押八顆あり",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -500,7 +554,7 @@
                 }
             ],
             "within": {
-                "@id": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
+                "@id": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
                 "@type": "sc:Manifest",
                 "label": ""
             }

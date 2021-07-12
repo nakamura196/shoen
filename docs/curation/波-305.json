@@ -3,31 +3,31 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "@id": "https://nakamura196.github.io/shoen/curation/波-305.json",
     "@type": "cr:Curation",
     "label": "",
     "selections": [
         {
-            "@id": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json/range",
+            "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json/range",
             "@type": "sc:Range",
             "label": "",
             "members": [
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=753,4401,628,833",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3429,3636,437,481",
                     "@type": "sc:Canvas",
-                    "label": "峯堂",
+                    "label": "大路",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/accae3f8c86a6749ac872f1c113b7a78",
+                                    "@id": "https://shoen.netlify.app/item/e63429afb6c2f568b7875c486a6cff4f",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=753,4401,628,833",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3429,3636,437,481",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/accae3f8c86a6749ac872f1c113b7a78\">accae3f8c86a6749ac872f1c113b7a78</a> ]<br/>峯堂",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/e63429afb6c2f568b7875c486a6cff4f\">e63429afb6c2f568b7875c486a6cff4f</a> ]<br/>大路",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -40,21 +40,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=1713,5903,262,199",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3570,4148,1181,407",
                     "@type": "sc:Canvas",
-                    "label": "大崎",
+                    "label": "大河",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/36fd2f68a1c6978a0360e53214f80eba",
+                                    "@id": "https://shoen.netlify.app/item/4c6d0027751eccd93ad0461e79ac6e19",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=1713,5903,262,199",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3570,4148,1181,407",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/36fd2f68a1c6978a0360e53214f80eba\">36fd2f68a1c6978a0360e53214f80eba</a> ]<br/>大崎",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/4c6d0027751eccd93ad0461e79ac6e19\">4c6d0027751eccd93ad0461e79ac6e19</a> ]<br/>大河",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -67,21 +67,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=248,6942,427,449",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5112,3409,474,879",
                     "@type": "sc:Canvas",
-                    "label": "西",
+                    "label": "風社",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a7b32382071726a45b40ca627bb0823c",
+                                    "@id": "https://shoen.netlify.app/item/8fd3c075f7a477469058d38e4d69dc43",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=248,6942,427,449",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5112,3409,474,879",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a7b32382071726a45b40ca627bb0823c\">a7b32382071726a45b40ca627bb0823c</a> ]<br/>西",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/8fd3c075f7a477469058d38e4d69dc43\">8fd3c075f7a477469058d38e4d69dc43</a> ]<br/>風社",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -94,21 +94,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4446,13384,437,516",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=4658,3717,407,601",
                     "@type": "sc:Canvas",
-                    "label": "南",
+                    "label": "松井",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/7abe386d4ed8d782baf6003b7f0e09a3",
+                                    "@id": "https://shoen.netlify.app/item/804814ec65a810b636f992d1b7b276b9",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4446,13384,437,516",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=4658,3717,407,601",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7abe386d4ed8d782baf6003b7f0e09a3\">7abe386d4ed8d782baf6003b7f0e09a3</a> ]<br/>南",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/804814ec65a810b636f992d1b7b276b9\">804814ec65a810b636f992d1b7b276b9</a> ]<br/>松井",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -121,21 +121,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4948,73,442,411",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5559,2042,474,1326",
                     "@type": "sc:Canvas",
-                    "label": "北",
+                    "label": "深田川　新称門河是也",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/d616ddc6c89cbc0a54e90773e8f1230d",
+                                    "@id": "https://shoen.netlify.app/item/cc36f0c748e512e74e188da4b3e838ee",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4948,73,442,411",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5559,2042,474,1326",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/d616ddc6c89cbc0a54e90773e8f1230d\">d616ddc6c89cbc0a54e90773e8f1230d</a> ]<br/>北",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/cc36f0c748e512e74e188da4b3e838ee\">cc36f0c748e512e74e188da4b3e838ee</a> ]<br/>深田川　新称門河是也",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -148,21 +148,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5373,1373,428,1104",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5904,2417,625,843",
                     "@type": "sc:Canvas",
-                    "label": "大浦下庄",
+                    "label": "小川寺",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a33fb89aa679929ef5e41e71a4efb6fa",
+                                    "@id": "https://shoen.netlify.app/item/3adf23a27beb177ba080447532d86c41",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5373,1373,428,1104",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5904,2417,625,843",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/a33fb89aa679929ef5e41e71a4efb6fa\">a33fb89aa679929ef5e41e71a4efb6fa</a> ]<br/>大浦下庄",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3adf23a27beb177ba080447532d86c41\">3adf23a27beb177ba080447532d86c41</a> ]<br/>小川寺",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -175,21 +175,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5355,2796,197,334",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=1202,1771,662,742",
                     "@type": "sc:Canvas",
-                    "label": "神楊",
+                    "label": "松尾池",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f64da048a44e09603c5268dc1dbc2e99",
+                                    "@id": "https://shoen.netlify.app/item/b08ca18ba3cd225bdc0652f77241c68d",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5355,2796,197,334",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=1202,1771,662,742",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f64da048a44e09603c5268dc1dbc2e99\">f64da048a44e09603c5268dc1dbc2e99</a> ]<br/>神楊",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/b08ca18ba3cd225bdc0652f77241c68d\">b08ca18ba3cd225bdc0652f77241c68d</a> ]<br/>松尾池",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -202,21 +202,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5561,3378,243,284",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=766,770,1337,916",
                     "@type": "sc:Canvas",
-                    "label": "谷尾",
+                    "label": "小竹中尾",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/071fb7872519e047d95c84e99ef78717",
+                                    "@id": "https://shoen.netlify.app/item/86fd0e504bb751d31ebd3f243db20dac",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5561,3378,243,284",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=766,770,1337,916",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/071fb7872519e047d95c84e99ef78717\">071fb7872519e047d95c84e99ef78717</a> ]<br/>谷尾",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/86fd0e504bb751d31ebd3f243db20dac\">86fd0e504bb751d31ebd3f243db20dac</a> ]<br/>小竹中尾",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -229,21 +229,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=8962,2669,484,285",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=2225,1285,590,815",
                     "@type": "sc:Canvas",
-                    "label": "山田峯",
+                    "label": "小竹河",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/abd1fef9cb11878c5e45f1cb914c67a3",
+                                    "@id": "https://shoen.netlify.app/item/13d79fc5c20beb5265ba95dbc8cea247",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=8962,2669,484,285",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=2225,1285,590,815",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/abd1fef9cb11878c5e45f1cb914c67a3\">abd1fef9cb11878c5e45f1cb914c67a3</a> ]<br/>山田峯",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/13d79fc5c20beb5265ba95dbc8cea247\">13d79fc5c20beb5265ba95dbc8cea247</a> ]<br/>小竹河",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -256,21 +256,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6442,3631,1226,347",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3321,487,1439,945",
                     "@type": "sc:Canvas",
-                    "label": "菅浦与大浦下庄堺",
+                    "label": "北峯",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/dd258f7bb57cdc4f88a4d2ab7fe00de7",
+                                    "@id": "https://shoen.netlify.app/item/59a1462caebfd17805ddbff12d528132",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6442,3631,1226,347",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3321,487,1439,945",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/dd258f7bb57cdc4f88a4d2ab7fe00de7\">dd258f7bb57cdc4f88a4d2ab7fe00de7</a> ]<br/>菅浦与大浦下庄堺",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/59a1462caebfd17805ddbff12d528132\">59a1462caebfd17805ddbff12d528132</a> ]<br/>北峯",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -283,21 +283,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5234,4169,467,406",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=6979,986,426,859",
                     "@type": "sc:Canvas",
-                    "label": "赤崎",
+                    "label": "小河",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/3ab96260b505c3c676bb6ee7c2e631b9",
+                                    "@id": "https://shoen.netlify.app/item/285b7fe4071d7f3db15f8f8006872ae5",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5234,4169,467,406",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=6979,986,426,859",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/3ab96260b505c3c676bb6ee7c2e631b9\">3ab96260b505c3c676bb6ee7c2e631b9</a> ]<br/>赤崎",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/285b7fe4071d7f3db15f8f8006872ae5\">285b7fe4071d7f3db15f8f8006872ae5</a> ]<br/>小河",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -310,21 +310,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6537,4281,325,506",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=7454,831,493,959",
                     "@type": "sc:Canvas",
-                    "label": "菅浦",
+                    "label": "門川",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/96c8dcb598bc52867a44a2d1ed2867e5",
+                                    "@id": "https://shoen.netlify.app/item/26c3b56fcb84cc8d5e6d1b5027021252",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6537,4281,325,506",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=7454,831,493,959",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/96c8dcb598bc52867a44a2d1ed2867e5\">96c8dcb598bc52867a44a2d1ed2867e5</a> ]<br/>菅浦",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/26c3b56fcb84cc8d5e6d1b5027021252\">26c3b56fcb84cc8d5e6d1b5027021252</a> ]<br/>門川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -337,21 +337,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6562,4794,365,247",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=8344,1530,536,1544",
                     "@type": "sc:Canvas",
-                    "label": "諸河",
+                    "label": "井上庄絵図",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/be5d8ecf35d8a701fd5ffd1458b47b61",
+                                    "@id": "https://shoen.netlify.app/item/537d130ba968d04efa7bd897d11fa04b",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6562,4794,365,247",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=8344,1530,536,1544",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/be5d8ecf35d8a701fd5ffd1458b47b61\">be5d8ecf35d8a701fd5ffd1458b47b61</a> ]<br/>諸河",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/537d130ba968d04efa7bd897d11fa04b\">537d130ba968d04efa7bd897d11fa04b</a> ]<br/>井上庄絵図",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -364,21 +364,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6530,5229,370,274",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=2138,4623,2346,561",
                     "@type": "sc:Canvas",
-                    "label": "日差",
+                    "label": "南峯",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/9056dc9b78bd58c7449c5ea82c13a328",
+                                    "@id": "https://shoen.netlify.app/item/c013043f50b11109b4375689e9937784",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6530,5229,370,274",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=2138,4623,2346,561",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/9056dc9b78bd58c7449c5ea82c13a328\">9056dc9b78bd58c7449c5ea82c13a328</a> ]<br/>日差",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c013043f50b11109b4375689e9937784\">c013043f50b11109b4375689e9937784</a> ]<br/>南峯",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -391,102 +391,21 @@
                     ]
                 },
                 {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7485,3538,1136,2076",
+                    "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=1641,3133,468,1181",
                     "@type": "sc:Canvas",
-                    "label": "鉢伏山",
+                    "label": "上田井東境",
                     "metadata": [
                         {
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f7961a5dde42a77da5fc9860d1a6b37a",
+                                    "@id": "https://shoen.netlify.app/item/7bdfd0d958ecc47834c4d3e99e381d46",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7485,3538,1136,2076",
+                                    "on": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=1641,3133,468,1181",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/f7961a5dde42a77da5fc9860d1a6b37a\">f7961a5dde42a77da5fc9860d1a6b37a</a> ]<br/>鉢伏山",
-                                        "format": "text/html",
-                                        "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
-                                            "@type": "dctypes:Image"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=9024,7031,467,391",
-                    "@type": "sc:Canvas",
-                    "label": "東",
-                    "metadata": [
-                        {
-                            "label": "Annotation",
-                            "value": [
-                                {
-                                    "@id": "https://shoen.netlify.app/item/15d580cb4b99ad4e510873391b3ee0eb",
-                                    "@type": "oa:Annotation",
-                                    "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=9024,7031,467,391",
-                                    "resource": {
-                                        "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/15d580cb4b99ad4e510873391b3ee0eb\">15d580cb4b99ad4e510873391b3ee0eb</a> ]<br/>東",
-                                        "format": "text/html",
-                                        "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
-                                            "@type": "dctypes:Image"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7183,7191,416,524",
-                    "@type": "sc:Canvas",
-                    "label": "津吹羅尾崎",
-                    "metadata": [
-                        {
-                            "label": "Annotation",
-                            "value": [
-                                {
-                                    "@id": "https://shoen.netlify.app/item/c49ec939d979aea828c626555a72a5ba",
-                                    "@type": "oa:Annotation",
-                                    "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7183,7191,416,524",
-                                    "resource": {
-                                        "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c49ec939d979aea828c626555a72a5ba\">c49ec939d979aea828c626555a72a5ba</a> ]<br/>津吹羅尾崎",
-                                        "format": "text/html",
-                                        "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
-                                            "@type": "dctypes:Image"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4954,10336,324,489",
-                    "@type": "sc:Canvas",
-                    "label": "竹生嶋",
-                    "metadata": [
-                        {
-                            "label": "Annotation",
-                            "value": [
-                                {
-                                    "@id": "https://shoen.netlify.app/item/c062b7597a6c588d4a2dc33ddb87987b",
-                                    "@type": "oa:Annotation",
-                                    "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4954,10336,324,489",
-                                    "resource": {
-                                        "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/c062b7597a6c588d4a2dc33ddb87987b\">c062b7597a6c588d4a2dc33ddb87987b</a> ]<br/>竹生嶋",
+                                        "chars": "[ <a href=\"https://shoen.netlify.app/item/7bdfd0d958ecc47834c4d3e99e381d46\">7bdfd0d958ecc47834c4d3e99e381d46</a> ]<br/>上田井東境",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -500,7 +419,7 @@
                 }
             ],
             "within": {
-                "@id": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
+                "@id": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
                 "@type": "sc:Manifest",
                 "label": ""
             }

@@ -17,17 +17,7 @@ import geohash2
 from rdflib import URIRef, BNode, Literal, Graph
 from rdflib.namespace import RDF, RDFS, FOAF, XSD
 from rdflib import Namespace
-
-import argparse    # 1. argparseをインポート
-
-parser = argparse.ArgumentParser(description='このプログラムの説明（なくてもよい）')    # 2. パーサを作る
-
-# 3. parser.add_argumentで受け取る引数を追加していく
-parser.add_argument('label', help='この引数の説明（なくてもよい）') 
-
-args = parser.parse_args()    # 4. 引数を解析
-
-
+import glob
 
 f = open("../settings.yml", "r+")
 prefix = yaml.load(f, Loader=yaml.SafeLoader)["prefix"]
@@ -43,12 +33,6 @@ def handleManifest(cn, manifest):
     opath_anno = "item/{}/annolist.json".format(cn)
 
     if not os.path.exists(opath):
-
-        
-
-        print(manifest)
-        print(requests.get(manifest))
-        print(requests.get(manifest).content)
 
         m = requests.get(manifest).json()
 
@@ -74,7 +58,7 @@ def handleManifest(cn, manifest):
         
         a = requests.get(anno).json()
 
-        print(a)
+        # print(a)
 
         '''
         a = requests.get(anno).json()
@@ -119,109 +103,112 @@ def handleManifest(cn, manifest):
 
         annos.append(obj)
 
-    return annos, image
+    return annos, image, m["label"]
 
-cn = args.label
+files = glob.glob("item/*")
 
-settings2 = yaml.load(open("item/{}/settings.yml".format(cn), "r+"), Loader=yaml.SafeLoader)
+for file in files:
+    cn = file.split("/")[-1]
 
-manifest = settings2["manifest"]
+    settings2 = yaml.load(open("item/{}/settings.yml".format(cn), "r+"), Loader=yaml.SafeLoader)
 
-# image = settings2["image"]
+    manifest = settings2["manifest"]
+
+    # image = settings2["image"]
 
 
-annos, image = handleManifest(cn, manifest)
+    annos, image, m_label = handleManifest(cn, manifest)
 
-print(image)
+    print(image)
 
-### 要修正
-df = pd.read_excel("data/place.xlsx".format(cn), sheet_name=0, header=None, index_col=None, engine='openpyxl')
+    ### 要修正
+    df = pd.read_excel("data/place.xlsx".format(cn), sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
-r_count = len(df.index)
-c_count = len(df.columns)
+    r_count = len(df.index)
+    c_count = len(df.columns)
 
-rows = []
-rows.append(["uri", "dcterms:identifier", "ID", "description:架番号", "rdfs:label", "description:表記","schema:category","description:推定した国郡名等", "schema:description", "schema:longitude", "schema:latitude", "schema:geo^^uri", "xywh", "schema:url", "canvas", "schema:relatedLink", "schema:image", "schema:isPartOf^^uri"])
-
-map_ = {}
-
-for i in range(1, r_count):
-
-    cn2 = "{}-{}".format(df.iloc[i, 12],df.iloc[i, 13])
-
-    if not pd.isnull(df.iloc[i, 14]):
-        cn2  = "{}-{}".format(cn2, df.iloc[i, 14])
-
-    if cn2 != cn:
-        continue
-
-    label = df.iloc[i, 17]
-
-    map_[label] = {
-        "index": i,
-        "value": df
-    }
-
-hash_id = hashlib.md5(cn.encode()).hexdigest()
-
-manifest = prefix + "/iiif/" + hash_id + "/manifest.json"
-
-print("len(annos)", len(annos))
-
-for anno in annos:
-
-    label = anno["label"]
-
-    key = anno["key"]
-
-    canvas = anno["canvas"]
-
-    xywh = anno["xywh"]
-
-    member = canvas + "#xywh=" + xywh
-
-    category = anno["tag"] if "tag" in anno else ""
-
-    if key in map_:
-        obj = map_[key]
-        i  = obj["index"]
-        df = obj["value"]
-
-        assume = df.iloc[i, 18]
-        exp = df.iloc[i, 19]
-        kml = df.iloc[i, 20]
-        
-        text = kml.split("<coordinates>")[1].split(",0</coordinates>")[0].split(",")
-        lat = text[1]
-        long = text[0]
-        geohash = "http://geohash.org/" + (geohash2.encode(float(lat), float(long)))
-    else:
-        assume = ""
-        exp = ""
-        long = ""
-        lat = ""
-        geohash = ""
-
-    id = hashlib.md5((cn + member).encode('utf-8')).hexdigest()
-    
-
-    cn2 = cn
-
-    desc = label
-
-    thumbnail = image + "/" + xywh + "/200,/0/default.jpg"
-    
-    rows.append(["http://example.org/data/"+id, id, "", cn2, key, desc, category, assume, exp, long, lat, geohash, xywh, manifest, canvas, member, thumbnail, "http://example.org/data/"+cn])
-
-with open("item/{}/data.csv".format(cn), 'w') as f:
-    writer = csv.writer(f)
-    writer.writerows(rows)
-
-parent = "http://example.org/data/W23"
-
-with open("item/{}/row.csv".format(cn), 'w') as f:
     rows = []
-    rows.append(["uri", "dcterms:identifier", "rdfs:label", "schema:image", "schema:url", "description:curation", "temporal:label", "schema:temporal", "description:本文", "schema:spatial", "jps:sourceInfo"])
-    rows.append(["http://example.org/data/" + cn, cn, label, thumbnail, manifest, "https://nakamura196.github.io/soen/curation/"+cn+".json", "", "", "", "", parent])
-    writer = csv.writer(f)
-    writer.writerows(rows)
+    rows.append(["uri", "dcterms:identifier", "ID", "description:架番号", "rdfs:label", "description:表記","schema:category","description:推定した国郡名等", "schema:description", "schema:longitude", "schema:latitude", "schema:geo^^uri", "xywh", "schema:url", "canvas", "schema:relatedLink", "schema:image", "schema:isPartOf^^uri"])
+
+    map_ = {}
+
+    for i in range(1, r_count):
+
+        cn2 = "{}-{}".format(df.iloc[i, 12],df.iloc[i, 13])
+
+        if not pd.isnull(df.iloc[i, 14]):
+            cn2  = "{}-{}".format(cn2, df.iloc[i, 14])
+
+        if cn2 != cn:
+            continue
+
+        label = df.iloc[i, 17]
+
+        map_[label] = {
+            "index": i,
+            "value": df
+        }
+
+    hash_id = hashlib.md5(cn.encode()).hexdigest()
+
+    manifest = prefix + "/iiif/" + hash_id + "/manifest.json"
+
+    print("len(annos)", len(annos))
+
+    for anno in annos:
+
+        label = anno["label"]
+
+        key = anno["key"]
+
+        canvas = anno["canvas"]
+
+        xywh = anno["xywh"]
+
+        member = canvas + "#xywh=" + xywh
+
+        category = anno["tag"] if "tag" in anno else ""
+
+        if key in map_:
+            obj = map_[key]
+            i  = obj["index"]
+            df = obj["value"]
+
+            assume = df.iloc[i, 18]
+            exp = df.iloc[i, 19]
+            kml = df.iloc[i, 20]
+            
+            text = kml.split("<coordinates>")[1].split(",0</coordinates>")[0].split(",")
+            lat = text[1]
+            long = text[0]
+            geohash = "http://geohash.org/" + (geohash2.encode(float(lat), float(long)))
+        else:
+            assume = ""
+            exp = ""
+            long = ""
+            lat = ""
+            geohash = ""
+
+        id = hashlib.md5((cn + member).encode('utf-8')).hexdigest()
+        
+
+        cn2 = cn
+
+        desc = label
+
+        thumbnail = image + "/" + xywh + "/200,/0/default.jpg"
+        
+        rows.append(["http://example.org/data/"+id, id, "", cn2, key, desc, category, assume, exp, long, lat, geohash, xywh, manifest, canvas, member, thumbnail, "http://example.org/data/"+cn])
+
+    with open("item/{}/data.csv".format(cn), 'w') as f:
+        writer = csv.writer(f)
+        writer.writerows(rows)
+
+    parent = "http://example.org/data/W23"
+
+    with open("item/{}/row.csv".format(cn), 'w') as f:
+        rows = []
+        rows.append(["uri", "dcterms:identifier", "rdfs:label", "schema:image", "schema:url", "description:curation", "temporal:label", "schema:temporal", "description:本文", "schema:spatial", "jps:sourceInfo"])
+        rows.append(["http://example.org/data/" + cn, cn, m_label, thumbnail, manifest, "https://nakamura196.github.io/soen/curation/"+cn+".json", "", "", "", "", parent])
+        writer = csv.writer(f)
+        writer.writerows(rows)
