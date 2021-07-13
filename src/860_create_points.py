@@ -27,14 +27,9 @@ jgd2011_9 = pyproj.CRS("EPSG:3857")
 
 files = glob.glob("item/*/data.csv")
 
-r  = 1
-
-
+thres = 5000
 
 for file in files:
-
-    if "仁-108" not in file:
-        continue
 
     rows = []
     rows.append(["mapX","mapY","pixelX","pixelY"])
@@ -49,6 +44,15 @@ for file in files:
     width = canvas["width"]
     height = canvas["height"]
 
+    print(max(width, height))
+
+    r  = thres / max(width, height)
+
+    if r > 1:
+        r = 1
+
+    print(r)
+
     ##########
 
     values = []
@@ -60,10 +64,11 @@ for file in files:
 
             xywh = row[12].split(",")
 
-
-
             x = int(int(xywh[0]) + int(xywh[2]) / 2)
             y = int(int(xywh[1]) + int(xywh[3]) / 2)
+
+            # x = int(int(xywh[0]))
+            # y = int(int(xywh[1]))
 
             x = int(x * r)
             y = int(y * r)

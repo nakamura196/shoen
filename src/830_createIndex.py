@@ -55,6 +55,8 @@ for item in m:
                 "description" : [value["schema:description"]],
                 "表記" : [value["description:表記"]],
                 "架番号" : [value["description:架番号"]],
+                "latitude" : [value["schema:latitude"]],
+                "longitude" : [value["schema:longitude"]],
             }
 
             fulltext = ""
