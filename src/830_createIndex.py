@@ -51,7 +51,10 @@ for item in m:
                 "member" : value["schema:relatedLink"],
                 "curation" : "https://nakamura196.github.io/shoen/curation/{}.json".format(value["description:架番号"]),
                 "manifest" : value["schema:url"],
-                "_updated" : format(today, '%Y-%m-%d')
+                "_updated" : format(today, '%Y-%m-%d'),
+                "description" : [value["schema:description"]],
+                "表記" : [value["description:表記"]],
+                "架番号" : [value["description:架番号"]],
             }
 
             fulltext = ""
