@@ -21,13 +21,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f2bcb6ba6b690ab8aaa8d679ded0a6e0",
+                                    "@id": "https://hi-ut.github.io/shoen/item/f2bcb6ba6b690ab8aaa8d679ded0a6e0",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=14532,4216,604,2211",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/f2bcb6ba6b690ab8aaa8d679ded0a6e0\">寂楽寺領阿弖川庄</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/f2bcb6ba6b690ab8aaa8d679ded0a6e0\">寂楽寺領阿弖川庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -56,13 +56,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/8d00313fbc9ec9df121b0e04309bcdf2",
+                                    "@id": "https://hi-ut.github.io/shoen/item/8d00313fbc9ec9df121b0e04309bcdf2",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=12540,3558,861,2120",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/8d00313fbc9ec9df121b0e04309bcdf2\">辰巳牓示毛无原并阿弖川両庄境黒山峯</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/8d00313fbc9ec9df121b0e04309bcdf2\">辰巳牓示毛无原并阿弖川両庄境黒山峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -91,13 +91,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/2d94cad5607ecb88146aef7947112ec5",
+                                    "@id": "https://hi-ut.github.io/shoen/item/2d94cad5607ecb88146aef7947112ec5",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=12081,7357,1282,717",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/2d94cad5607ecb88146aef7947112ec5\">南境牓示阿弖川庄境黒山峯</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/2d94cad5607ecb88146aef7947112ec5\">南境牓示阿弖川庄境黒山峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -126,13 +126,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/d30ac77c8b1c5e69539eb66f90ef096b",
+                                    "@id": "https://hi-ut.github.io/shoen/item/d30ac77c8b1c5e69539eb66f90ef096b",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7918,1401,1638,545",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/d30ac77c8b1c5e69539eb66f90ef096b\">丹生社領毛无原</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/d30ac77c8b1c5e69539eb66f90ef096b\">丹生社領毛无原</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -161,13 +161,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/56d3c09e7697f88eff3882dbad742d29",
+                                    "@id": "https://hi-ut.github.io/shoen/item/56d3c09e7697f88eff3882dbad742d29",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8009,4255,589,407",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/56d3c09e7697f88eff3882dbad742d29\">猿川村</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/56d3c09e7697f88eff3882dbad742d29\">猿川村</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -196,13 +196,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/891ec647e108e84b41540aeb1a844bc4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/891ec647e108e84b41540aeb1a844bc4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9482,2499,715,379",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/891ec647e108e84b41540aeb1a844bc4\">岫峯</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/891ec647e108e84b41540aeb1a844bc4\">岫峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -231,13 +231,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/50d2fcd78787ad68603f33466eed52c5",
+                                    "@id": "https://hi-ut.github.io/shoen/item/50d2fcd78787ad68603f33466eed52c5",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8945,3008,1440,455",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/50d2fcd78787ad68603f33466eed52c5\">東境岫峯牓示</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/50d2fcd78787ad68603f33466eed52c5\">東境岫峯牓示</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -266,13 +266,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/141bc4dfca0675ed54908060b0de02c8",
+                                    "@id": "https://hi-ut.github.io/shoen/item/141bc4dfca0675ed54908060b0de02c8",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9652,4422,743,539",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/141bc4dfca0675ed54908060b0de02c8\">猿川</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/141bc4dfca0675ed54908060b0de02c8\">猿川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -301,13 +301,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/7d7868dbbd3c0183cdf9c3abdd630c63",
+                                    "@id": "https://hi-ut.github.io/shoen/item/7d7868dbbd3c0183cdf9c3abdd630c63",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7795,4865,922,426",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/7d7868dbbd3c0183cdf9c3abdd630c63\">尾切峯</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/7d7868dbbd3c0183cdf9c3abdd630c63\">尾切峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -336,13 +336,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a8029ccca59b9f831b31da06c1864c47",
+                                    "@id": "https://hi-ut.github.io/shoen/item/a8029ccca59b9f831b31da06c1864c47",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9171,6788,498,436",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/a8029ccca59b9f831b31da06c1864c47\">神野</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/a8029ccca59b9f831b31da06c1864c47\">神野</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -371,13 +371,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/303259074b3dba3f628bbd21fd822c77",
+                                    "@id": "https://hi-ut.github.io/shoen/item/303259074b3dba3f628bbd21fd822c77",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7550,5648,432,775",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/303259074b3dba3f628bbd21fd822c77\">津河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/303259074b3dba3f628bbd21fd822c77\">津河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -406,13 +406,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/ec21c9d159c08ec1a62f4b36e1e1cb55",
+                                    "@id": "https://hi-ut.github.io/shoen/item/ec21c9d159c08ec1a62f4b36e1e1cb55",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8290,6985,737,552",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/ec21c9d159c08ec1a62f4b36e1e1cb55\">熊野新宮</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/ec21c9d159c08ec1a62f4b36e1e1cb55\">熊野新宮</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,13 +441,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/3db39d8945a1fe3bb6487b0612aa7ee0",
+                                    "@id": "https://hi-ut.github.io/shoen/item/3db39d8945a1fe3bb6487b0612aa7ee0",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9727,7755,823,505",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/3db39d8945a1fe3bb6487b0612aa7ee0\">十三所大明神</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/3db39d8945a1fe3bb6487b0612aa7ee0\">十三所大明神</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -476,13 +476,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/54d4e01596110420b2d84c38c8abf5b4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/54d4e01596110420b2d84c38c8abf5b4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8360,8721,524,513",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/54d4e01596110420b2d84c38c8abf5b4\">粟田村</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/54d4e01596110420b2d84c38c8abf5b4\">粟田村</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -511,13 +511,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/c553bc2c73f34fc411f8b60f73f2fadc",
+                                    "@id": "https://hi-ut.github.io/shoen/item/c553bc2c73f34fc411f8b60f73f2fadc",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8926,9947,540,953",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/c553bc2c73f34fc411f8b60f73f2fadc\">神野河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/c553bc2c73f34fc411f8b60f73f2fadc\">神野河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -546,13 +546,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/9ab5e89b95f938a9a6e52c85adfbba87",
+                                    "@id": "https://hi-ut.github.io/shoen/item/9ab5e89b95f938a9a6e52c85adfbba87",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=6961,13177,3062,611",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/9ab5e89b95f938a9a6e52c85adfbba87\">五川混一流、其末云佐佐小河〈源有五名自其／流合下佐々子河一名也〉</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/9ab5e89b95f938a9a6e52c85adfbba87\">五川混一流、其末云佐佐小河〈源有五名自其／流合下佐々子河一名也〉</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -581,13 +581,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/4829f92e95f924be279cf7ad7f211cdc",
+                                    "@id": "https://hi-ut.github.io/shoen/item/4829f92e95f924be279cf7ad7f211cdc",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7173,13892,2575,501",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/4829f92e95f924be279cf7ad7f211cdc\">野上御庄延久四年官符云、東限佐々小河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/4829f92e95f924be279cf7ad7f211cdc\">野上御庄延久四年官符云、東限佐々小河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -616,13 +616,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/3377639e6e0a8e8dd55471474cafd6a9",
+                                    "@id": "https://hi-ut.github.io/shoen/item/3377639e6e0a8e8dd55471474cafd6a9",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=6864,12805,1654,324",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/3377639e6e0a8e8dd55471474cafd6a9\">野上御庄延久四年官符云、東限佐々小河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/3377639e6e0a8e8dd55471474cafd6a9\">野上御庄延久四年官符云、東限佐々小河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -651,13 +651,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/75101fedb61cbe1b319f60a344d1a24f",
+                                    "@id": "https://hi-ut.github.io/shoen/item/75101fedb61cbe1b319f60a344d1a24f",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7135,15736,3212,573",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/75101fedb61cbe1b319f60a344d1a24f\">佐々小河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/75101fedb61cbe1b319f60a344d1a24f\">佐々小河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -686,13 +686,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/b40d985c97b43c1d83cd5ea6cf700f29",
+                                    "@id": "https://hi-ut.github.io/shoen/item/b40d985c97b43c1d83cd5ea6cf700f29",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8599,15156,524,296",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/b40d985c97b43c1d83cd5ea6cf700f29\">佐々小村</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/b40d985c97b43c1d83cd5ea6cf700f29\">佐々小村</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -721,13 +721,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a59c728452521c617beef472d5ca1668",
+                                    "@id": "https://hi-ut.github.io/shoen/item/a59c728452521c617beef472d5ca1668",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=6438,12983,422,1224",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/a59c728452521c617beef472d5ca1668\">野上御庄号神野牓示所之木、但当時無銘</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/a59c728452521c617beef472d5ca1668\">野上御庄号神野牓示所之木、但当時無銘</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -756,13 +756,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/3a0f34b5639bf223329415293768b707",
+                                    "@id": "https://hi-ut.github.io/shoen/item/3a0f34b5639bf223329415293768b707",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7744,14493,337,1388",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/3a0f34b5639bf223329415293768b707\">八幡宮寺領野上御庄</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/3a0f34b5639bf223329415293768b707\">八幡宮寺領野上御庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -791,13 +791,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/735c4325f8a3e9645726f0eebce60d25",
+                                    "@id": "https://hi-ut.github.io/shoen/item/735c4325f8a3e9645726f0eebce60d25",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=12100,11928,969,621",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/735c4325f8a3e9645726f0eebce60d25\">中津河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/735c4325f8a3e9645726f0eebce60d25\">中津河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -826,13 +826,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/c4a318841359a4af408bdd078a3e4e7e",
+                                    "@id": "https://hi-ut.github.io/shoen/item/c4a318841359a4af408bdd078a3e4e7e",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=11129,10788,716,945",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/c4a318841359a4af408bdd078a3e4e7e\">牛防河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/c4a318841359a4af408bdd078a3e4e7e\">牛防河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -861,13 +861,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/bc0d79a5393a729de6dc12d912362c09",
+                                    "@id": "https://hi-ut.github.io/shoen/item/bc0d79a5393a729de6dc12d912362c09",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=12325,13125,758,523",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/bc0d79a5393a729de6dc12d912362c09\">西河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/bc0d79a5393a729de6dc12d912362c09\">西河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -896,13 +896,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/437bdf1a5c3c7dd8a7984a96c960b9db",
+                                    "@id": "https://hi-ut.github.io/shoen/item/437bdf1a5c3c7dd8a7984a96c960b9db",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=10112,11266,405,922",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/437bdf1a5c3c7dd8a7984a96c960b9db\">早飯河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/437bdf1a5c3c7dd8a7984a96c960b9db\">早飯河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -931,13 +931,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/42dacae53a1ff5595cfea67a9653dd0c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/42dacae53a1ff5595cfea67a9653dd0c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=5973,9451,561,1386",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/42dacae53a1ff5595cfea67a9653dd0c\">真国川</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/42dacae53a1ff5595cfea67a9653dd0c\">真国川</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -966,13 +966,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/93fc12a8020f332f75602835518d1a13",
+                                    "@id": "https://hi-ut.github.io/shoen/item/93fc12a8020f332f75602835518d1a13",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=2840,2278,690,2269",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/93fc12a8020f332f75602835518d1a13\">艮牓示藤多和西去拾町餘、立加天波山横峯比曽原</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/93fc12a8020f332f75602835518d1a13\">艮牓示藤多和西去拾町餘、立加天波山横峯比曽原</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1001,13 +1001,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/10aa9d11fdd2f1561c7272b884b94e7e",
+                                    "@id": "https://hi-ut.github.io/shoen/item/10aa9d11fdd2f1561c7272b884b94e7e",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=2622,526,1980,1102",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/10aa9d11fdd2f1561c7272b884b94e7e\">鞆渕御薗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/10aa9d11fdd2f1561c7272b884b94e7e\">鞆渕御薗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1036,13 +1036,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/205b86ac2867de7443f0e4278c023032",
+                                    "@id": "https://hi-ut.github.io/shoen/item/205b86ac2867de7443f0e4278c023032",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=4852,5734,473,556",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/205b86ac2867de7443f0e4278c023032\">石走</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/205b86ac2867de7443f0e4278c023032\">石走</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1071,13 +1071,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/8b555b52613ac07dca75bc179024d0a7",
+                                    "@id": "https://hi-ut.github.io/shoen/item/8b555b52613ac07dca75bc179024d0a7",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=4694,7125,677,771",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/8b555b52613ac07dca75bc179024d0a7\">石走村</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/8b555b52613ac07dca75bc179024d0a7\">石走村</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1106,13 +1106,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/7f6f0cda37580727d63e547f2f951aec",
+                                    "@id": "https://hi-ut.github.io/shoen/item/7f6f0cda37580727d63e547f2f951aec",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=4343,8947,1209,1111",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/7f6f0cda37580727d63e547f2f951aec\">真国村</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/7f6f0cda37580727d63e547f2f951aec\">真国村</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1141,13 +1141,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/10abff9cecf806293d304d299f7a959b",
+                                    "@id": "https://hi-ut.github.io/shoen/item/10abff9cecf806293d304d299f7a959b",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8239,604,975,637",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/10abff9cecf806293d304d299f7a959b\">東</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/10abff9cecf806293d304d299f7a959b\">東</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1176,13 +1176,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a6dd1d97027d2f36aab3c6f1bdae8521",
+                                    "@id": "https://hi-ut.github.io/shoen/item/a6dd1d97027d2f36aab3c6f1bdae8521",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=2880,13062,1356,681",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/a6dd1d97027d2f36aab3c6f1bdae8521\">乾牓示向荒河御庄牓示立之</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/a6dd1d97027d2f36aab3c6f1bdae8521\">乾牓示向荒河御庄牓示立之</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1211,13 +1211,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/c4a2c93f02027eb9ce74b874a2798615",
+                                    "@id": "https://hi-ut.github.io/shoen/item/c4a2c93f02027eb9ce74b874a2798615",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=1336,13072,1288,628",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/c4a2c93f02027eb9ce74b874a2798615\">荒河御庄</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/c4a2c93f02027eb9ce74b874a2798615\">荒河御庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1246,13 +1246,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a3491773dac55724cd256e446f081fdb",
+                                    "@id": "https://hi-ut.github.io/shoen/item/a3491773dac55724cd256e446f081fdb",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=3529,5816,541,624",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/a3491773dac55724cd256e446f081fdb\">石走</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/a3491773dac55724cd256e446f081fdb\">石走</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1281,13 +1281,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/054c836d7cd8e6aa5a78d282f72f0cb1",
+                                    "@id": "https://hi-ut.github.io/shoen/item/054c836d7cd8e6aa5a78d282f72f0cb1",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=1942,16064,1406,373",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/054c836d7cd8e6aa5a78d282f72f0cb1\">貴志庄</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/054c836d7cd8e6aa5a78d282f72f0cb1\">貴志庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1316,13 +1316,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/bad0a599d0d1d99d5e1728146c4d9632",
+                                    "@id": "https://hi-ut.github.io/shoen/item/bad0a599d0d1d99d5e1728146c4d9632",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=847,8244,604,1410",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/bad0a599d0d1d99d5e1728146c4d9632\">荒河御庄</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/bad0a599d0d1d99d5e1728146c4d9632\">荒河御庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1351,13 +1351,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/e9ae555a1c52568c1f321c25cdac9b0a",
+                                    "@id": "https://hi-ut.github.io/shoen/item/e9ae555a1c52568c1f321c25cdac9b0a",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9784,13918,385,643",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/e9ae555a1c52568c1f321c25cdac9b0a\">星河</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/e9ae555a1c52568c1f321c25cdac9b0a\">星河</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1386,13 +1386,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/61c9384704d8b4edb9b193c1ae5ea84c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/61c9384704d8b4edb9b193c1ae5ea84c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=5294,1842,2487,839",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/61c9384704d8b4edb9b193c1ae5ea84c\">加天波横峯猿首牓示</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/61c9384704d8b4edb9b193c1ae5ea84c\">加天波横峯猿首牓示</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1421,13 +1421,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/4f67c6f1aaf7fb2136f0526fe04e64d4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/4f67c6f1aaf7fb2136f0526fe04e64d4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=2460,12686,989,599",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/4f67c6f1aaf7fb2136f0526fe04e64d4\">伯父峯</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/4f67c6f1aaf7fb2136f0526fe04e64d4\">伯父峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1456,13 +1456,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/929f9b004f267c7a39e830a73ec4ebd2",
+                                    "@id": "https://hi-ut.github.io/shoen/item/929f9b004f267c7a39e830a73ec4ebd2",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=13375,7854,446,871",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/929f9b004f267c7a39e830a73ec4ebd2\">志加良横峯</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/929f9b004f267c7a39e830a73ec4ebd2\">志加良横峯</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1491,13 +1491,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/7251538e9425b0bbdb11ef0829bae2d0",
+                                    "@id": "https://hi-ut.github.io/shoen/item/7251538e9425b0bbdb11ef0829bae2d0",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=11873,561,3243,1449",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/7251538e9425b0bbdb11ef0829bae2d0\">（裏書） 「紀伊国神野真国御庄絵図&lt;康治二年五月廿五日立券&gt;」 「案料」 「南牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「巽牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「西　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散　位紀朝臣（花押）　御使公文左史生牓（花押）」 「御庄公文僧僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位　紀朝臣（花押）　御使公文左史生牓（花押）」 「乾牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左牓牓牓（花押）」 「（御使公文某花押）」 「艮牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「東境猿首牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「岫峯牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/7251538e9425b0bbdb11ef0829bae2d0\">（裏書） 「紀伊国神野真国御庄絵図&lt;康治二年五月廿五日立券&gt;」 「案料」 「南牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「巽牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「西　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散　位紀朝臣（花押）　御使公文左史生牓（花押）」 「御庄公文僧僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位　紀朝臣（花押）　御使公文左史生牓（花押）」 「乾牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左牓牓牓（花押）」 「（御使公文某花押）」 「艮牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「東境猿首牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」 「岫峯牓示　御庄公文僧（花押）　下司僧（花押）　国使郡司散位秦宿禰（花押）　散位紀朝臣（花押）　御使公文左史生牓（花押）」</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",

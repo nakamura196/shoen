@@ -21,13 +21,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/8b209137b4cc9b7de8548b5f2fb49460",
+                                    "@id": "https://hi-ut.github.io/shoen/item/8b209137b4cc9b7de8548b5f2fb49460",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=8203,1551,3161,759",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/8b209137b4cc9b7de8548b5f2fb49460\">乙木庄</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/8b209137b4cc9b7de8548b5f2fb49460\">乙木庄</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -56,13 +56,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/8c731348a21b4fb9e858dc5751112b73",
+                                    "@id": "https://hi-ut.github.io/shoen/item/8c731348a21b4fb9e858dc5751112b73",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=620,18536,2299,2380",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/8c731348a21b4fb9e858dc5751112b73\">十一条七里七坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/8c731348a21b4fb9e858dc5751112b73\">十一条七里七坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -91,13 +91,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/b420975b0e99f5a0ab76b5637489f7eb",
+                                    "@id": "https://hi-ut.github.io/shoen/item/b420975b0e99f5a0ab76b5637489f7eb",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3018,18516,2338,2438",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/b420975b0e99f5a0ab76b5637489f7eb\">十二条七里十二坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/b420975b0e99f5a0ab76b5637489f7eb\">十二条七里十二坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -126,13 +126,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/2f74581d17a9f557d5e8bcc0e2176dfb",
+                                    "@id": "https://hi-ut.github.io/shoen/item/2f74581d17a9f557d5e8bcc0e2176dfb",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5453,18574,2338,2323",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/2f74581d17a9f557d5e8bcc0e2176dfb\">十二条七里十一坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/2f74581d17a9f557d5e8bcc0e2176dfb\">十二条七里十一坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -161,13 +161,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/4a3520bba67c9737b51771421a06b8e7",
+                                    "@id": "https://hi-ut.github.io/shoen/item/4a3520bba67c9737b51771421a06b8e7",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7870,18632,2299,2323",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/4a3520bba67c9737b51771421a06b8e7\">十二条七里十坪　高繩手　内山後藤次二斗、地子田三斗代</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/4a3520bba67c9737b51771421a06b8e7\">十二条七里十坪　高繩手　内山後藤次二斗、地子田三斗代</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -196,13 +196,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/0d1054a7472a8a3d9515c9d56eb4c5d7",
+                                    "@id": "https://hi-ut.github.io/shoen/item/0d1054a7472a8a3d9515c9d56eb4c5d7",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10267,18689,2319,2303",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/0d1054a7472a8a3d9515c9d56eb4c5d7\">十二条七里九坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/0d1054a7472a8a3d9515c9d56eb4c5d7\">十二条七里九坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -231,13 +231,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/6ff2a7303eb110d49109f1d3342c65c3",
+                                    "@id": "https://hi-ut.github.io/shoen/item/6ff2a7303eb110d49109f1d3342c65c3",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12703,18670,2299,2323",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/6ff2a7303eb110d49109f1d3342c65c3\">十二条七里八坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/6ff2a7303eb110d49109f1d3342c65c3\">十二条七里八坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -266,13 +266,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/668bf58af917cb2eb32cb39f80c04f79",
+                                    "@id": "https://hi-ut.github.io/shoen/item/668bf58af917cb2eb32cb39f80c04f79",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=582,16215,2357,2208",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/668bf58af917cb2eb32cb39f80c04f79\">十一条七里十八坪 留河　 （合点）後平三　三斗　 （合点）禅勝　三斗　 (合点）藤内　二斗 ○後藤次　壱年五升 ○増勝　三斗 一段売了</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/668bf58af917cb2eb32cb39f80c04f79\">十一条七里十八坪 留河　 （合点）後平三　三斗　 （合点）禅勝　三斗　 (合点）藤内　二斗 ○後藤次　壱年五升 ○増勝　三斗 一段売了</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -301,13 +301,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f93bd302e5e1325f8b5cc58f3b63abbf",
+                                    "@id": "https://hi-ut.github.io/shoen/item/f93bd302e5e1325f8b5cc58f3b63abbf",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3000,16244,2363,2208",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/f93bd302e5e1325f8b5cc58f3b63abbf\">十二条七里十三坪 西木殿之脇　ハミツカト云 他領　白毫寺領　二反地子田一石五斗 新薬師領　内山領二反　 ○二反預所名　四斗　作目　 ○一反預所名　鶴太郎　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/f93bd302e5e1325f8b5cc58f3b63abbf\">十二条七里十三坪 西木殿之脇　ハミツカト云 他領　白毫寺領　二反地子田一石五斗 新薬師領　内山領二反　 ○二反預所名　四斗　作目　 ○一反預所名　鶴太郎　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -336,13 +336,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/385a893348edf5f9f626a4b84435d9a4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/385a893348edf5f9f626a4b84435d9a4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12665,16253,2319,2323",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/385a893348edf5f9f626a4b84435d9a4\">十二条七里十七坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/385a893348edf5f9f626a4b84435d9a4\">十二条七里十七坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -371,13 +371,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/3d90073761028a2fd4fce1383eb1eb12",
+                                    "@id": "https://hi-ut.github.io/shoen/item/3d90073761028a2fd4fce1383eb1eb12",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10306,16292,2242,2246",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/3d90073761028a2fd4fce1383eb1eb12\">十二条七里十六坪 西柚窪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/3d90073761028a2fd4fce1383eb1eb12\">十二条七里十六坪 西柚窪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -406,13 +406,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/954658649567daa0895e7a18043ca730",
+                                    "@id": "https://hi-ut.github.io/shoen/item/954658649567daa0895e7a18043ca730",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7908,16253,2261,2246",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/954658649567daa0895e7a18043ca730\">十二条七里十五坪 不軽屋　 　 三反　菩提山領 八幡御分　（合点）二反　後平三　二斗 内山御分　○後藤次　一斗五升 内山御分　三反　増勝　二斗 内山御分　○目二斗五升 松尾領</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/954658649567daa0895e7a18043ca730\">十二条七里十五坪 不軽屋　 　 三反　菩提山領 八幡御分　（合点）二反　後平三　二斗 内山御分　○後藤次　一斗五升 内山御分　三反　増勝　二斗 内山御分　○目二斗五升 松尾領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -441,13 +441,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/58a0113db3af9a4e849ec725e2e3abd2",
+                                    "@id": "https://hi-ut.github.io/shoen/item/58a0113db3af9a4e849ec725e2e3abd2",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5453,16234,2338,2246",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/58a0113db3af9a4e849ec725e2e3abd2\">十二条七里十四坪 三段田　云北不軽野 白毫寺領 ○目　三斗 職事田 （合点）「後平三　三斗七升 ○庄司　二斗 ○預所名 良実一斗 ○二反平太郎　六斗 （合点）藤内　一斗 （合点）善縁　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/58a0113db3af9a4e849ec725e2e3abd2\">十二条七里十四坪 三段田　云北不軽野 白毫寺領 ○目　三斗 職事田 （合点）「後平三　三斗七升 ○庄司　二斗 ○預所名 良実一斗 ○二反平太郎　六斗 （合点）藤内　一斗 （合点）善縁　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -476,13 +476,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/79564a5e6f5e36636d58f766da28949c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/79564a5e6f5e36636d58f766da28949c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=582,13798,2415,2323",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/79564a5e6f5e36636d58f766da28949c\">十一条七里十九坪 平太郎　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/79564a5e6f5e36636d58f766da28949c\">十一条七里十九坪 平太郎　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -511,13 +511,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/edb2c411f5dd8d423193350ffe1ee59b",
+                                    "@id": "https://hi-ut.github.io/shoen/item/edb2c411f5dd8d423193350ffe1ee59b",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3018,13759,2338,2361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/edb2c411f5dd8d423193350ffe1ee59b\">十二条七里廿四坪 ○増教　一斗 ○良仏　一斗 ○二反　庄司　二斗 木殿之脇　又云北脇田 下司名二斗 三反他領 （合点）禅勝　三斗 　○良仏　 三斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/edb2c411f5dd8d423193350ffe1ee59b\">十二条七里廿四坪 ○増教　一斗 ○良仏　一斗 ○二反　庄司　二斗 木殿之脇　又云北脇田 下司名二斗 三反他領 （合点）禅勝　三斗 　○良仏　 三斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -546,13 +546,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/cf2d5a39c4e1cfea22d8968a317be4ff",
+                                    "@id": "https://hi-ut.github.io/shoen/item/cf2d5a39c4e1cfea22d8968a317be4ff",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5473,13740,2338,2419",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/cf2d5a39c4e1cfea22d8968a317be4ff\">十二条七里廿三坪 脇田　又云南脇田 　 他領 　（合点）善縁　一斗五升 ○増勝　七升 （合点）後平太　二斗 （合点）後平太　二斗　 (合点）後平太佃　一石四斗　瓜田売畢 （合点）藤五郎　一斗五升 ウセチト云 ○平太郎佃　一石四升</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/cf2d5a39c4e1cfea22d8968a317be4ff\">十二条七里廿三坪 脇田　又云南脇田 　 他領 　（合点）善縁　一斗五升 ○増勝　七升 （合点）後平太　二斗 （合点）後平太　二斗　 (合点）後平太佃　一石四斗　瓜田売畢 （合点）藤五郎　一斗五升 ウセチト云 ○平太郎佃　一石四升</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -581,13 +581,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/1291ef56681dd90255e4a61133c4a8d1",
+                                    "@id": "https://hi-ut.github.io/shoen/item/1291ef56681dd90255e4a61133c4a8d1",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7878,13804,2292,2379",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/1291ef56681dd90255e4a61133c4a8d1\">十二条七里廿二坪 八段田 （合点）二斗五升　預所名　目 （合点）二斗五升　預所名　慶願 二反　四段他領 （合点）楢丸　二斗 ○後藤次佃　一石四斗 ○増勝佃　一石四斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/1291ef56681dd90255e4a61133c4a8d1\">十二条七里廿二坪 八段田 （合点）二斗五升　預所名　目 （合点）二斗五升　預所名　慶願 二反　四段他領 （合点）楢丸　二斗 ○後藤次佃　一石四斗 ○増勝佃　一石四斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -616,13 +616,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/61e880cbcf2f82d93f01592d3f5cb920",
+                                    "@id": "https://hi-ut.github.io/shoen/item/61e880cbcf2f82d93f01592d3f5cb920",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10272,13791,2299,2399",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/61e880cbcf2f82d93f01592d3f5cb920\">十二条七里廿一坪 中柚窪 一反目　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/61e880cbcf2f82d93f01592d3f5cb920\">十二条七里廿一坪 中柚窪 一反目　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -651,13 +651,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/41d18d9f69b6b886f1e4daa2f349f055",
+                                    "@id": "https://hi-ut.github.io/shoen/item/41d18d9f69b6b886f1e4daa2f349f055",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12722,13779,2280,2361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/41d18d9f69b6b886f1e4daa2f349f055\">十二条七里廿坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/41d18d9f69b6b886f1e4daa2f349f055\">十二条七里廿坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -686,13 +686,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/b7c5e5290aece26f121e158fe6087ed7",
+                                    "@id": "https://hi-ut.github.io/shoen/item/b7c5e5290aece26f121e158fe6087ed7",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12722,11363,2299,2303",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/b7c5e5290aece26f121e158fe6087ed7\">十二条七□□□□[里廿九坪] 鳥脚 （合点）藤内　一斗五升 ○良仏　一斗五升 他領 増教　一斗 （合点）三反　四郎　三斗 　他領　 　○戒真　一斗 　○増勝　一斗五升</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/b7c5e5290aece26f121e158fe6087ed7\">十二条七□□□□[里廿九坪] 鳥脚 （合点）藤内　一斗五升 ○良仏　一斗五升 他領 増教　一斗 （合点）三反　四郎　三斗 　他領　 　○戒真　一斗 　○増勝　一斗五升</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -721,13 +721,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/4d6a9a7950487e05213fe08718ac80c0",
+                                    "@id": "https://hi-ut.github.io/shoen/item/4d6a9a7950487e05213fe08718ac80c0",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10271,11379,2329,2279",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/4d6a9a7950487e05213fe08718ac80c0\">十二条七里廿八坪　東柚窪 二反　他領</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/4d6a9a7950487e05213fe08718ac80c0\">十二条七里廿八坪　東柚窪 二反　他領</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -756,13 +756,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/6388b1437be183ad5151c17664ef78e4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/6388b1437be183ad5151c17664ef78e4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7887,11339,2222,2359",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/6388b1437be183ad5151c17664ef78e4\">十二条七里廿七坪　石田 （合点）善縁　八斗　 （合点）藤内　二斗 （合点）二反　下司名 （合点）後平三　四斗 　二反　他領 　職事田 　他領　 　（合点）藤内　佃一石四斗　 　（合点）四郎　佃一石四斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/6388b1437be183ad5151c17664ef78e4\">十二条七里廿七坪　石田 （合点）善縁　八斗　 （合点）藤内　二斗 （合点）二反　下司名 （合点）後平三　四斗 　二反　他領 　職事田 　他領　 　（合点）藤内　佃一石四斗　 　（合点）四郎　佃一石四斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -791,13 +791,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/acc69e2d87d455e7d3595349d24bb98a",
+                                    "@id": "https://hi-ut.github.io/shoen/item/acc69e2d87d455e7d3595349d24bb98a",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5449,11366,2329,2306",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/acc69e2d87d455e7d3595349d24bb98a\">十二条七里廿六坪　於土呂 　 二反　他領 　（合点）預所名　弥平次入道　一斗七升五合 　 ○目　一斗五升 他領　 　 ○善学　二斗　 　（合点）楢丸　二斗七升 　（合点）藤五郎　一斗 　（合点）預所名　後平三　一斗七升五合 ○善学　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/acc69e2d87d455e7d3595349d24bb98a\">十二条七里廿六坪　於土呂 　 二反　他領 　（合点）預所名　弥平次入道　一斗七升五合 　 ○目　一斗五升 他領　 　 ○善学　二斗　 　（合点）楢丸　二斗七升 　（合点）藤五郎　一斗 　（合点）預所名　後平三　一斗七升五合 ○善学　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -826,13 +826,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/1206c7a18d9403df02c2aa623da57bf4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/1206c7a18d9403df02c2aa623da57bf4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3079,11352,2302,2306",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/1206c7a18d9403df02c2aa623da57bf4\">十二条七里廿五坪　曾根田　西五反　他領 　○戒真　三斗　 　二反　地子田売了　 　（合点）楢丸　二斗 　○目佃　一石四斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/1206c7a18d9403df02c2aa623da57bf4\">十二条七里廿五坪　曾根田　西五反　他領 　○戒真　三斗　 　二反　地子田売了　 　（合点）楢丸　二斗 　○目佃　一石四斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -861,13 +861,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/5fb036a566e0d92ca9f592c2c896fe8c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/5fb036a566e0d92ca9f592c2c896fe8c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=678,11427,2261,2188",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/5fb036a566e0d92ca9f592c2c896fe8c\">十一条七里卅</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/5fb036a566e0d92ca9f592c2c896fe8c\">十一条七里卅</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -896,13 +896,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/89ae8ddc6e471f3d88436321ac320d7a",
+                                    "@id": "https://hi-ut.github.io/shoen/item/89ae8ddc6e471f3d88436321ac320d7a",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=563,8903,2395,2399",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/89ae8ddc6e471f3d88436321ac320d7a\">十一条七里卅一坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/89ae8ddc6e471f3d88436321ac320d7a\">十一条七里卅一坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -931,13 +931,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/4362d284088a6b2c633e777cbc2a998c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/4362d284088a6b2c633e777cbc2a998c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3075,8846,2357,2399",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/4362d284088a6b2c633e777cbc2a998c\">十二条七里卅六坪 一持 （合点）下司田　一斗 （合点）後平三　三斗 ○善学　一斗七升 ○二反　庄司　三斗四升 （合点）下司名　二斗 （合点）後平太　一斗 ○預所名　回行　一斗五升 ○平太郎　一斗 （合点）藤内　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/4362d284088a6b2c633e777cbc2a998c\">十二条七里卅六坪 一持 （合点）下司田　一斗 （合点）後平三　三斗 ○善学　一斗七升 ○二反　庄司　三斗四升 （合点）下司名　二斗 （合点）後平太　一斗 ○預所名　回行　一斗五升 ○平太郎　一斗 （合点）藤内　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -966,13 +966,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/18928abe3fbf80e1951852bba95d28bd",
+                                    "@id": "https://hi-ut.github.io/shoen/item/18928abe3fbf80e1951852bba95d28bd",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5482,8897,2318,2366",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/18928abe3fbf80e1951852bba95d28bd\">十二条七里卅五坪 佃坪 　 ○良仏　佃　一石四斗 　 ○庄司　佃　一石四斗 ○善学　佃　一石四斗 ○増教　佃　一石四斗 ○預所名　佃　庄司作一石四斗 （合点）後平三　佃　一石四斗 （合点）下司名　佃　一石四斗 （合点）禅勝　佃　一石四斗 （合点）善縁　佃　一石四斗 ○良仏　二枝　地子七升</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/18928abe3fbf80e1951852bba95d28bd\">十二条七里卅五坪 佃坪 　 ○良仏　佃　一石四斗 　 ○庄司　佃　一石四斗 ○善学　佃　一石四斗 ○増教　佃　一石四斗 ○預所名　佃　庄司作一石四斗 （合点）後平三　佃　一石四斗 （合点）下司名　佃　一石四斗 （合点）禅勝　佃　一石四斗 （合点）善縁　佃　一石四斗 ○良仏　二枝　地子七升</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1001,13 +1001,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/eab62f03095eba11ca92091be761e7dc",
+                                    "@id": "https://hi-ut.github.io/shoen/item/eab62f03095eba11ca92091be761e7dc",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7890,8920,2262,2322",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/eab62f03095eba11ca92091be761e7dc\">十二条七里卅四坪 三河垣内</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/eab62f03095eba11ca92091be761e7dc\">十二条七里卅四坪 三河垣内</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1036,13 +1036,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/7752b9ed214c3626200d3122928bef82",
+                                    "@id": "https://hi-ut.github.io/shoen/item/7752b9ed214c3626200d3122928bef82",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10231,8905,2355,2386",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/7752b9ed214c3626200d3122928bef82\">十二条七里卅三坪 西辻 （合点）□反　善縁　五斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/7752b9ed214c3626200d3122928bef82\">十二条七里卅三坪 西辻 （合点）□反　善縁　五斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1071,13 +1071,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/02064d28cc012e939bfd698925bb26d2",
+                                    "@id": "https://hi-ut.github.io/shoen/item/02064d28cc012e939bfd698925bb26d2",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12646,8891,2319,2438",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/02064d28cc012e939bfd698925bb26d2\">十二条七里卅二坪 草カヘ</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/02064d28cc012e939bfd698925bb26d2\">十二条七里卅二坪 草カヘ</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1106,13 +1106,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/8435f1eee131f657cbba3b10c910b104",
+                                    "@id": "https://hi-ut.github.io/shoen/item/8435f1eee131f657cbba3b10c910b104",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12626,6455,2415,2380",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/8435f1eee131f657cbba3b10c910b104\">十二条八里五坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/8435f1eee131f657cbba3b10c910b104\">十二条八里五坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1141,13 +1141,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/1a950f62f6d787816582bf8c84f24851",
+                                    "@id": "https://hi-ut.github.io/shoen/item/1a950f62f6d787816582bf8c84f24851",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10240,6478,2252,2383",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/1a950f62f6d787816582bf8c84f24851\">十二条八里三坪 三坪 （合点）禅勝屋敷　一反 （合点）禅勝公事田　七升 ○良仏屋敷 ○目屋敷 ○預所名　藤内作 ○平太郎屋敷 （合点）善縁屋敷 （合点）楢丸屋敷 （合点）下司名屋敷 ○増勝屋敷</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/1a950f62f6d787816582bf8c84f24851\">十二条八里三坪 三坪 （合点）禅勝屋敷　一反 （合点）禅勝公事田　七升 ○良仏屋敷 ○目屋敷 ○預所名　藤内作 ○平太郎屋敷 （合点）善縁屋敷 （合点）楢丸屋敷 （合点）下司名屋敷 ○増勝屋敷</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1176,13 +1176,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f8d58b7c2f63fde76c7bb50df78bc3b4",
+                                    "@id": "https://hi-ut.github.io/shoen/item/f8d58b7c2f63fde76c7bb50df78bc3b4",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7900,6509,2236,2293",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/f8d58b7c2f63fde76c7bb50df78bc3b4\">十二条八里三坪 三坪 （合点）禅勝屋敷　一反 （合点）禅勝公事田　七升 ○良仏屋敷 ○目屋敷 ○預所名　藤内作 ○平太郎屋敷 （合点）善縁屋敷 （合点）楢丸屋敷 （合点）下司名屋敷 ○増勝屋敷</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/f8d58b7c2f63fde76c7bb50df78bc3b4\">十二条八里三坪 三坪 （合点）禅勝屋敷　一反 （合点）禅勝公事田　七升 ○良仏屋敷 ○目屋敷 ○預所名　藤内作 ○平太郎屋敷 （合点）善縁屋敷 （合点）楢丸屋敷 （合点）下司名屋敷 ○増勝屋敷</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1211,13 +1211,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/4e660e0dcca7d4b928b23fe26d6a450c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/4e660e0dcca7d4b928b23fe26d6a450c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3037,6531,2299,2284",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/4e660e0dcca7d4b928b23fe26d6a450c\">十二条八里一坪 一坪 三反　他領 （合点）二反　四郎　六斗 （合点） 藤五郎　一斗 ○善学　一斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/4e660e0dcca7d4b928b23fe26d6a450c\">十二条八里一坪 一坪 三反　他領 （合点）二反　四郎　六斗 （合点） 藤五郎　一斗 ○善学　一斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1246,13 +1246,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/994fb8e36a3f80806f0c1982217c0536",
+                                    "@id": "https://hi-ut.github.io/shoen/item/994fb8e36a3f80806f0c1982217c0536",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5440,6478,2359,2314",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/994fb8e36a3f80806f0c1982217c0536\">十二条八里二坪 二坪　又云イテヤ本 ○後藤次屋敷 （合点）藤内屋敷 （合点）楢丸　佃　一石四斗 （合点）一反　善勝　一斗 ○一反　良仏　一斗 一反大　後藤次　一斗七升 （合点）二反　藤五郎　四斗 （合点）藤五郎屋敷</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/994fb8e36a3f80806f0c1982217c0536\">十二条八里二坪 二坪　又云イテヤ本 ○後藤次屋敷 （合点）藤内屋敷 （合点）楢丸　佃　一石四斗 （合点）一反　善勝　一斗 ○一反　良仏　一斗 一反大　後藤次　一斗七升 （合点）二反　藤五郎　四斗 （合点）藤五郎屋敷</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1281,13 +1281,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/f83eb190355c75e9d857370a8a1fc949",
+                                    "@id": "https://hi-ut.github.io/shoen/item/f83eb190355c75e9d857370a8a1fc949",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=586,6634,2335,2184",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/f83eb190355c75e9d857370a8a1fc949\">十一条八里六坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/f83eb190355c75e9d857370a8a1fc949\">十一条八里六坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1316,13 +1316,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/5edf573cfe305e2b766c42dbeac1629c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/5edf573cfe305e2b766c42dbeac1629c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=544,4199,2319,2361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/5edf573cfe305e2b766c42dbeac1629c\">十一条八里七坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/5edf573cfe305e2b766c42dbeac1629c\">十一条八里七坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1351,13 +1351,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/44a4830f4c923815f5ba49d8961ce791",
+                                    "@id": "https://hi-ut.github.io/shoen/item/44a4830f4c923815f5ba49d8961ce791",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=2941,4103,2395,2361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/44a4830f4c923815f5ba49d8961ce791\">十二条八里十二坪 宮前 （合点）藤五郎　佃　一石四斗</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/44a4830f4c923815f5ba49d8961ce791\">十二条八里十二坪 宮前 （合点）藤五郎　佃　一石四斗</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1386,13 +1386,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/81a8bf095bea0148e1917d0a071c87b5",
+                                    "@id": "https://hi-ut.github.io/shoen/item/81a8bf095bea0148e1917d0a071c87b5",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5434,4103,2319,2361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/81a8bf095bea0148e1917d0a071c87b5\">十二条八里十一坪 惣門&lt;床カ垣内&gt; ○庄司屋敷 ○増教屋敷 七反切　 ○善学　一斗四升 ○戒真　佃　一石四斗 平太郎　二斗五升</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/81a8bf095bea0148e1917d0a071c87b5\">十二条八里十一坪 惣門&lt;床カ垣内&gt; ○庄司屋敷 ○増教屋敷 七反切　 ○善学　一斗四升 ○戒真　佃　一石四斗 平太郎　二斗五升</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1421,13 +1421,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/0c93d7325233aaaee0bad956024210d1",
+                                    "@id": "https://hi-ut.github.io/shoen/item/0c93d7325233aaaee0bad956024210d1",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7812,4064,2357,2361",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/0c93d7325233aaaee0bad956024210d1\">十二条八里十坪 堂坪 　他領 　（合点）後平太屋敷 　 勝蓮　預所名屋敷 （合点）後平三屋敷 ○善学屋敷　一反　公事田分 ○三反切　一升</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/0c93d7325233aaaee0bad956024210d1\">十二条八里十坪 堂坪 　他領 　（合点）後平太屋敷 　 勝蓮　預所名屋敷 （合点）後平三屋敷 ○善学屋敷　一反　公事田分 ○三反切　一升</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1456,13 +1456,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/54ad499eff97da2367c857d486851616",
+                                    "@id": "https://hi-ut.github.io/shoen/item/54ad499eff97da2367c857d486851616",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10210,4045,2319,2303",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/54ad499eff97da2367c857d486851616\">十二条八里九坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/54ad499eff97da2367c857d486851616\">十二条八里九坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1491,13 +1491,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/267fbce62efc39604841c3d96d10a4f2",
+                                    "@id": "https://hi-ut.github.io/shoen/item/267fbce62efc39604841c3d96d10a4f2",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12607,4093,2376,2284",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/267fbce62efc39604841c3d96d10a4f2\">十二条八里八坪 大　増教　地子田</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/267fbce62efc39604841c3d96d10a4f2\">十二条八里八坪 大　増教　地子田</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1526,13 +1526,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/a02f965620f093dd50a7f81583ace307",
+                                    "@id": "https://hi-ut.github.io/shoen/item/a02f965620f093dd50a7f81583ace307",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12741,2961,2242,980",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/a02f965620f093dd50a7f81583ace307\">十二条八里十七坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/a02f965620f093dd50a7f81583ace307\">十二条八里十七坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1561,13 +1561,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/79ecf4333907e3de3ae2d2049d643d5c",
+                                    "@id": "https://hi-ut.github.io/shoen/item/79ecf4333907e3de3ae2d2049d643d5c",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10229,3057,2280,923",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/79ecf4333907e3de3ae2d2049d643d5c\">十二条八里十六坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/79ecf4333907e3de3ae2d2049d643d5c\">十二条八里十六坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1596,13 +1596,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/54789a491d0f3668b1230af5428d5563",
+                                    "@id": "https://hi-ut.github.io/shoen/item/54789a491d0f3668b1230af5428d5563",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7870,3076,2280,903",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/54789a491d0f3668b1230af5428d5563\">十二条八里十五坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/54789a491d0f3668b1230af5428d5563\">十二条八里十五坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1631,13 +1631,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/5e00544d6c58f73f6747803dfd894734",
+                                    "@id": "https://hi-ut.github.io/shoen/item/5e00544d6c58f73f6747803dfd894734",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5453,1830,2204,2188",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/5e00544d6c58f73f6747803dfd894734\">十二条八里十四坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/5e00544d6c58f73f6747803dfd894734\">十二条八里十四坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1666,13 +1666,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/28d41d7373d95f046e3b374ff523a001",
+                                    "@id": "https://hi-ut.github.io/shoen/item/28d41d7373d95f046e3b374ff523a001",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=2941,1830,2357,2188",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/28d41d7373d95f046e3b374ff523a001\">十二条八里十三坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/28d41d7373d95f046e3b374ff523a001\">十二条八里十三坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1701,13 +1701,13 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://shoen.netlify.app/item/00b215642440fa62dfea8627a53eecef",
+                                    "@id": "https://hi-ut.github.io/shoen/item/00b215642440fa62dfea8627a53eecef",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
                                     "on": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=544,1791,2299,2303",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"https://shoen.netlify.app/item/00b215642440fa62dfea8627a53eecef\">十一条八里十八坪</a>",
+                                        "chars": "<a href=\"https://hi-ut.github.io/shoen/item/00b215642440fa62dfea8627a53eecef\">十一条八里十八坪</a>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",

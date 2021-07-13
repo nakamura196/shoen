@@ -18,6 +18,7 @@ from rdflib import URIRef, BNode, Literal, Graph
 from rdflib.namespace import RDF, RDFS, FOAF, XSD
 from rdflib import Namespace
 import glob
+import datetime
 
 m = open("data/data2.json", 'r')
 m = json.load(m)
@@ -25,6 +26,8 @@ m = json.load(m)
 items = []
 
 map = {}
+
+today = datetime.datetime.now()
 
 for item in m:
     label = item["label"]
@@ -43,17 +46,25 @@ for item in m:
                 "label" :  value["rdfs:label"],
                 "objectID" : value["dcterms:identifier"],
                 "thumbnail" : value["schema:image"],
-                "category" : value["schema:category"],
-                "図" : map[value["description:架番号"]],
+                "category" : [value["schema:category"]],
+                "図" : [map[value["description:架番号"]]],
                 "member" : value["schema:relatedLink"],
                 "curation" : "https://nakamura196.github.io/shoen/curation/{}.json".format(value["description:架番号"]),
-                "manifest" : value["schema:url"]
-                }
+                "manifest" : value["schema:url"],
+                "_updated" : format(today, '%Y-%m-%d')
+            }
 
             fulltext = ""
 
             for key in obj:
-                fulltext += ", " + obj[key]
+                value = obj[key]
+                if type(value) is list:
+                    value = ", ".join(value)
+                fulltext += ", " + value
+
+            f2 = open("/Users/nakamurasatoru/git/d_hi/map/suikeichuzu/static/data/item/{}.json".format(obj["objectID"]), 'w')
+            json.dump(obj, f2, ensure_ascii=False, indent=4,
+                sort_keys=True, separators=(',', ': '))
 
             obj["fulltext"] = fulltext
 
